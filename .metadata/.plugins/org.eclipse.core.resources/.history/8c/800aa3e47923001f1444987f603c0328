@@ -1,0 +1,49 @@
+package com.mystore.utilities;
+
+import org.testng.ITestContext;
+import org.testng.ITestListener;
+
+import com.aventstack.extentreports.ExtentReports;
+import com.aventstack.extentreports.ExtentTest;
+import com.aventstack.extentreports.reporter.ExtentReporter;
+import com.aventstack.extentreports.reporter.ExtentSparkReporter;
+import com.aventstack.extentreports.reporter.configuration.Theme;
+
+public class ExtentListernerClass implements ITestListener {
+	
+	ExtentSparkReporter htmlReportr;
+	ExtentReports Reports;
+	ExtentTest test;
+	
+	
+	public void configureReport() {
+		
+		htmlReportr = new ExtentSparkReporter("ExtentListernetReportsDemo.html");
+		Reports = new ExtentReports();
+		Reports.attachReporter(htmlReportr);
+		
+		//add system information/environment info to reports
+		
+		Reports.setSystemInfo("Machine :", "LenvoL480");
+		Reports.setSystemInfo("OS", "Windows11");
+		Reports.setSystemInfo("Browser :", "Chrome");
+		Reports.setSystemInfo("User Name:", "Lahu");
+		
+		// configuration to change look and fell of report
+		
+		htmlReportr.config().setDocumentTitle("Extent Listerner Report Demo");
+		htmlReportr.config().setReportName("This Is My First report");
+		htmlReportr.config().setTheme(Theme.DARK);
+		
+		
+	}
+	
+	public void onStart(ITestContext Result) {
+		
+		configureReport();
+		
+		System.out.println("on Start method invoked");
+		
+	}
+
+}

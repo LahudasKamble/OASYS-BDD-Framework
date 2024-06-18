@@ -1,0 +1,64 @@
+package StepDefination;
+
+import io.cucumber.java.en.When;
+
+public class BusinessIgniteTvFlowSteps {
+	
+	
+	
+   @When("User click on Business Ignite TV product on product selection page")
+	public void user_click_on_business_ignite_tv_product_on_product_selection_page() 
+	{
+	   
+	}
+
+	@When("User Select the all manadatory dropdown fields on Launch sales flow popup and click on continue button")
+	public void user_select_the_all_manadatory_dropdown_fields_on_launch_sales_flow_popup_and_click_on_continue_button(io.cucumber.datatable.DataTable dataTable) 
+	{
+	   
+	}
+
+	@When("User add the Business Ignite TV package on package page and click on continue button")
+	public void user_add_the_business_ignite_tv_package_on_package_page_and_click_on_continue_button() 
+	{
+	   
+	}
+
+	@When("User add the Business Ignite Tv hardware on hardware page and click on continue button")
+	public void user_add_the_business_ignite_tv_hardware_on_hardware_page_and_click_on_continue_button() {
+	    // Write code here that turns the phrase above into concrete actions
+	    throw new io.cucumber.java.PendingException();
+	}
+
+	@When("User add the Business Ignite TV Feature  on afeature page and click on continue button")
+	public void user_add_the_business_ignite_tv_feature_on_afeature_page_and_click_on_continue_button() {
+	    // Write code here that turns the phrase above into concrete actions
+	    throw new io.cucumber.java.PendingException();
+	}
+
+	@When("User click on continue button on Thempack page")
+	public void user_click_on_continue_button_on_thempack_page() {
+	    // Write code here that turns the phrase above into concrete actions
+	    throw new io.cucumber.java.PendingException();
+	}
+
+	@When("User click on continue button on Channel page")
+	public void user_click_on_continue_button_on_channel_page() {
+	    // Write code here that turns the phrase above into concrete actions
+	    throw new io.cucumber.java.PendingException();
+	}
+
+	@When("User Click on Submit for Processing Disposition")
+	public void user_click_on_submit_for_processing_disposition() {
+	    // Write code here that turns the phrase above into concrete actions
+	    throw new io.cucumber.java.PendingException();
+	}
+
+	@When("User Click on the logout button on order confirmation page")
+	public void user_click_on_the_logout_button_on_order_confirmation_page() {
+	    // Write code here that turns the phrase above into concrete actions
+	    throw new io.cucumber.java.PendingException();
+	}
+
+
+}

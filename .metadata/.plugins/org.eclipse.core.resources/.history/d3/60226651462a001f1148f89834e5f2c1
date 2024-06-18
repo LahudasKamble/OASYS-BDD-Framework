@@ -1,0 +1,49 @@
+package PageObject;
+
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.support.FindBy;
+import org.openqa.selenium.support.PageFactory;
+
+public class AdvantageVoiceFlowPage {
+	
+	WebDriver ldriver;
+	
+	Logger logger = LogManager.getLogger(AdvantageVoiceFlowPage.class);
+	
+	public AdvantageVoiceFlowPage(WebDriver rdriver) {
+		
+		ldriver= rdriver;
+		
+	PageFactory.initElements(rdriver,this);
+	}
+	
+	@FindBy(xpath = "//input[@id='MainContent_dlBusiness_btnLink_4'")
+	WebElement clickonadvantagevoice;
+	
+	@FindBy (xpath = "//td[./span[normalize-space()='AV - Term Checked 3 (term1)']]//following-sibling::td//img[contains(@id,'MainContent_ctl00_dlPackageGroup_dlPackageList_0_imgbtnAdd_0')]")
+	WebElement clickonaddpackagebutton;
+	
+	@FindBy (xpath = "//td[./span[normalize-space()='AV LD New (FR5)']]//following-sibling::td//img[contains(@id,'MainContent_ctl00_dlLDPackageList_imgbtnAdd_0')]")
+	WebElement clickonaddLDpackagebutton;
+	
+	@FindBy (xpath = "//input[@id = 'MainContent_imgbtnContinue']")
+	WebElement continuebuttonpackagepage;
+	
+	@FindBy (xpath = "//input[@name ='ctl00$MainContent$ctl00$rpHardwareList$ctl01$ImgBtnRent']")
+	WebElement addbuttonHardwarepage;
+
+	@FindBy (xpath = "//input[@id = 'MainContent_imgbtnContinue']")
+	WebElement continuebuttonhardwarepage;
+
+	@FindBy (xpath = "// *[@id = 'MainContent_ctl00_dlstFeature_imgbtnAddDelete_4']")
+	WebElement Addbuttonfeaturepage;
+
+	@FindBy (xpath = "//input[@id = 'MainContent_imgbtnContinue']")
+	WebElement continuebuttonfeaturepage;
+	
+	
+
+}

@@ -1,0 +1,40 @@
+package StepDefination;
+
+import PageObject.AdvantageVoiceFlowPage;
+import io.cucumber.java.en.When;
+
+public class AdvantageVoiceFlowSteps extends BaseClass {
+	
+	@When("User click on Advantage Voice phone product on Product selection page")
+	public void user_click_on_advantage_voice_phone_product_on_product_selection_page() {
+	   
+		AdvantageVoice = new AdvantageVoiceFlowPage(driver);
+		AdvantageVoice.addbAdvantagevoiceproduct();
+		
+	}
+
+	@When("User add the Advantage Voice package and LD package and click on continue button")
+	public void user_add_the_advantage_voice_package_and_ld_package_and_click_on_continue_button(io.cucumber.datatable.DataTable dataTable) {
+	  
+		
+	}
+
+	@When("User add the Advantage Voice Hardware on hardware page and click on continue button")
+	public void user_add_the_advantage_voice_hardware_on_hardware_page_and_click_on_continue_button(io.cucumber.datatable.DataTable dataTable) {
+	   
+		
+	}
+
+	@When("User add the Advantafe voice feature and click on continue button")
+	public void user_add_the_advantafe_voice_feature_and_click_on_continue_button(io.cucumber.datatable.DataTable dataTable) {
+	   
+		
+	}
+
+	@When("User add the Advantage voice installation and without promotion on main shopping cart and click on checkout button")
+	public void user_add_the_advantage_voice_installation_and_without_promotion_on_main_shopping_cart_and_click_on_checkout_button(io.cucumber.datatable.DataTable dataTable) {
+	   
+		
+	}
+
+}

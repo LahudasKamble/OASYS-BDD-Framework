@@ -1,0 +1,92 @@
+package PageObject;
+
+import java.util.List;
+
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.support.FindBy;
+import org.openqa.selenium.support.PageFactory;
+import org.openqa.selenium.support.ui.Select;
+
+import StepDefination.BaseClass;
+
+public class BusinessIgniteTvFlowPage extends BaseClass {
+	
+	public WebDriver ldriver;
+	
+	Logger logger = LogManager.getLogger(BusinessIgniteTvFlowPage.class);
+	
+	public BusinessIgniteTvFlowPage(WebDriver rdriver) {
+		
+		ldriver = rdriver;
+		
+		PageFactory.initElements(rdriver, this);
+	}
+
+	@FindBy(xpath = "//input[@id ='MainContent_dlBusiness_btnLink_0']")
+	WebElement clickonBusinessIgniteTV;
+	
+	@FindBy(xpath = "//select[@id ='ddBusinessType']")
+	WebElement Businesstype;
+	
+	@FindBy(xpath = "//select[@id ='ddCustomerSubType']")
+	WebElement customersubtype;
+	
+	@FindBy(xpath = "//select[@id ='ddlLiquorLicense']")
+	WebElement liqurelicense;
+	
+	@FindBy (xpath = "//td[./span[normalize-space()='Ignite Business TV Essentials (Liquor) (PELF)']]//following-sibling::td//img[contains(@id,'_imgbtnAddDelete_')]")
+	WebElement addbuttononpackagepage;
+	
+	@FindBy(xpath = "//input[@id='MainContent_imgbtnContinue']")
+	WebElement clickoncontinuepackage;
+	
+	@FindBy (xpath = "//input[@name ='ctl00$MainContent$ctl00$rpHardwareList$ctl01$ImgBtnRent']")
+	WebElement addbuttonHardwarepage;
+	
+	@FindBy(xpath = "//input[@id='MainContent_imgbtnContinue']")
+	WebElement clickoncontinueHardware;
+	
+	@FindBy (xpath = "//*[@id ='MainContent_ctl00_dlstFeature_imgbtnAddDelete_0']")
+	WebElement addbuttonfeaturepage;
+	
+	@FindBy(xpath = "//input[@id='MainContent_imgbtnContinue']")
+	WebElement clickoncontinuefeature;
+	
+	@FindBy(xpath = "//input[@id='MainContent_imgbtnContinue']")
+	WebElement clickoncontinuethemepack;
+	
+	@FindBy(xpath = "//input[@id='MainContent_imgbtnContinue']")
+	WebElement clickoncontinuechannel;
+	
+	@FindBy(xpath = "//input[@id='MainContent_imgbtnTermAndConditions']")
+	WebElement clickoncontermscondition;
+	
+	@FindBy(xpath = "//input[@id='MainContent_imgOptions_Processing']")
+	WebElement clickonconsubmitprocessing;
+	
+	
+	public void ClickonBusinessigniteTV() 
+	{
+		logger.info("Started: click on Business Ignite TV " );
+		clickonBusinessIgniteTV.click();
+		logger.info("Completed: clicked on Business Ignite TV " );
+		
+	}
+	
+	public void Launchpopup(List<String> list ) 
+	{
+	
+		logger.info("Started: Select dropdown types on launch popup " );
+		Select Business = new Select(Businesstype);
+		Business.selectByVisibleText(list.get(0));
+		
+		Select customer = new Select(customersubtype);
+		customer.selectByVisibleText(list.get(1));
+		
+		
+	}
+
+}

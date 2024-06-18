@@ -1,0 +1,58 @@
+package Oasys.com.salesFlow;
+
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.support.PageFactory;
+
+public class Businesorder {
+	
+	
+	
+@FindBy(xpath="") private WebElement Clicksalesflow_Addbusinessorder;
+	
+@FindBy(xpath="") private WebElement Setsalesflow_ ;
+	
+
+
+public Businesorder (WebDriver driver) {
+	
+	PageFactory.initElements(driver, this);
+	
+}
+
+public void salesflow_Addbusinessorder() throws InterruptedException {
+	
+//	
+//	ClickTransport_SB.click();
+//	Thread.sleep(2000);
+//	ClickTransport_SB_AddTransport.click();
+//	
+//	Thread.sleep(3000);
+//	Select oSel = new Select(SetTransport_SB_AddTransport_Horse);
+//	oSel.selectByIndex(1);
+//
+//	Thread.sleep(3000);
+//	Select oSe2 = new Select(SetTransport_SB_AddTransport_TransportType);
+//	oSel.selectByIndex(2);
+//	Thread.sleep(2000);
+//	
+//	SetTransport_SB_AddTransport_From.click();
+//	Thread.sleep(2000);
+//	SetTransport_SB_AddTransport_From.sendKeys("Pune");
+//	Thread.sleep(2000);
+//	SetTransport_SB_AddTransport_TO.click();
+//	Thread.sleep(2000);
+//	
+//	SetTransport_SB_AddTransport_TO.sendKeys("Delhi");
+//	Thread.sleep(2000);
+//	ClickTransport_SB_AddTransport_AddButton.click();
+//	
+//	Thread.sleep(2000);
+	}
+public void salesflow_editusinessorder() throws InterruptedException {
+
+	
+
+}
+
+}

@@ -1,0 +1,17 @@
+package com.mystore.pageobject;
+
+import org.openqa.selenium.WebDriver;
+
+public class AccountCreationDetails {
+	
+	WebDriver ldriver;
+	
+	
+	public AccountCreationDetails(WebDriver rdriver) {
+		
+		ldriver = rdriver;
+		
+		
+	}
+
+}

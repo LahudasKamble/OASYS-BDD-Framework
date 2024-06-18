@@ -1,0 +1,17 @@
+package com.mystore.utilities;
+
+import java.io.FileInputStream;
+
+import org.apache.poi.xssf.usermodel.*;
+
+public class ReadExcelFile {
+	
+	public static FileInputStream filinputstream;
+	public static XSSFWorkbook workbook;
+	public static XSSFSheet sheet;
+	public static XSSFRow row;
+	public static XSSFCell cell;
+	
+	
+
+}

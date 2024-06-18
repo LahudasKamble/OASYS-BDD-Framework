@@ -1,0 +1,36 @@
+Feature: New Customer able to place Business Internet Leagcy Phone Order
+
+Background: Steps for all common scenarios
+Given User launch the Browser
+And   User click on Search Customers
+
+
+Scenario: User should be able to place Business Internet Leagcy phone order
+When User enter the Customer first name aand last name
+  |LVK|LVK|
+ And User enter the address
+  |30 Victoria Cres, BRAMPTON ON L6T1E4|
+ And  User Click on Wireless Business SHM order button
+ And  User click on Business Internet Leagcy product on Product selection page
+ And  User Select the New Customer from Cutomer type on Launch sales flow popup and click on continue button
+ And  User add the Business Internet Leagcy package click on continue button
+  |Rogers Ignite for business 100 (WCJB) (WCJB)|
+ And  User add the Business Internet Leagcy Hardware on hardware page and click on continue button
+  |	Hitron CGN2 (WWBM) (WWBM)|
+ And  User add the Business Internet Leagcy feature and click on continue button
+  |Advant Sec Basic Config Fee (WCF1) (WCF1)|
+ And  User add the Business Internet Leagcy installation and without promotion on main shopping cart and click on checkout button
+  |Installation Type|
+  |Ignite pro Install|   
+ And I fill Account Informations and click on the continue button
+  | Billing Language | Decision Maker Name | Decision Maker Num | Decision Maker Nxt | Decision Maker Email | Site Contact Full Name | Site Contact Num | Site Contact Ext | Site Contact Email  | Preffered Contact Time | Alternate Contact Tine | Install Contact Num |Select Appointment Date|Alternate Preferred DayTime|
+  | English          | LVK                | 4166666666         | 1234                | lkamble@ironlogic.ca | LVK                   | 4166666666        | 1234            | lkamble@ironlogic.ca| 08:00 AM - 11:00 AM    | 11:00 AM - 02:00 PM    | 4166666666          | 08:00 AM - 11:00 AM   |  12:00 PM - 02:00 PM      |
+  And I fill Billing Address on Order Information Page
+  | Business Type|Company Name | Address Info Email  | Address Info Phone | Service Info Mail   | Service Info Phone |
+  | Incorporated |ASG          | lkamble@ironlogic.ca| 4166666666         | lkamble@ironlogic.ca | 4166666666        |
+ And User Fill up All data on the Credit information page and click on the continue button
+  |HST/GST ID|Business Number|
+  |1234567   |Lahu1234       |
+ And  User Agrees with the Terms & Conditions on order summary page
+ And  User search order on home page and Search the order id
+ And  User Click on the logout button

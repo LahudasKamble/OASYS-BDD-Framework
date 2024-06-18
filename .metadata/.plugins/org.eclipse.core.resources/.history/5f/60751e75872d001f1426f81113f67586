@@ -1,0 +1,54 @@
+package StepDefination;
+
+import PageObject.BusinessInternetLegacyFlowPage;
+import io.cucumber.java.en.When;
+
+public class BusinessInternetLegacyFlowSteps extends BaseClass {
+	
+	
+	
+	@When("User click on Business Internet Leagcy product on Product selection page")
+	public void user_click_on_business_internet_leagcy_product_on_product_selection_page() {
+	    
+		BusinessInternetLegacy = new BusinessInternetLegacyFlowPage(driver);
+	
+		BusinessInternetLegacy.addbBusinessInternetproduct();
+		
+	}
+
+	@When("User add the Business Internet Leagcy package click on continue button")
+	public void user_add_the_business_internet_leagcy_package_click_on_continue_button(io.cucumber.datatable.DataTable dataTable) throws InterruptedException {
+	   
+		BusinessInternetLegacy.addbBusinessInternetpackage();
+	}
+
+	@When("User add the Business Internet Leagcy Hardware on hardware page and click on continue button")
+	public void user_add_the_business_internet_leagcy_hardware_on_hardware_page_and_click_on_continue_button(io.cucumber.datatable.DataTable dataTable) throws InterruptedException {
+	   
+		BusinessInternetLegacy.addbBusinessInternetHardware();
+		
+	}
+
+	@When("User add the Business Internet Leagcy feature and click on continue button")
+	public void user_add_the_business_internet_leagcy_feature_and_click_on_continue_button(io.cucumber.datatable.DataTable dataTable) throws InterruptedException {
+	   
+		BusinessInternetLegacy.addbBusinessInternetFeature();
+	}
+
+	@When("User add the Business Internet Leagcy installation and without promotion on main shopping cart and click on checkout button")
+	public void user_add_the_business_internet_leagcy_installation_and_without_promotion_on_main_shopping_cart_and_click_on_checkout_button(io.cucumber.datatable.DataTable dataTable) throws InterruptedException {
+	   
+		BusinessInternetLegacy.clickOnAddInstallationAndPromotion();
+		
+	}
+	
+
+	@When("User click on the continue button on the BI User informations page")
+	public void user_click_on_the_continue_button_on_the_BI_user_informations_page() {
+	   
+		BusinessInternetLegacy.clickcontinueonuserinformation();
+		
+	}
+
+
+}

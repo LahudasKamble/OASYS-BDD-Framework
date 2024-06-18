@@ -1,0 +1,78 @@
+package StepDefination;
+
+import java.util.List;
+
+import PageObject.BusinessInternetLegacyFlowPage;
+import io.cucumber.java.en.When;
+
+public class BusinessInternetLegacyFlowSteps extends BaseClass {
+	
+	
+	
+	@When("User click on Business Internet Leagcy product on Product selection page")
+	public void user_click_on_business_internet_leagcy_product_on_product_selection_page() {
+	    
+		BusinessInternetLegacy = new BusinessInternetLegacyFlowPage(driver);
+	
+		BusinessInternetLegacy.addbBusinessInternetproduct();
+		
+	}
+
+	@When("User add the Business Internet Leagcy package click on continue button")
+	public void user_add_the_business_internet_leagcy_package_click_on_continue_button(io.cucumber.datatable.DataTable dataTable) throws InterruptedException {
+	   
+		BusinessInternetLegacy.addbBusinessInternetpackage();
+	}
+
+	@When("User add the Business Internet Leagcy Hardware on hardware page and click on continue button")
+	public void user_add_the_business_internet_leagcy_hardware_on_hardware_page_and_click_on_continue_button(io.cucumber.datatable.DataTable dataTable) throws InterruptedException {
+	   
+		BusinessInternetLegacy.addbBusinessInternetHardware();
+		
+	}
+
+	@When("User add the Business Internet Leagcy feature and click on continue button")
+	public void user_add_the_business_internet_leagcy_feature_and_click_on_continue_button(io.cucumber.datatable.DataTable dataTable) throws InterruptedException {
+	   
+		BusinessInternetLegacy.addbBusinessInternetFeature();
+	}
+
+	@When("User add the Business Internet Leagcy installation and without promotion on main shopping cart and click on checkout button")
+	public void user_add_the_business_internet_leagcy_installation_and_without_promotion_on_main_shopping_cart_and_click_on_checkout_button(io.cucumber.datatable.DataTable dataTable) throws InterruptedException {
+	   
+		BusinessInternetLegacy.clickOnAddInstallationAndPromotion();
+		
+	}
+	
+
+	@When("User click on the continue button on the BI User informations page")
+	public void user_click_on_the_continue_button_on_the_BI_user_informations_page() {
+	   
+		BusinessInternetLegacy.clickcontinueonuserinformation();
+		
+	}
+	
+	@When("I fill Account Informations of Business Internet Legacy and click on the continue button")
+	public void i_fill_account_informations_of_business_internet_legacy_and_click_on_the_continue_button(io.cucumber.datatable.DataTable dataTable) throws InterruptedException {
+	   
+
+		List<String> list = dataTable.asLists().get(1);
+		BusinessInternetLegacy.accountinformationpage(list);
+	}
+
+	@When("I fill Billing Address on Order Information Page for Business Internet Legacy order")
+	public void i_fill_billing_address_on_order_information_page_for_business_internet_legacy_order(io.cucumber.datatable.DataTable dataTable) throws InterruptedException {
+	   
+		List<String> list = dataTable.asLists().get(1);
+		BusinessInternetLegacy.fillAddressInfoBusinessPhone(list);
+	}
+
+	@When("User Fill up All data Business Internet Legacy on the Credit information page and click on the continue button")
+	public void user_fill_up_all_data_business_internet_legacy_on_the_credit_information_page_and_click_on_the_continue_button(io.cucumber.datatable.DataTable dataTable) {
+	   
+		
+	}
+
+
+
+}

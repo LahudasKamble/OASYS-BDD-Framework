@@ -1,0 +1,26 @@
+Feature: New Customer able to place Business Internet Leagcy Phone Order
+
+Background: Steps for all common scenarios
+Given User launch the Browser
+And   User click on Search Customers
+
+
+Scenario: User should be able to place Business Internet Leagcy phone order
+When User enter the Customer first name aand last name
+  |LVK|LVK|
+ And User enter the address
+  |30 Victoria Cres, BRAMPTON ON L6T1E4|
+ And  User Click on Wireless Business SHM order button
+ And  User click on Business Internet Leagcy product on Product selection page
+ And  User Select the New Customer from Cutomer type on Launch sales flow popup and click on continue button
+ And  User add the Business Internet Leagcy package click on continue button
+  |Rogers Ignite for business 100 (WCJB) (WCJB)|
+ And  User add the Business Internet Leagcy Hardware on hardware page and click on continue button
+  |	Hitron CGN2 (WWBM) (WWBM)|
+ And  User add the Business Internet Leagcy feature and click on continue button
+  |Advant Sec Basic Config Fee (WCF1) (WCF1)|
+ And  User add the Business Internet Leagcy installation and without promotion on main shopping cart and click on checkout button
+  |Installation Type|
+  |Ignite pro Install|   
+
+ 

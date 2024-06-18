@@ -1,0 +1,53 @@
+package StepDefination;
+
+public class AdvantageVoiceFlowSteps {
+	
+	@When("User click on Advantage Voice phone product on Product selection page")
+	public void user_click_on_advantage_voice_phone_product_on_product_selection_page() {
+	   
+		
+	}
+
+	@When("User add the Advantage Voice package and LD package and click on continue button")
+	public void user_add_the_advantage_voice_package_and_ld_package_and_click_on_continue_button(io.cucumber.datatable.DataTable dataTable) {
+	  
+		
+	}
+
+	@When("User add the Advantage Voice Hardware on hardware page and click on continue button")
+	public void user_add_the_advantage_voice_hardware_on_hardware_page_and_click_on_continue_button(io.cucumber.datatable.DataTable dataTable) {
+	    // Write code here that turns the phrase above into concrete actions
+	    // For automatic transformation, change DataTable to one of
+	    // E, List<E>, List<List<E>>, List<Map<K,V>>, Map<K,V> or
+	    // Map<K, List<V>>. E,K,V must be a String, Integer, Float,
+	    // Double, Byte, Short, Long, BigInteger or BigDecimal.
+	    //
+	    // For other transformations you can register a DataTableType.
+	    throw new io.cucumber.java.PendingException();
+	}
+
+	@When("User add the Advantafe voice feature and click on continue button")
+	public void user_add_the_advantafe_voice_feature_and_click_on_continue_button(io.cucumber.datatable.DataTable dataTable) {
+	    // Write code here that turns the phrase above into concrete actions
+	    // For automatic transformation, change DataTable to one of
+	    // E, List<E>, List<List<E>>, List<Map<K,V>>, Map<K,V> or
+	    // Map<K, List<V>>. E,K,V must be a String, Integer, Float,
+	    // Double, Byte, Short, Long, BigInteger or BigDecimal.
+	    //
+	    // For other transformations you can register a DataTableType.
+	    throw new io.cucumber.java.PendingException();
+	}
+
+	@When("User add the Advantage voice installation and without promotion on main shopping cart and click on checkout button")
+	public void user_add_the_advantage_voice_installation_and_without_promotion_on_main_shopping_cart_and_click_on_checkout_button(io.cucumber.datatable.DataTable dataTable) {
+	    // Write code here that turns the phrase above into concrete actions
+	    // For automatic transformation, change DataTable to one of
+	    // E, List<E>, List<List<E>>, List<Map<K,V>>, Map<K,V> or
+	    // Map<K, List<V>>. E,K,V must be a String, Integer, Float,
+	    // Double, Byte, Short, Long, BigInteger or BigDecimal.
+	    //
+	    // For other transformations you can register a DataTableType.
+	    throw new io.cucumber.java.PendingException();
+	}
+
+}

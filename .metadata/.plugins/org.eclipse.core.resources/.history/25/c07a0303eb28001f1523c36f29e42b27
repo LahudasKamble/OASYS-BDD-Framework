@@ -1,0 +1,26 @@
+Feature: New Customer is able to place Business Ignite TV with Internet Enabler order
+
+Background: Steps for all common scenarios
+When Launch the Browser
+Then Click on Search Customer
+
+
+Scenario: User Should be able to place Business ignite TV with Internet Enabler order
+When User Enter the Customer First Name and Last Name
+|LVK|LVK|
+And User Enter the Address
+|30 Victoria Cres, BRAMPTON ON L6T1E4|
+And User click on Wireless Business SHM Order button
+And User click on Business Ignite TV product on product selection page
+And User Select the all manadatory dropdown filed on Launch sales flow popup and click on continue button
+|Incorporated|Small|Yes|
+And User add the Business Ignite TV package on package page and click on continue button
+And User add the Business Ignite Tv hardware on hardware page and click on continue button
+And User add the Business Ignite TV Feature  on afeature page and click on continue button
+And User click on continue button on Thempack page
+And User click on continue button on Channel page
+
+
+
+
+

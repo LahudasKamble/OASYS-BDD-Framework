@@ -1,0 +1,16 @@
+package com.mystore.utilities;
+
+import org.testng.ITestListener;
+
+import com.aventstack.extentreports.ExtentReports;
+import com.aventstack.extentreports.ExtentTest;
+import com.aventstack.extentreports.reporter.ExtentReporter;
+import com.aventstack.extentreports.reporter.ExtentSparkReporter;
+
+public class ExtentListernerClass implements ITestListener {
+	
+	ExtentSparkReporter htmlReportr;
+	ExtentReports Reports;
+	ExtentTest test;
+
+}

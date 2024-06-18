@@ -1,0 +1,690 @@
+[INFO ] 2024-06-12 00:02:42.539 [main] BusinessPhoneFlowPage - started : clickOnSearchCustomer
+[INFO ] 2024-06-12 00:02:51.088 [main] BusinessPhoneFlowPage - completed : clickOnSearchCustomer
+[INFO ] 2024-06-12 00:02:51.093 [main] BusinessPhoneFlowPage - started : entercutomerfirstnameAndlastname
+[INFO ] 2024-06-12 00:06:47.349 [main] BusinessPhoneFlowPage - started : clickOnSearchCustomer
+[INFO ] 2024-06-12 00:06:55.512 [main] BusinessPhoneFlowPage - completed : clickOnSearchCustomer
+[INFO ] 2024-06-12 00:06:55.515 [main] BusinessPhoneFlowPage - started : entercutomerfirstnameAndlastname
+[INFO ] 2024-06-12 00:07:01.975 [main] BusinessPhoneFlowPage - completed : entercutomerfirstnameAndlastname
+[INFO ] 2024-06-12 00:07:02.005 [main] BusinessPhoneFlowPage - Started:enterAddressInAddressSearch
+[INFO ] 2024-06-12 00:07:02.752 [main] BusinessPhoneFlowPage - completed:enterAddressInAddressSearch
+[INFO ] 2024-06-12 00:07:02.753 [main] BusinessPhoneFlowPage - Started:clickOnWireLessBusinessOrder
+[INFO ] 2024-06-12 00:07:02.981 [main] BusinessPhoneFlowPage - Completed:clickOnWireLessBusinessOrder
+[INFO ] 2024-06-12 00:07:02.983 [main] BusinessPhoneFlowPage - Started:clickOnBusinessPhone
+[INFO ] 2024-06-12 00:09:48.633 [main] BusinessPhoneFlowPage - started : clickOnSearchCustomer
+[INFO ] 2024-06-12 00:10:00.301 [main] BusinessPhoneFlowPage - completed : clickOnSearchCustomer
+[INFO ] 2024-06-12 00:10:00.308 [main] BusinessPhoneFlowPage - started : entercutomerfirstnameAndlastname
+[INFO ] 2024-06-12 00:10:06.807 [main] BusinessPhoneFlowPage - completed : entercutomerfirstnameAndlastname
+[INFO ] 2024-06-12 00:10:06.817 [main] BusinessPhoneFlowPage - Started:enterAddressInAddressSearch
+[INFO ] 2024-06-12 00:10:07.536 [main] BusinessPhoneFlowPage - completed:enterAddressInAddressSearch
+[INFO ] 2024-06-12 00:10:07.539 [main] BusinessPhoneFlowPage - Started:clickOnWireLessBusinessOrder
+[INFO ] 2024-06-12 00:10:07.778 [main] BusinessPhoneFlowPage - Completed:clickOnWireLessBusinessOrder
+[INFO ] 2024-06-12 00:10:07.780 [main] BusinessPhoneFlowPage - Started:clickOnBusinessPhone
+[INFO ] 2024-06-12 00:15:03.496 [main] BusinessPhoneFlowPage - started : clickOnSearchCustomer
+[INFO ] 2024-06-12 00:15:12.598 [main] BusinessPhoneFlowPage - completed : clickOnSearchCustomer
+[INFO ] 2024-06-12 00:15:12.604 [main] BusinessPhoneFlowPage - started : entercutomerfirstnameAndlastname
+[INFO ] 2024-06-12 00:15:18.728 [main] BusinessPhoneFlowPage - completed : entercutomerfirstnameAndlastname
+[INFO ] 2024-06-12 00:15:18.752 [main] BusinessPhoneFlowPage - Started:enterAddressInAddressSearch
+[INFO ] 2024-06-12 00:15:19.634 [main] BusinessPhoneFlowPage - completed:enterAddressInAddressSearch
+[INFO ] 2024-06-12 00:15:19.637 [main] BusinessPhoneFlowPage - Started:clickOnWireLessBusinessOrder
+[INFO ] 2024-06-12 00:15:19.878 [main] BusinessPhoneFlowPage - Completed:clickOnWireLessBusinessOrder
+[INFO ] 2024-06-12 00:15:19.880 [main] BusinessPhoneFlowPage - Started:clickOnBusinessPhone
+[INFO ] 2024-06-12 00:18:10.002 [main] BusinessPhoneFlowPage - started : clickOnSearchCustomer
+[INFO ] 2024-06-12 00:18:20.085 [main] BusinessPhoneFlowPage - completed : clickOnSearchCustomer
+[INFO ] 2024-06-12 00:18:20.089 [main] BusinessPhoneFlowPage - started : entercutomerfirstnameAndlastname
+[INFO ] 2024-06-12 00:18:26.545 [main] BusinessPhoneFlowPage - completed : entercutomerfirstnameAndlastname
+[INFO ] 2024-06-12 00:18:26.573 [main] BusinessPhoneFlowPage - Started:enterAddressInAddressSearch
+[INFO ] 2024-06-12 00:18:27.402 [main] BusinessPhoneFlowPage - completed:enterAddressInAddressSearch
+[INFO ] 2024-06-12 00:18:27.404 [main] BusinessPhoneFlowPage - Started:clickOnWireLessBusinessOrder
+[INFO ] 2024-06-12 00:18:27.639 [main] BusinessPhoneFlowPage - Completed:clickOnWireLessBusinessOrder
+[INFO ] 2024-06-12 00:18:27.641 [main] BusinessPhoneFlowPage - Started:clickOnBusinessPhone
+[INFO ] 2024-06-12 00:30:27.959 [main] BusinessPhoneFlowPage - started : clickOnSearchCustomer
+[INFO ] 2024-06-12 00:30:36.992 [main] BusinessPhoneFlowPage - completed : clickOnSearchCustomer
+[INFO ] 2024-06-12 00:30:36.996 [main] BusinessPhoneFlowPage - started : entercutomerfirstnameAndlastname
+[INFO ] 2024-06-12 00:30:43.771 [main] BusinessPhoneFlowPage - completed : entercutomerfirstnameAndlastname
+[INFO ] 2024-06-12 00:30:43.793 [main] BusinessPhoneFlowPage - Started:enterAddressInAddressSearch
+[INFO ] 2024-06-12 00:30:44.694 [main] BusinessPhoneFlowPage - completed:enterAddressInAddressSearch
+[INFO ] 2024-06-12 00:30:44.696 [main] BusinessPhoneFlowPage - Started:clickOnWireLessBusinessOrder
+[INFO ] 2024-06-12 00:30:44.940 [main] BusinessPhoneFlowPage - Completed:clickOnWireLessBusinessOrder
+[INFO ] 2024-06-12 00:30:44.943 [main] BusinessPhoneFlowPage - Started:clickOnBusinessPhone
+[INFO ] 2024-06-12 00:34:04.716 [main] BusinessPhoneFlowPage - started : clickOnSearchCustomer
+[INFO ] 2024-06-12 00:34:14.259 [main] BusinessPhoneFlowPage - completed : clickOnSearchCustomer
+[INFO ] 2024-06-12 00:34:14.261 [main] BusinessPhoneFlowPage - started : entercutomerfirstnameAndlastname
+[INFO ] 2024-06-12 00:34:21.804 [main] BusinessPhoneFlowPage - completed : entercutomerfirstnameAndlastname
+[INFO ] 2024-06-12 00:34:21.817 [main] BusinessPhoneFlowPage - Started:enterAddressInAddressSearch
+[INFO ] 2024-06-12 00:34:25.277 [main] BusinessPhoneFlowPage - completed:enterAddressInAddressSearch
+[INFO ] 2024-06-12 00:34:25.279 [main] BusinessPhoneFlowPage - Started:clickOnWireLessBusinessOrder
+[INFO ] 2024-06-12 00:34:25.517 [main] BusinessPhoneFlowPage - Completed:clickOnWireLessBusinessOrder
+[INFO ] 2024-06-12 00:34:25.519 [main] BusinessPhoneFlowPage - Started:clickOnBusinessPhone
+[INFO ] 2024-06-12 00:35:58.121 [main] BusinessPhoneFlowPage - started : clickOnSearchCustomer
+[INFO ] 2024-06-12 00:36:06.580 [main] BusinessPhoneFlowPage - completed : clickOnSearchCustomer
+[INFO ] 2024-06-12 00:36:06.584 [main] BusinessPhoneFlowPage - started : entercutomerfirstnameAndlastname
+[INFO ] 2024-06-12 00:36:12.603 [main] BusinessPhoneFlowPage - completed : entercutomerfirstnameAndlastname
+[INFO ] 2024-06-12 00:36:12.614 [main] BusinessPhoneFlowPage - Started:enterAddressInAddressSearch
+[INFO ] 2024-06-12 00:36:18.211 [main] BusinessPhoneFlowPage - completed:enterAddressInAddressSearch
+[INFO ] 2024-06-12 00:36:18.213 [main] BusinessPhoneFlowPage - Started:clickOnWireLessBusinessOrder
+[INFO ] 2024-06-12 00:36:18.425 [main] BusinessPhoneFlowPage - Completed:clickOnWireLessBusinessOrder
+[INFO ] 2024-06-12 00:36:18.428 [main] BusinessPhoneFlowPage - Started:clickOnBusinessPhone
+[INFO ] 2024-06-12 00:40:54.135 [main] BusinessPhoneFlowPage - started : clickOnSearchCustomer
+[INFO ] 2024-06-12 00:41:02.560 [main] BusinessPhoneFlowPage - completed : clickOnSearchCustomer
+[INFO ] 2024-06-12 00:41:02.562 [main] BusinessPhoneFlowPage - started : entercutomerfirstnameAndlastname
+[INFO ] 2024-06-12 00:41:08.328 [main] BusinessPhoneFlowPage - completed : entercutomerfirstnameAndlastname
+[INFO ] 2024-06-12 00:41:08.335 [main] BusinessPhoneFlowPage - Started:enterAddressInAddressSearch
+[INFO ] 2024-06-12 00:41:10.648 [main] BusinessPhoneFlowPage - completed:enterAddressInAddressSearch
+[INFO ] 2024-06-12 00:41:10.649 [main] BusinessPhoneFlowPage - Started:clickOnWireLessBusinessOrder
+[INFO ] 2024-06-12 00:41:10.709 [main] BusinessPhoneFlowPage - Completed:clickOnWireLessBusinessOrder
+[INFO ] 2024-06-12 00:41:10.710 [main] BusinessPhoneFlowPage - Started:clickOnBusinessPhone
+[INFO ] 2024-06-12 00:49:41.013 [main] BusinessPhoneFlowPage - started : clickOnSearchCustomer
+[INFO ] 2024-06-12 00:49:48.241 [main] BusinessPhoneFlowPage - completed : clickOnSearchCustomer
+[INFO ] 2024-06-12 00:49:48.244 [main] BusinessPhoneFlowPage - started : entercutomerfirstnameAndlastname
+[INFO ] 2024-06-12 00:49:54.317 [main] BusinessPhoneFlowPage - completed : entercutomerfirstnameAndlastname
+[INFO ] 2024-06-12 00:49:54.322 [main] BusinessPhoneFlowPage - Started:enterAddressInAddressSearch
+[INFO ] 2024-06-12 00:49:56.924 [main] BusinessPhoneFlowPage - completed:enterAddressInAddressSearch
+[INFO ] 2024-06-12 00:49:56.924 [main] BusinessPhoneFlowPage - Started:clickOnWireLessBusinessOrder
+[INFO ] 2024-06-12 00:49:56.989 [main] BusinessPhoneFlowPage - Completed:clickOnWireLessBusinessOrder
+[INFO ] 2024-06-12 00:49:56.990 [main] BusinessPhoneFlowPage - Started:clickOnBusinessPhone
+[INFO ] 2024-06-12 01:04:21.619 [main] BusinessPhoneFlowPage - started : clickOnSearchCustomer
+[INFO ] 2024-06-12 01:04:29.932 [main] BusinessPhoneFlowPage - completed : clickOnSearchCustomer
+[INFO ] 2024-06-12 01:04:29.936 [main] BusinessPhoneFlowPage - started : entercutomerfirstnameAndlastname
+[INFO ] 2024-06-12 01:04:36.666 [main] BusinessPhoneFlowPage - completed : entercutomerfirstnameAndlastname
+[INFO ] 2024-06-12 01:04:36.673 [main] BusinessPhoneFlowPage - Started:enterAddressInAddressSearch
+[INFO ] 2024-06-12 01:04:39.324 [main] BusinessPhoneFlowPage - completed:enterAddressInAddressSearch
+[INFO ] 2024-06-12 01:04:39.326 [main] BusinessPhoneFlowPage - Started:clickOnWireLessBusinessOrder
+[INFO ] 2024-06-12 01:04:50.665 [main] BusinessPhoneFlowPage - Completed:clickOnWireLessBusinessOrder
+[INFO ] 2024-06-12 01:04:50.666 [main] BusinessPhoneFlowPage - Started:clickOnBusinessPhone
+[INFO ] 2024-06-12 01:04:51.701 [main] BusinessPhoneFlowPage - Title is :Rogers OASYS Direct | Product Selection
+[INFO ] 2024-06-12 01:04:51.778 [main] BusinessPhoneFlowPage - Completed:clickOnBusinessPhone
+[INFO ] 2024-06-12 01:04:51.778 [main] BusinessPhoneFlowPage - Started:clickOnContinueBtnOnPopup
+[INFO ] 2024-06-12 01:06:17.850 [main] BusinessPhoneFlowPage - started : clickOnSearchCustomer
+[INFO ] 2024-06-12 01:06:30.320 [main] BusinessPhoneFlowPage - completed : clickOnSearchCustomer
+[INFO ] 2024-06-12 01:06:30.325 [main] BusinessPhoneFlowPage - started : entercutomerfirstnameAndlastname
+[INFO ] 2024-06-12 01:06:37.053 [main] BusinessPhoneFlowPage - completed : entercutomerfirstnameAndlastname
+[INFO ] 2024-06-12 01:06:37.059 [main] BusinessPhoneFlowPage - Started:enterAddressInAddressSearch
+[INFO ] 2024-06-12 01:06:39.667 [main] BusinessPhoneFlowPage - completed:enterAddressInAddressSearch
+[INFO ] 2024-06-12 01:06:39.668 [main] BusinessPhoneFlowPage - Started:clickOnWireLessBusinessOrder
+[INFO ] 2024-06-12 01:06:49.831 [main] BusinessPhoneFlowPage - Completed:clickOnWireLessBusinessOrder
+[INFO ] 2024-06-12 01:06:49.832 [main] BusinessPhoneFlowPage - Started:clickOnBusinessPhone
+[INFO ] 2024-06-12 01:06:50.852 [main] BusinessPhoneFlowPage - Title is :Rogers OASYS Direct | Product Selection
+[INFO ] 2024-06-12 01:06:50.909 [main] BusinessPhoneFlowPage - Completed:clickOnBusinessPhone
+[INFO ] 2024-06-12 01:06:50.909 [main] BusinessPhoneFlowPage - Started:clickOnContinueBtnOnPopup
+[INFO ] 2024-06-12 01:11:45.858 [main] BusinessPhoneFlowPage - started : clickOnSearchCustomer
+[INFO ] 2024-06-12 01:11:53.624 [main] BusinessPhoneFlowPage - completed : clickOnSearchCustomer
+[INFO ] 2024-06-12 01:11:53.626 [main] BusinessPhoneFlowPage - started : entercutomerfirstnameAndlastname
+[INFO ] 2024-06-12 01:11:59.199 [main] BusinessPhoneFlowPage - completed : entercutomerfirstnameAndlastname
+[INFO ] 2024-06-12 01:11:59.204 [main] BusinessPhoneFlowPage - Started:enterAddressInAddressSearch
+[INFO ] 2024-06-12 01:12:01.891 [main] BusinessPhoneFlowPage - completed:enterAddressInAddressSearch
+[INFO ] 2024-06-12 01:12:01.893 [main] BusinessPhoneFlowPage - Started:clickOnWireLessBusinessOrder
+[INFO ] 2024-06-12 01:12:09.980 [main] BusinessPhoneFlowPage - Completed:clickOnWireLessBusinessOrder
+[INFO ] 2024-06-12 01:12:09.980 [main] BusinessPhoneFlowPage - Started:clickOnBusinessPhone
+[INFO ] 2024-06-12 01:12:11.009 [main] BusinessPhoneFlowPage - Title is :Rogers OASYS Direct | Product Selection
+[INFO ] 2024-06-12 01:12:11.120 [main] BusinessPhoneFlowPage - Completed:clickOnBusinessPhone
+[INFO ] 2024-06-12 01:12:11.120 [main] BusinessPhoneFlowPage - Started:clickOnContinueBtnOnPopup
+[INFO ] 2024-06-12 01:14:41.928 [main] BusinessPhoneFlowPage - started : clickOnSearchCustomer
+[INFO ] 2024-06-12 01:14:53.472 [main] BusinessPhoneFlowPage - completed : clickOnSearchCustomer
+[INFO ] 2024-06-12 01:14:53.475 [main] BusinessPhoneFlowPage - started : entercutomerfirstnameAndlastname
+[INFO ] 2024-06-12 01:14:59.682 [main] BusinessPhoneFlowPage - completed : entercutomerfirstnameAndlastname
+[INFO ] 2024-06-12 01:14:59.686 [main] BusinessPhoneFlowPage - Started:enterAddressInAddressSearch
+[INFO ] 2024-06-12 01:15:02.369 [main] BusinessPhoneFlowPage - completed:enterAddressInAddressSearch
+[INFO ] 2024-06-12 01:15:02.370 [main] BusinessPhoneFlowPage - Started:clickOnWireLessBusinessOrder
+[INFO ] 2024-06-12 01:15:09.993 [main] BusinessPhoneFlowPage - Completed:clickOnWireLessBusinessOrder
+[INFO ] 2024-06-12 01:15:09.993 [main] BusinessPhoneFlowPage - Started:clickOnBusinessPhone
+[INFO ] 2024-06-12 01:15:11.033 [main] BusinessPhoneFlowPage - Title is :Rogers OASYS Direct | Product Selection
+[INFO ] 2024-06-12 01:15:11.120 [main] BusinessPhoneFlowPage - Completed:clickOnBusinessPhone
+[INFO ] 2024-06-12 01:15:11.121 [main] BusinessPhoneFlowPage - Started:clickOnContinueBtnOnPopup
+[INFO ] 2024-06-12 01:16:30.564 [main] BusinessPhoneFlowPage - started : clickOnSearchCustomer
+[INFO ] 2024-06-12 01:16:40.491 [main] BusinessPhoneFlowPage - completed : clickOnSearchCustomer
+[INFO ] 2024-06-12 01:16:40.494 [main] BusinessPhoneFlowPage - started : entercutomerfirstnameAndlastname
+[INFO ] 2024-06-12 01:16:46.281 [main] BusinessPhoneFlowPage - completed : entercutomerfirstnameAndlastname
+[INFO ] 2024-06-12 01:16:46.286 [main] BusinessPhoneFlowPage - Started:enterAddressInAddressSearch
+[INFO ] 2024-06-12 01:16:49.414 [main] BusinessPhoneFlowPage - completed:enterAddressInAddressSearch
+[INFO ] 2024-06-12 01:16:49.416 [main] BusinessPhoneFlowPage - Started:clickOnWireLessBusinessOrder
+[INFO ] 2024-06-12 01:16:56.942 [main] BusinessPhoneFlowPage - Completed:clickOnWireLessBusinessOrder
+[INFO ] 2024-06-12 01:16:56.943 [main] BusinessPhoneFlowPage - Started:clickOnBusinessPhone
+[INFO ] 2024-06-12 01:16:57.982 [main] BusinessPhoneFlowPage - Title is :Rogers OASYS Direct | Product Selection
+[INFO ] 2024-06-12 01:16:58.094 [main] BusinessPhoneFlowPage - Completed:clickOnBusinessPhone
+[INFO ] 2024-06-12 01:16:58.095 [main] BusinessPhoneFlowPage - Started:clickOnContinueBtnOnPopup
+[INFO ] 2024-06-12 01:19:11.297 [main] BusinessPhoneFlowPage - started : clickOnSearchCustomer
+[INFO ] 2024-06-12 01:19:19.701 [main] BusinessPhoneFlowPage - completed : clickOnSearchCustomer
+[INFO ] 2024-06-12 01:19:19.707 [main] BusinessPhoneFlowPage - started : entercutomerfirstnameAndlastname
+[INFO ] 2024-06-12 01:19:25.452 [main] BusinessPhoneFlowPage - completed : entercutomerfirstnameAndlastname
+[INFO ] 2024-06-12 01:19:25.461 [main] BusinessPhoneFlowPage - Started:enterAddressInAddressSearch
+[INFO ] 2024-06-12 01:19:28.127 [main] BusinessPhoneFlowPage - completed:enterAddressInAddressSearch
+[INFO ] 2024-06-12 01:19:28.130 [main] BusinessPhoneFlowPage - Started:clickOnWireLessBusinessOrder
+[INFO ] 2024-06-12 01:19:35.354 [main] BusinessPhoneFlowPage - Completed:clickOnWireLessBusinessOrder
+[INFO ] 2024-06-12 01:19:35.354 [main] BusinessPhoneFlowPage - Started:clickOnBusinessPhone
+[INFO ] 2024-06-12 01:19:36.384 [main] BusinessPhoneFlowPage - Title is :Rogers OASYS Direct | Product Selection
+[INFO ] 2024-06-12 01:19:36.476 [main] BusinessPhoneFlowPage - Completed:clickOnBusinessPhone
+[INFO ] 2024-06-12 01:19:36.478 [main] BusinessPhoneFlowPage - Started:clickOnContinueBtnOnPopup
+[INFO ] 2024-06-12 01:22:44.142 [main] BusinessPhoneFlowPage - started : clickOnSearchCustomer
+[INFO ] 2024-06-12 01:22:52.563 [main] BusinessPhoneFlowPage - completed : clickOnSearchCustomer
+[INFO ] 2024-06-12 01:22:52.566 [main] BusinessPhoneFlowPage - started : entercutomerfirstnameAndlastname
+[INFO ] 2024-06-12 01:22:58.274 [main] BusinessPhoneFlowPage - completed : entercutomerfirstnameAndlastname
+[INFO ] 2024-06-12 01:22:58.283 [main] BusinessPhoneFlowPage - Started:enterAddressInAddressSearch
+[INFO ] 2024-06-12 01:32:11.186 [main] BusinessPhoneFlowPage - started : clickOnSearchCustomer
+[INFO ] 2024-06-12 01:32:20.349 [main] BusinessPhoneFlowPage - completed : clickOnSearchCustomer
+[INFO ] 2024-06-12 01:32:20.354 [main] BusinessPhoneFlowPage - started : entercutomerfirstnameAndlastname
+[INFO ] 2024-06-12 01:32:26.061 [main] BusinessPhoneFlowPage - completed : entercutomerfirstnameAndlastname
+[INFO ] 2024-06-12 01:32:26.066 [main] BusinessPhoneFlowPage - Started:enterAddressInAddressSearch
+[INFO ] 2024-06-12 01:32:28.665 [main] BusinessPhoneFlowPage - completed:enterAddressInAddressSearch
+[INFO ] 2024-06-12 01:32:28.666 [main] BusinessPhoneFlowPage - Started:clickOnWireLessBusinessOrder
+[INFO ] 2024-06-12 01:32:37.089 [main] BusinessPhoneFlowPage - Completed:clickOnWireLessBusinessOrder
+[INFO ] 2024-06-12 01:32:37.090 [main] BusinessPhoneFlowPage - Started:clickOnBusinessPhone
+[INFO ] 2024-06-12 01:32:38.107 [main] BusinessPhoneFlowPage - Title is :Rogers OASYS Direct | Product Selection
+[INFO ] 2024-06-12 01:32:38.212 [main] BusinessPhoneFlowPage - Completed:clickOnBusinessPhone
+[INFO ] 2024-06-12 01:32:38.214 [main] BusinessPhoneFlowPage - Started:clickOnContinueBtnOnPopup
+[INFO ] 2024-06-12 01:42:27.813 [main] BusinessPhoneFlowPage - started : clickOnSearchCustomer
+[INFO ] 2024-06-12 01:42:35.903 [main] BusinessPhoneFlowPage - completed : clickOnSearchCustomer
+[INFO ] 2024-06-12 01:42:35.905 [main] BusinessPhoneFlowPage - started : entercutomerfirstnameAndlastname
+[INFO ] 2024-06-12 01:42:42.231 [main] BusinessPhoneFlowPage - completed : entercutomerfirstnameAndlastname
+[INFO ] 2024-06-12 01:42:42.237 [main] BusinessPhoneFlowPage - Started:enterAddressInAddressSearch
+[INFO ] 2024-06-12 01:42:44.812 [main] BusinessPhoneFlowPage - completed:enterAddressInAddressSearch
+[INFO ] 2024-06-12 01:42:44.813 [main] BusinessPhoneFlowPage - Started:clickOnWireLessBusinessOrder
+[INFO ] 2024-06-12 01:42:52.440 [main] BusinessPhoneFlowPage - Completed:clickOnWireLessBusinessOrder
+[INFO ] 2024-06-12 01:42:52.440 [main] BusinessPhoneFlowPage - Started:clickOnBusinessPhone
+[INFO ] 2024-06-12 01:42:53.456 [main] BusinessPhoneFlowPage - Title is :Rogers OASYS Direct | Product Selection
+[INFO ] 2024-06-12 01:42:53.521 [main] BusinessPhoneFlowPage - Completed:clickOnBusinessPhone
+[INFO ] 2024-06-12 01:42:53.521 [main] BusinessPhoneFlowPage - Started:clickOnContinueBtnOnPopup
+[INFO ] 2024-06-12 01:44:05.203 [main] BusinessPhoneFlowPage - started : clickOnSearchCustomer
+[INFO ] 2024-06-12 01:44:16.263 [main] BusinessPhoneFlowPage - completed : clickOnSearchCustomer
+[INFO ] 2024-06-12 01:44:16.265 [main] BusinessPhoneFlowPage - started : entercutomerfirstnameAndlastname
+[INFO ] 2024-06-12 01:44:22.363 [main] BusinessPhoneFlowPage - completed : entercutomerfirstnameAndlastname
+[INFO ] 2024-06-12 01:44:22.369 [main] BusinessPhoneFlowPage - Started:enterAddressInAddressSearch
+[INFO ] 2024-06-12 01:44:26.699 [main] BusinessPhoneFlowPage - completed:enterAddressInAddressSearch
+[INFO ] 2024-06-12 01:44:26.701 [main] BusinessPhoneFlowPage - Started:clickOnWireLessBusinessOrder
+[INFO ] 2024-06-12 01:44:33.923 [main] BusinessPhoneFlowPage - Completed:clickOnWireLessBusinessOrder
+[INFO ] 2024-06-12 01:44:33.924 [main] BusinessPhoneFlowPage - Started:clickOnBusinessPhone
+[INFO ] 2024-06-12 01:44:34.935 [main] BusinessPhoneFlowPage - Title is :Rogers OASYS Direct | Product Selection
+[INFO ] 2024-06-12 01:44:35.005 [main] BusinessPhoneFlowPage - Completed:clickOnBusinessPhone
+[INFO ] 2024-06-12 01:44:35.006 [main] BusinessPhoneFlowPage - Started:clickOnContinueBtnOnPopup
+[INFO ] 2024-06-12 01:44:42.545 [main] BusinessPhoneFlowPage - completed:clickOnContinueBtnOnPopup
+[INFO ] 2024-06-12 01:44:42.546 [main] BusinessPhoneFlowPage - Strated : AddpackageBusiessphone
+[INFO ] 2024-06-12 01:44:42.573 [main] BusinessPhoneFlowPage - Title is :Rogers OASYS Direct | AccountInfoPage
+[INFO ] 2024-06-12 01:53:27.193 [main] BusinessPhoneFlowPage - started : clickOnSearchCustomer
+[INFO ] 2024-06-12 01:53:36.044 [main] BusinessPhoneFlowPage - completed : clickOnSearchCustomer
+[INFO ] 2024-06-12 01:53:36.049 [main] BusinessPhoneFlowPage - started : entercutomerfirstnameAndlastname
+[INFO ] 2024-06-12 01:53:42.222 [main] BusinessPhoneFlowPage - completed : entercutomerfirstnameAndlastname
+[INFO ] 2024-06-12 01:53:42.229 [main] BusinessPhoneFlowPage - Started:enterAddressInAddressSearch
+[INFO ] 2024-06-12 01:53:46.587 [main] BusinessPhoneFlowPage - completed:enterAddressInAddressSearch
+[INFO ] 2024-06-12 01:53:46.587 [main] BusinessPhoneFlowPage - Started:clickOnWireLessBusinessOrder
+[INFO ] 2024-06-12 01:53:54.452 [main] BusinessPhoneFlowPage - Completed:clickOnWireLessBusinessOrder
+[INFO ] 2024-06-12 01:53:54.452 [main] BusinessPhoneFlowPage - Started:clickOnBusinessPhone
+[INFO ] 2024-06-12 01:53:55.477 [main] BusinessPhoneFlowPage - Title is :Rogers OASYS Direct | Product Selection
+[INFO ] 2024-06-12 01:53:55.603 [main] BusinessPhoneFlowPage - Completed:clickOnBusinessPhone
+[INFO ] 2024-06-12 01:53:55.605 [main] BusinessPhoneFlowPage - Started:clickOnContinueBtnOnPopup
+[INFO ] 2024-06-12 01:54:04.886 [main] BusinessPhoneFlowPage - completed:clickOnContinueBtnOnPopup
+[INFO ] 2024-06-12 01:54:04.890 [main] BusinessPhoneFlowPage - Strated : AddpackageBusiessphone
+[INFO ] 2024-06-12 01:54:04.903 [main] BusinessPhoneFlowPage - Title is :Rogers OASYS Direct | AccountInfoPage
+[INFO ] 2024-06-12 01:59:39.377 [main] BusinessPhoneFlowPage - started : clickOnSearchCustomer
+[INFO ] 2024-06-12 01:59:48.645 [main] BusinessPhoneFlowPage - completed : clickOnSearchCustomer
+[INFO ] 2024-06-12 01:59:48.648 [main] BusinessPhoneFlowPage - started : entercutomerfirstnameAndlastname
+[INFO ] 2024-06-12 01:59:55.288 [main] BusinessPhoneFlowPage - completed : entercutomerfirstnameAndlastname
+[INFO ] 2024-06-12 01:59:55.297 [main] BusinessPhoneFlowPage - Started:enterAddressInAddressSearch
+[INFO ] 2024-06-12 01:59:59.590 [main] BusinessPhoneFlowPage - completed:enterAddressInAddressSearch
+[INFO ] 2024-06-12 01:59:59.591 [main] BusinessPhoneFlowPage - Started:clickOnWireLessBusinessOrder
+[INFO ] 2024-06-12 02:00:07.291 [main] BusinessPhoneFlowPage - Completed:clickOnWireLessBusinessOrder
+[INFO ] 2024-06-12 02:00:07.292 [main] BusinessPhoneFlowPage - Started:clickOnBusinessPhone
+[INFO ] 2024-06-12 02:00:08.320 [main] BusinessPhoneFlowPage - Title is :Rogers OASYS Direct | Product Selection
+[INFO ] 2024-06-12 02:00:08.453 [main] BusinessPhoneFlowPage - Completed:clickOnBusinessPhone
+[INFO ] 2024-06-12 02:00:08.454 [main] BusinessPhoneFlowPage - Started:clickOnContinueBtnOnPopup
+[INFO ] 2024-06-12 02:00:14.434 [main] BusinessPhoneFlowPage - completed:clickOnContinueBtnOnPopup
+[INFO ] 2024-06-12 02:00:14.438 [main] BusinessPhoneFlowPage - Strated : AddpackageBusiessphone
+[INFO ] 2024-06-12 02:00:14.453 [main] BusinessPhoneFlowPage - Title is :Rogers OASYS Direct | AccountInfoPage
+[INFO ] 2024-06-12 02:03:29.310 [main] BusinessPhoneFlowPage - started : clickOnSearchCustomer
+[INFO ] 2024-06-12 02:03:36.425 [main] BusinessPhoneFlowPage - completed : clickOnSearchCustomer
+[INFO ] 2024-06-12 02:03:36.427 [main] BusinessPhoneFlowPage - started : entercutomerfirstnameAndlastname
+[INFO ] 2024-06-12 02:03:42.759 [main] BusinessPhoneFlowPage - completed : entercutomerfirstnameAndlastname
+[INFO ] 2024-06-12 02:03:42.766 [main] BusinessPhoneFlowPage - Started:enterAddressInAddressSearch
+[INFO ] 2024-06-12 02:03:47.108 [main] BusinessPhoneFlowPage - completed:enterAddressInAddressSearch
+[INFO ] 2024-06-12 02:03:47.109 [main] BusinessPhoneFlowPage - Started:clickOnWireLessBusinessOrder
+[INFO ] 2024-06-12 02:03:54.536 [main] BusinessPhoneFlowPage - Completed:clickOnWireLessBusinessOrder
+[INFO ] 2024-06-12 02:03:54.536 [main] BusinessPhoneFlowPage - Started:clickOnBusinessPhone
+[INFO ] 2024-06-12 02:03:55.566 [main] BusinessPhoneFlowPage - Title is :Rogers OASYS Direct | Product Selection
+[INFO ] 2024-06-12 02:03:55.675 [main] BusinessPhoneFlowPage - Completed:clickOnBusinessPhone
+[INFO ] 2024-06-12 02:03:55.678 [main] BusinessPhoneFlowPage - Started:clickOnContinueBtnOnPopup
+[INFO ] 2024-06-12 02:04:01.717 [main] BusinessPhoneFlowPage - completed:clickOnContinueBtnOnPopup
+[INFO ] 2024-06-12 02:04:01.718 [main] BusinessPhoneFlowPage - Strated : AddpackageBusiessphone
+[INFO ] 2024-06-12 02:04:01.727 [main] BusinessPhoneFlowPage - Title is :Rogers OASYS Direct | AccountInfoPage
+[INFO ] 2024-06-12 02:04:27.970 [main] BusinessPhoneFlowPage - Completed : AddpackageBusiessphone
+[INFO ] 2024-06-12 02:04:27.971 [main] BusinessPhoneFlowPage - started:clcikPlusButtonOnHardwarePage
+[INFO ] 2024-06-12 02:04:33.851 [main] BusinessPhoneFlowPage - Completed:clcikPlusButtonOnHardwarePage
+[INFO ] 2024-06-12 02:04:33.854 [main] BusinessPhoneFlowPage - started:clcikAddFreaturePageBusinessPhone
+[INFO ] 2024-06-12 02:04:58.978 [main] BusinessPhoneFlowPage - Completed:clcikAddFreaturePageBusinessPhone
+[INFO ] 2024-06-12 02:04:58.978 [main] BusinessPhoneFlowPage - started:clickOnAddInstallationAndPromotion
+[INFO ] 2024-06-12 02:04:58.996 [main] BusinessPhoneFlowPage - Title is :Rogers OASYS Direct | Shopping Cart
+[INFO ] 2024-06-12 02:09:42.641 [main] BusinessPhoneFlowPage - started : clickOnSearchCustomer
+[INFO ] 2024-06-12 02:09:50.716 [main] BusinessPhoneFlowPage - completed : clickOnSearchCustomer
+[INFO ] 2024-06-12 02:09:50.719 [main] BusinessPhoneFlowPage - started : entercutomerfirstnameAndlastname
+[INFO ] 2024-06-12 02:09:57.166 [main] BusinessPhoneFlowPage - completed : entercutomerfirstnameAndlastname
+[INFO ] 2024-06-12 02:09:57.173 [main] BusinessPhoneFlowPage - Started:enterAddressInAddressSearch
+[INFO ] 2024-06-12 02:10:01.506 [main] BusinessPhoneFlowPage - completed:enterAddressInAddressSearch
+[INFO ] 2024-06-12 02:10:01.506 [main] BusinessPhoneFlowPage - Started:clickOnWireLessBusinessOrder
+[INFO ] 2024-06-12 02:10:09.136 [main] BusinessPhoneFlowPage - Completed:clickOnWireLessBusinessOrder
+[INFO ] 2024-06-12 02:10:09.136 [main] BusinessPhoneFlowPage - Started:clickOnBusinessPhone
+[INFO ] 2024-06-12 02:10:10.167 [main] BusinessPhoneFlowPage - Title is :Rogers OASYS Direct | Product Selection
+[INFO ] 2024-06-12 02:10:10.246 [main] BusinessPhoneFlowPage - Completed:clickOnBusinessPhone
+[INFO ] 2024-06-12 02:10:10.249 [main] BusinessPhoneFlowPage - Started:clickOnContinueBtnOnPopup
+[INFO ] 2024-06-12 02:10:18.616 [main] BusinessPhoneFlowPage - completed:clickOnContinueBtnOnPopup
+[INFO ] 2024-06-12 02:10:18.617 [main] BusinessPhoneFlowPage - Strated : AddpackageBusiessphone
+[INFO ] 2024-06-12 02:10:18.633 [main] BusinessPhoneFlowPage - Title is :Rogers OASYS Direct | AccountInfoPage
+[INFO ] 2024-06-12 02:10:46.253 [main] BusinessPhoneFlowPage - Completed : AddpackageBusiessphone
+[INFO ] 2024-06-12 02:10:46.254 [main] BusinessPhoneFlowPage - started:clcikPlusButtonOnHardwarePage
+[INFO ] 2024-06-12 02:10:52.343 [main] BusinessPhoneFlowPage - Completed:clcikPlusButtonOnHardwarePage
+[INFO ] 2024-06-12 02:10:52.347 [main] BusinessPhoneFlowPage - started:clcikAddFreaturePageBusinessPhone
+[INFO ] 2024-06-12 02:11:06.959 [main] BusinessPhoneFlowPage - Completed:clcikAddFreaturePageBusinessPhone
+[INFO ] 2024-06-12 02:11:06.960 [main] BusinessPhoneFlowPage - started:clickOnAddInstallationAndPromotion
+[INFO ] 2024-06-12 02:11:06.969 [main] BusinessPhoneFlowPage - Title is :Rogers OASYS Direct | Shopping Cart
+[INFO ] 2024-06-12 02:12:34.360 [main] BusinessPhoneFlowPage - started : clickOnSearchCustomer
+[INFO ] 2024-06-12 02:12:42.378 [main] BusinessPhoneFlowPage - completed : clickOnSearchCustomer
+[INFO ] 2024-06-12 02:12:42.380 [main] BusinessPhoneFlowPage - started : entercutomerfirstnameAndlastname
+[INFO ] 2024-06-12 02:12:47.946 [main] BusinessPhoneFlowPage - completed : entercutomerfirstnameAndlastname
+[INFO ] 2024-06-12 02:12:47.954 [main] BusinessPhoneFlowPage - Started:enterAddressInAddressSearch
+[INFO ] 2024-06-12 02:12:52.273 [main] BusinessPhoneFlowPage - completed:enterAddressInAddressSearch
+[INFO ] 2024-06-12 02:12:52.274 [main] BusinessPhoneFlowPage - Started:clickOnWireLessBusinessOrder
+[INFO ] 2024-06-12 02:12:59.737 [main] BusinessPhoneFlowPage - Completed:clickOnWireLessBusinessOrder
+[INFO ] 2024-06-12 02:12:59.737 [main] BusinessPhoneFlowPage - Started:clickOnBusinessPhone
+[INFO ] 2024-06-12 02:13:00.750 [main] BusinessPhoneFlowPage - Title is :Rogers OASYS Direct | Product Selection
+[INFO ] 2024-06-12 02:13:00.824 [main] BusinessPhoneFlowPage - Completed:clickOnBusinessPhone
+[INFO ] 2024-06-12 02:13:00.826 [main] BusinessPhoneFlowPage - Started:clickOnContinueBtnOnPopup
+[INFO ] 2024-06-12 02:13:07.407 [main] BusinessPhoneFlowPage - completed:clickOnContinueBtnOnPopup
+[INFO ] 2024-06-12 02:13:07.408 [main] BusinessPhoneFlowPage - Strated : AddpackageBusiessphone
+[INFO ] 2024-06-12 02:13:07.420 [main] BusinessPhoneFlowPage - Title is :Rogers OASYS Direct | AccountInfoPage
+[INFO ] 2024-06-12 02:13:34.555 [main] BusinessPhoneFlowPage - Completed : AddpackageBusiessphone
+[INFO ] 2024-06-12 02:13:34.556 [main] BusinessPhoneFlowPage - started:clcikPlusButtonOnHardwarePage
+[INFO ] 2024-06-12 02:13:39.969 [main] BusinessPhoneFlowPage - Completed:clcikPlusButtonOnHardwarePage
+[INFO ] 2024-06-12 02:13:39.970 [main] BusinessPhoneFlowPage - started:clcikAddFreaturePageBusinessPhone
+[INFO ] 2024-06-12 02:13:53.637 [main] BusinessPhoneFlowPage - Completed:clcikAddFreaturePageBusinessPhone
+[INFO ] 2024-06-12 02:13:53.637 [main] BusinessPhoneFlowPage - started:clickOnAddInstallationAndPromotion
+[INFO ] 2024-06-12 02:13:53.652 [main] BusinessPhoneFlowPage - Title is :Rogers OASYS Direct | Shopping Cart
+[INFO ] 2024-06-12 02:14:27.655 [main] BusinessPhoneFlowPage - Completed:clickOnAddInstallationAndPromotion
+[INFO ] 2024-06-12 02:14:27.656 [main] BusinessPhoneFlowPage - Strated : UserinformationBusinessphone
+[INFO ] 2024-06-12 02:14:29.680 [main] BusinessPhoneFlowPage - Title is : Rogers OASYS Direct | Rogers Home Phone More Information
+[INFO ] 2024-06-12 02:33:05.277 [main] BusinessPhoneFlowPage - started : clickOnSearchCustomer
+[INFO ] 2024-06-12 02:33:14.349 [main] BusinessPhoneFlowPage - completed : clickOnSearchCustomer
+[INFO ] 2024-06-12 02:33:14.351 [main] BusinessPhoneFlowPage - started : entercutomerfirstnameAndlastname
+[INFO ] 2024-06-12 02:33:20.560 [main] BusinessPhoneFlowPage - completed : entercutomerfirstnameAndlastname
+[INFO ] 2024-06-12 02:33:20.564 [main] BusinessPhoneFlowPage - Started:enterAddressInAddressSearch
+[INFO ] 2024-06-12 02:33:24.997 [main] BusinessPhoneFlowPage - completed:enterAddressInAddressSearch
+[INFO ] 2024-06-12 02:33:24.999 [main] BusinessPhoneFlowPage - Started:clickOnWireLessBusinessOrder
+[INFO ] 2024-06-12 02:33:32.676 [main] BusinessPhoneFlowPage - Completed:clickOnWireLessBusinessOrder
+[INFO ] 2024-06-12 02:33:32.676 [main] BusinessPhoneFlowPage - Started:clickOnBusinessPhone
+[INFO ] 2024-06-12 02:33:33.716 [main] BusinessPhoneFlowPage - Title is :Rogers OASYS Direct | Product Selection
+[INFO ] 2024-06-12 02:33:33.824 [main] BusinessPhoneFlowPage - Completed:clickOnBusinessPhone
+[INFO ] 2024-06-12 02:33:33.825 [main] BusinessPhoneFlowPage - Started:clickOnContinueBtnOnPopup
+[INFO ] 2024-06-12 02:33:40.313 [main] BusinessPhoneFlowPage - completed:clickOnContinueBtnOnPopup
+[INFO ] 2024-06-12 02:33:40.314 [main] BusinessPhoneFlowPage - Strated : AddpackageBusiessphone
+[INFO ] 2024-06-12 02:33:40.322 [main] BusinessPhoneFlowPage - Title is :Rogers OASYS Direct | AccountInfoPage
+[INFO ] 2024-06-12 02:34:08.284 [main] BusinessPhoneFlowPage - Completed : AddpackageBusiessphone
+[INFO ] 2024-06-12 02:34:08.285 [main] BusinessPhoneFlowPage - started:clcikPlusButtonOnHardwarePage
+[INFO ] 2024-06-12 02:34:13.828 [main] BusinessPhoneFlowPage - Completed:clcikPlusButtonOnHardwarePage
+[INFO ] 2024-06-12 02:34:13.828 [main] BusinessPhoneFlowPage - started:clcikAddFreaturePageBusinessPhone
+[INFO ] 2024-06-12 02:34:28.084 [main] BusinessPhoneFlowPage - Completed:clcikAddFreaturePageBusinessPhone
+[INFO ] 2024-06-12 02:34:28.085 [main] BusinessPhoneFlowPage - started:clickOnAddInstallationAndPromotion
+[INFO ] 2024-06-12 02:34:28.099 [main] BusinessPhoneFlowPage - Title is :Rogers OASYS Direct | Shopping Cart
+[INFO ] 2024-06-12 02:35:02.765 [main] BusinessPhoneFlowPage - Completed:clickOnAddInstallationAndPromotion
+[INFO ] 2024-06-12 02:35:02.768 [main] BusinessPhoneFlowPage - Strated : UserinformationBusinessphone
+[INFO ] 2024-06-12 02:35:04.797 [main] BusinessPhoneFlowPage - Title is : Rogers OASYS Direct | Rogers Home Phone More Information
+[INFO ] 2024-06-12 02:39:57.560 [main] BusinessPhoneFlowPage - started : clickOnSearchCustomer
+[INFO ] 2024-06-12 02:40:07.044 [main] BusinessPhoneFlowPage - completed : clickOnSearchCustomer
+[INFO ] 2024-06-12 02:40:07.049 [main] BusinessPhoneFlowPage - started : entercutomerfirstnameAndlastname
+[INFO ] 2024-06-12 02:40:13.894 [main] BusinessPhoneFlowPage - completed : entercutomerfirstnameAndlastname
+[INFO ] 2024-06-12 02:40:13.907 [main] BusinessPhoneFlowPage - Started:enterAddressInAddressSearch
+[INFO ] 2024-06-12 02:40:18.410 [main] BusinessPhoneFlowPage - completed:enterAddressInAddressSearch
+[INFO ] 2024-06-12 02:40:18.412 [main] BusinessPhoneFlowPage - Started:clickOnWireLessBusinessOrder
+[INFO ] 2024-06-12 02:40:26.834 [main] BusinessPhoneFlowPage - Completed:clickOnWireLessBusinessOrder
+[INFO ] 2024-06-12 02:40:26.835 [main] BusinessPhoneFlowPage - Started:clickOnBusinessPhone
+[INFO ] 2024-06-12 02:40:27.865 [main] BusinessPhoneFlowPage - Title is :Rogers OASYS Direct | Product Selection
+[INFO ] 2024-06-12 02:40:28.090 [main] BusinessPhoneFlowPage - Completed:clickOnBusinessPhone
+[INFO ] 2024-06-12 02:40:28.094 [main] BusinessPhoneFlowPage - Started:clickOnContinueBtnOnPopup
+[INFO ] 2024-06-12 02:40:35.677 [main] BusinessPhoneFlowPage - completed:clickOnContinueBtnOnPopup
+[INFO ] 2024-06-12 02:40:35.679 [main] BusinessPhoneFlowPage - Strated : AddpackageBusiessphone
+[INFO ] 2024-06-12 02:40:35.694 [main] BusinessPhoneFlowPage - Title is :Rogers OASYS Direct | AccountInfoPage
+[INFO ] 2024-06-12 02:41:05.624 [main] BusinessPhoneFlowPage - Completed : AddpackageBusiessphone
+[INFO ] 2024-06-12 02:41:05.626 [main] BusinessPhoneFlowPage - started:clcikPlusButtonOnHardwarePage
+[INFO ] 2024-06-12 02:41:12.002 [main] BusinessPhoneFlowPage - Completed:clcikPlusButtonOnHardwarePage
+[INFO ] 2024-06-12 02:41:12.003 [main] BusinessPhoneFlowPage - started:clcikAddFreaturePageBusinessPhone
+[INFO ] 2024-06-12 02:41:25.862 [main] BusinessPhoneFlowPage - Completed:clcikAddFreaturePageBusinessPhone
+[INFO ] 2024-06-12 02:41:25.862 [main] BusinessPhoneFlowPage - started:clickOnAddInstallationAndPromotion
+[INFO ] 2024-06-12 02:41:25.877 [main] BusinessPhoneFlowPage - Title is :Rogers OASYS Direct | Shopping Cart
+[INFO ] 2024-06-12 02:42:02.065 [main] BusinessPhoneFlowPage - Completed:clickOnAddInstallationAndPromotion
+[INFO ] 2024-06-12 02:42:02.068 [main] BusinessPhoneFlowPage - Strated : UserinformationBusinessphone
+[INFO ] 2024-06-12 02:42:04.099 [main] BusinessPhoneFlowPage - Title is : Rogers OASYS Direct | Rogers Home Phone More Information
+[INFO ] 2024-06-12 02:44:47.497 [main] BusinessPhoneFlowPage - started : clickOnSearchCustomer
+[INFO ] 2024-06-12 02:44:57.223 [main] BusinessPhoneFlowPage - completed : clickOnSearchCustomer
+[INFO ] 2024-06-12 02:44:57.227 [main] BusinessPhoneFlowPage - started : entercutomerfirstnameAndlastname
+[INFO ] 2024-06-12 02:45:03.680 [main] BusinessPhoneFlowPage - completed : entercutomerfirstnameAndlastname
+[INFO ] 2024-06-12 02:45:03.693 [main] BusinessPhoneFlowPage - Started:enterAddressInAddressSearch
+[INFO ] 2024-06-12 02:45:08.168 [main] BusinessPhoneFlowPage - completed:enterAddressInAddressSearch
+[INFO ] 2024-06-12 02:45:08.170 [main] BusinessPhoneFlowPage - Started:clickOnWireLessBusinessOrder
+[INFO ] 2024-06-12 02:45:15.815 [main] BusinessPhoneFlowPage - Completed:clickOnWireLessBusinessOrder
+[INFO ] 2024-06-12 02:45:15.815 [main] BusinessPhoneFlowPage - Started:clickOnBusinessPhone
+[INFO ] 2024-06-12 02:45:16.842 [main] BusinessPhoneFlowPage - Title is :Rogers OASYS Direct | Product Selection
+[INFO ] 2024-06-12 02:45:17.097 [main] BusinessPhoneFlowPage - Completed:clickOnBusinessPhone
+[INFO ] 2024-06-12 02:45:17.101 [main] BusinessPhoneFlowPage - Started:clickOnContinueBtnOnPopup
+[INFO ] 2024-06-12 02:45:24.562 [main] BusinessPhoneFlowPage - completed:clickOnContinueBtnOnPopup
+[INFO ] 2024-06-12 02:45:24.564 [main] BusinessPhoneFlowPage - Strated : AddpackageBusiessphone
+[INFO ] 2024-06-12 02:45:24.576 [main] BusinessPhoneFlowPage - Title is :Rogers OASYS Direct | AccountInfoPage
+[INFO ] 2024-06-12 02:45:54.448 [main] BusinessPhoneFlowPage - Completed : AddpackageBusiessphone
+[INFO ] 2024-06-12 02:45:54.450 [main] BusinessPhoneFlowPage - started:clcikPlusButtonOnHardwarePage
+[INFO ] 2024-06-12 02:46:00.408 [main] BusinessPhoneFlowPage - Completed:clcikPlusButtonOnHardwarePage
+[INFO ] 2024-06-12 02:46:00.410 [main] BusinessPhoneFlowPage - started:clcikAddFreaturePageBusinessPhone
+[INFO ] 2024-06-12 02:46:14.380 [main] BusinessPhoneFlowPage - Completed:clcikAddFreaturePageBusinessPhone
+[INFO ] 2024-06-12 02:46:14.382 [main] BusinessPhoneFlowPage - started:clickOnAddInstallationAndPromotion
+[INFO ] 2024-06-12 02:46:14.404 [main] BusinessPhoneFlowPage - Title is :Rogers OASYS Direct | Shopping Cart
+[INFO ] 2024-06-12 02:46:50.158 [main] BusinessPhoneFlowPage - Completed:clickOnAddInstallationAndPromotion
+[INFO ] 2024-06-12 02:46:50.160 [main] BusinessPhoneFlowPage - Strated : UserinformationBusinessphone
+[INFO ] 2024-06-12 02:46:52.184 [main] BusinessPhoneFlowPage - Title is : Rogers OASYS Direct | Rogers Home Phone More Information
+[INFO ] 2024-06-12 02:47:07.618 [main] BusinessPhoneFlowPage - completed : UserinformationBusinessphone
+[INFO ] 2024-06-12 02:47:07.621 [main] BusinessPhoneFlowPage - Started : Accountinformationpage
+[INFO ] 2024-06-12 02:47:09.654 [main] BusinessPhoneFlowPage - Title is :Rogers OASYS Direct | AccountInfoPage
+[INFO ] 2024-06-12 02:54:46.861 [main] BusinessPhoneFlowPage - started : clickOnSearchCustomer
+[INFO ] 2024-06-12 02:54:55.683 [main] BusinessPhoneFlowPage - completed : clickOnSearchCustomer
+[INFO ] 2024-06-12 02:54:55.688 [main] BusinessPhoneFlowPage - started : entercutomerfirstnameAndlastname
+[INFO ] 2024-06-12 02:55:02.773 [main] BusinessPhoneFlowPage - completed : entercutomerfirstnameAndlastname
+[INFO ] 2024-06-12 02:55:02.793 [main] BusinessPhoneFlowPage - Started:enterAddressInAddressSearch
+[INFO ] 2024-06-12 02:55:07.421 [main] BusinessPhoneFlowPage - completed:enterAddressInAddressSearch
+[INFO ] 2024-06-12 02:55:07.424 [main] BusinessPhoneFlowPage - Started:clickOnWireLessBusinessOrder
+[INFO ] 2024-06-12 02:55:15.615 [main] BusinessPhoneFlowPage - Completed:clickOnWireLessBusinessOrder
+[INFO ] 2024-06-12 02:55:15.615 [main] BusinessPhoneFlowPage - Started:clickOnBusinessPhone
+[INFO ] 2024-06-12 02:55:16.646 [main] BusinessPhoneFlowPage - Title is :Rogers OASYS Direct | Product Selection
+[INFO ] 2024-06-12 02:55:16.872 [main] BusinessPhoneFlowPage - Completed:clickOnBusinessPhone
+[INFO ] 2024-06-12 02:55:16.877 [main] BusinessPhoneFlowPage - Started:clickOnContinueBtnOnPopup
+[INFO ] 2024-06-12 02:55:23.926 [main] BusinessPhoneFlowPage - completed:clickOnContinueBtnOnPopup
+[INFO ] 2024-06-12 02:55:23.927 [main] BusinessPhoneFlowPage - Strated : AddpackageBusiessphone
+[INFO ] 2024-06-12 02:55:23.939 [main] BusinessPhoneFlowPage - Title is :Rogers OASYS Direct | AccountInfoPage
+[INFO ] 2024-06-12 02:55:54.030 [main] BusinessPhoneFlowPage - Completed : AddpackageBusiessphone
+[INFO ] 2024-06-12 02:55:54.032 [main] BusinessPhoneFlowPage - started:clcikPlusButtonOnHardwarePage
+[INFO ] 2024-06-12 02:56:00.890 [main] BusinessPhoneFlowPage - Completed:clcikPlusButtonOnHardwarePage
+[INFO ] 2024-06-12 02:56:00.891 [main] BusinessPhoneFlowPage - started:clcikAddFreaturePageBusinessPhone
+[INFO ] 2024-06-12 02:56:14.938 [main] BusinessPhoneFlowPage - Completed:clcikAddFreaturePageBusinessPhone
+[INFO ] 2024-06-12 02:56:14.939 [main] BusinessPhoneFlowPage - started:clickOnAddInstallationAndPromotion
+[INFO ] 2024-06-12 02:56:14.954 [main] BusinessPhoneFlowPage - Title is :Rogers OASYS Direct | Shopping Cart
+[INFO ] 2024-06-12 02:56:50.700 [main] BusinessPhoneFlowPage - Completed:clickOnAddInstallationAndPromotion
+[INFO ] 2024-06-12 02:56:50.703 [main] BusinessPhoneFlowPage - Strated : UserinformationBusinessphone
+[INFO ] 2024-06-12 02:56:52.735 [main] BusinessPhoneFlowPage - Title is : Rogers OASYS Direct | Rogers Home Phone More Information
+[INFO ] 2024-06-12 02:57:06.624 [main] BusinessPhoneFlowPage - completed : UserinformationBusinessphone
+[INFO ] 2024-06-12 02:57:06.628 [main] BusinessPhoneFlowPage - Started : Accountinformationpage
+[INFO ] 2024-06-12 02:57:08.660 [main] BusinessPhoneFlowPage - Title is :Rogers OASYS Direct | AccountInfoPage
+[INFO ] 2024-06-12 03:04:44.002 [main] BusinessPhoneFlowPage - started : clickOnSearchCustomer
+[INFO ] 2024-06-12 03:04:53.957 [main] BusinessPhoneFlowPage - completed : clickOnSearchCustomer
+[INFO ] 2024-06-12 03:04:53.963 [main] BusinessPhoneFlowPage - started : entercutomerfirstnameAndlastname
+[INFO ] 2024-06-12 03:05:00.830 [main] BusinessPhoneFlowPage - completed : entercutomerfirstnameAndlastname
+[INFO ] 2024-06-12 03:05:00.852 [main] BusinessPhoneFlowPage - Started:enterAddressInAddressSearch
+[INFO ] 2024-06-12 03:05:05.435 [main] BusinessPhoneFlowPage - completed:enterAddressInAddressSearch
+[INFO ] 2024-06-12 03:05:05.437 [main] BusinessPhoneFlowPage - Started:clickOnWireLessBusinessOrder
+[INFO ] 2024-06-12 03:05:13.489 [main] BusinessPhoneFlowPage - Completed:clickOnWireLessBusinessOrder
+[INFO ] 2024-06-12 03:05:13.489 [main] BusinessPhoneFlowPage - Started:clickOnBusinessPhone
+[INFO ] 2024-06-12 03:05:14.522 [main] BusinessPhoneFlowPage - Title is :Rogers OASYS Direct | Product Selection
+[INFO ] 2024-06-12 03:05:14.762 [main] BusinessPhoneFlowPage - Completed:clickOnBusinessPhone
+[INFO ] 2024-06-12 03:05:14.763 [main] BusinessPhoneFlowPage - Started:clickOnContinueBtnOnPopup
+[INFO ] 2024-06-12 03:05:21.567 [main] BusinessPhoneFlowPage - completed:clickOnContinueBtnOnPopup
+[INFO ] 2024-06-12 03:05:21.569 [main] BusinessPhoneFlowPage - Strated : AddpackageBusiessphone
+[INFO ] 2024-06-12 03:05:21.583 [main] BusinessPhoneFlowPage - Title is :Rogers OASYS Direct | AccountInfoPage
+[INFO ] 2024-06-12 03:05:51.919 [main] BusinessPhoneFlowPage - Completed : AddpackageBusiessphone
+[INFO ] 2024-06-12 03:05:51.921 [main] BusinessPhoneFlowPage - started:clcikPlusButtonOnHardwarePage
+[INFO ] 2024-06-12 03:05:58.936 [main] BusinessPhoneFlowPage - Completed:clcikPlusButtonOnHardwarePage
+[INFO ] 2024-06-12 03:05:58.938 [main] BusinessPhoneFlowPage - started:clcikAddFreaturePageBusinessPhone
+[INFO ] 2024-06-12 03:06:11.434 [main] BusinessPhoneFlowPage - Completed:clcikAddFreaturePageBusinessPhone
+[INFO ] 2024-06-12 03:06:11.435 [main] BusinessPhoneFlowPage - started:clickOnAddInstallationAndPromotion
+[INFO ] 2024-06-12 03:06:11.457 [main] BusinessPhoneFlowPage - Title is :Rogers OASYS Direct | Shopping Cart
+[INFO ] 2024-06-12 03:06:45.709 [main] BusinessPhoneFlowPage - Completed:clickOnAddInstallationAndPromotion
+[INFO ] 2024-06-12 03:06:45.711 [main] BusinessPhoneFlowPage - Strated : UserinformationBusinessphone
+[INFO ] 2024-06-12 03:06:47.733 [main] BusinessPhoneFlowPage - Title is : Rogers OASYS Direct | Rogers Home Phone More Information
+[INFO ] 2024-06-12 03:07:00.234 [main] BusinessPhoneFlowPage - completed : UserinformationBusinessphone
+[INFO ] 2024-06-12 03:07:00.236 [main] BusinessPhoneFlowPage - Started : Accountinformationpage
+[INFO ] 2024-06-12 03:07:02.260 [main] BusinessPhoneFlowPage - Title is :Rogers OASYS Direct | AccountInfoPage
+[INFO ] 2024-06-12 03:10:02.899 [main] BusinessPhoneFlowPage - started : clickOnSearchCustomer
+[INFO ] 2024-06-12 03:10:11.589 [main] BusinessPhoneFlowPage - completed : clickOnSearchCustomer
+[INFO ] 2024-06-12 03:10:11.592 [main] BusinessPhoneFlowPage - started : entercutomerfirstnameAndlastname
+[INFO ] 2024-06-12 03:10:17.687 [main] BusinessPhoneFlowPage - completed : entercutomerfirstnameAndlastname
+[INFO ] 2024-06-12 03:10:17.710 [main] BusinessPhoneFlowPage - Started:enterAddressInAddressSearch
+[INFO ] 2024-06-12 03:10:22.224 [main] BusinessPhoneFlowPage - completed:enterAddressInAddressSearch
+[INFO ] 2024-06-12 03:10:22.226 [main] BusinessPhoneFlowPage - Started:clickOnWireLessBusinessOrder
+[INFO ] 2024-06-12 03:10:30.327 [main] BusinessPhoneFlowPage - Completed:clickOnWireLessBusinessOrder
+[INFO ] 2024-06-12 03:10:30.327 [main] BusinessPhoneFlowPage - Started:clickOnBusinessPhone
+[INFO ] 2024-06-12 03:10:31.360 [main] BusinessPhoneFlowPage - Title is :Rogers OASYS Direct | Product Selection
+[INFO ] 2024-06-12 03:10:31.601 [main] BusinessPhoneFlowPage - Completed:clickOnBusinessPhone
+[INFO ] 2024-06-12 03:10:31.602 [main] BusinessPhoneFlowPage - Started:clickOnContinueBtnOnPopup
+[INFO ] 2024-06-12 03:10:39.260 [main] BusinessPhoneFlowPage - completed:clickOnContinueBtnOnPopup
+[INFO ] 2024-06-12 03:10:39.261 [main] BusinessPhoneFlowPage - Strated : AddpackageBusiessphone
+[INFO ] 2024-06-12 03:10:39.269 [main] BusinessPhoneFlowPage - Title is :Rogers OASYS Direct | AccountInfoPage
+[INFO ] 2024-06-12 03:11:08.659 [main] BusinessPhoneFlowPage - Completed : AddpackageBusiessphone
+[INFO ] 2024-06-12 03:11:08.662 [main] BusinessPhoneFlowPage - started:clcikPlusButtonOnHardwarePage
+[INFO ] 2024-06-12 03:11:14.556 [main] BusinessPhoneFlowPage - Completed:clcikPlusButtonOnHardwarePage
+[INFO ] 2024-06-12 03:11:14.557 [main] BusinessPhoneFlowPage - started:clcikAddFreaturePageBusinessPhone
+[INFO ] 2024-06-12 03:11:28.824 [main] BusinessPhoneFlowPage - Completed:clcikAddFreaturePageBusinessPhone
+[INFO ] 2024-06-12 03:11:28.825 [main] BusinessPhoneFlowPage - started:clickOnAddInstallationAndPromotion
+[INFO ] 2024-06-12 03:11:28.841 [main] BusinessPhoneFlowPage - Title is :Rogers OASYS Direct | Shopping Cart
+[INFO ] 2024-06-12 03:12:03.379 [main] BusinessPhoneFlowPage - Completed:clickOnAddInstallationAndPromotion
+[INFO ] 2024-06-12 03:12:03.381 [main] BusinessPhoneFlowPage - Strated : UserinformationBusinessphone
+[INFO ] 2024-06-12 03:12:05.412 [main] BusinessPhoneFlowPage - Title is : Rogers OASYS Direct | Rogers Home Phone More Information
+[INFO ] 2024-06-12 03:12:17.824 [main] BusinessPhoneFlowPage - completed : UserinformationBusinessphone
+[INFO ] 2024-06-12 03:12:17.825 [main] BusinessPhoneFlowPage - Started : Accountinformationpage
+[INFO ] 2024-06-12 03:12:19.860 [main] BusinessPhoneFlowPage - Title is :Rogers OASYS Direct | AccountInfoPage
+[INFO ] 2024-06-12 13:32:07.825 [main] BusinessPhoneFlowPage - started : clickOnSearchCustomer
+[INFO ] 2024-06-12 13:32:20.171 [main] BusinessPhoneFlowPage - completed : clickOnSearchCustomer
+[INFO ] 2024-06-12 13:32:20.174 [main] BusinessPhoneFlowPage - started : entercutomerfirstnameAndlastname
+[INFO ] 2024-06-12 13:32:26.520 [main] BusinessPhoneFlowPage - completed : entercutomerfirstnameAndlastname
+[INFO ] 2024-06-12 13:32:26.535 [main] BusinessPhoneFlowPage - Started:enterAddressInAddressSearch
+[INFO ] 2024-06-12 13:32:31.015 [main] BusinessPhoneFlowPage - completed:enterAddressInAddressSearch
+[INFO ] 2024-06-12 13:32:31.016 [main] BusinessPhoneFlowPage - Started:clickOnWireLessBusinessOrder
+[INFO ] 2024-06-12 13:32:40.118 [main] BusinessPhoneFlowPage - Completed:clickOnWireLessBusinessOrder
+[INFO ] 2024-06-12 13:32:40.119 [main] BusinessPhoneFlowPage - Started:clickOnBusinessPhone
+[INFO ] 2024-06-12 13:32:41.150 [main] BusinessPhoneFlowPage - Title is :Rogers OASYS Direct | Product Selection
+[INFO ] 2024-06-12 13:32:41.403 [main] BusinessPhoneFlowPage - Completed:clickOnBusinessPhone
+[INFO ] 2024-06-12 13:32:41.408 [main] BusinessPhoneFlowPage - Started:clickOnContinueBtnOnPopup
+[INFO ] 2024-06-12 13:32:51.969 [main] BusinessPhoneFlowPage - completed:clickOnContinueBtnOnPopup
+[INFO ] 2024-06-12 13:32:51.970 [main] BusinessPhoneFlowPage - Strated : AddpackageBusiessphone
+[INFO ] 2024-06-12 13:32:51.978 [main] BusinessPhoneFlowPage - Title is :Rogers OASYS Direct | AccountInfoPage
+[INFO ] 2024-06-12 13:33:25.616 [main] BusinessPhoneFlowPage - Completed : AddpackageBusiessphone
+[INFO ] 2024-06-12 13:33:25.619 [main] BusinessPhoneFlowPage - started:clcikPlusButtonOnHardwarePage
+[INFO ] 2024-06-12 13:33:32.187 [main] BusinessPhoneFlowPage - Completed:clcikPlusButtonOnHardwarePage
+[INFO ] 2024-06-12 13:33:32.189 [main] BusinessPhoneFlowPage - started:clcikAddFreaturePageBusinessPhone
+[INFO ] 2024-06-12 13:33:47.475 [main] BusinessPhoneFlowPage - Completed:clcikAddFreaturePageBusinessPhone
+[INFO ] 2024-06-12 13:33:47.476 [main] BusinessPhoneFlowPage - started:clickOnAddInstallationAndPromotion
+[INFO ] 2024-06-12 13:33:47.504 [main] BusinessPhoneFlowPage - Title is :Rogers OASYS Direct | Shopping Cart
+[INFO ] 2024-06-12 13:34:27.235 [main] BusinessPhoneFlowPage - Completed:clickOnAddInstallationAndPromotion
+[INFO ] 2024-06-12 13:34:27.237 [main] BusinessPhoneFlowPage - Strated : UserinformationBusinessphone
+[INFO ] 2024-06-12 13:34:29.263 [main] BusinessPhoneFlowPage - Title is : Rogers OASYS Direct | Rogers Home Phone More Information
+[INFO ] 2024-06-12 13:34:42.185 [main] BusinessPhoneFlowPage - completed : UserinformationBusinessphone
+[INFO ] 2024-06-12 13:34:42.185 [main] BusinessPhoneFlowPage - Started : Accountinformationpage
+[INFO ] 2024-06-12 13:34:44.216 [main] BusinessPhoneFlowPage - Title is :Rogers OASYS Direct | AccountInfoPage
+[INFO ] 2024-06-12 13:36:58.166 [main] BusinessPhoneFlowPage - started : clickOnSearchCustomer
+[INFO ] 2024-06-12 13:37:06.873 [main] BusinessPhoneFlowPage - completed : clickOnSearchCustomer
+[INFO ] 2024-06-12 13:37:06.876 [main] BusinessPhoneFlowPage - started : entercutomerfirstnameAndlastname
+[INFO ] 2024-06-12 13:37:14.478 [main] BusinessPhoneFlowPage - completed : entercutomerfirstnameAndlastname
+[INFO ] 2024-06-12 13:37:14.492 [main] BusinessPhoneFlowPage - Started:enterAddressInAddressSearch
+[INFO ] 2024-06-12 13:37:18.995 [main] BusinessPhoneFlowPage - completed:enterAddressInAddressSearch
+[INFO ] 2024-06-12 13:37:18.998 [main] BusinessPhoneFlowPage - Started:clickOnWireLessBusinessOrder
+[INFO ] 2024-06-12 13:37:22.228 [main] BusinessPhoneFlowPage - Completed:clickOnWireLessBusinessOrder
+[INFO ] 2024-06-12 13:37:22.230 [main] BusinessPhoneFlowPage - Started:clickOnBusinessPhone
+[INFO ] 2024-06-12 13:38:10.749 [main] BusinessPhoneFlowPage - started : clickOnSearchCustomer
+[INFO ] 2024-06-12 13:38:18.518 [main] BusinessPhoneFlowPage - completed : clickOnSearchCustomer
+[INFO ] 2024-06-12 13:38:18.522 [main] BusinessPhoneFlowPage - started : entercutomerfirstnameAndlastname
+[INFO ] 2024-06-12 13:38:24.886 [main] BusinessPhoneFlowPage - completed : entercutomerfirstnameAndlastname
+[INFO ] 2024-06-12 13:38:24.909 [main] BusinessPhoneFlowPage - Started:enterAddressInAddressSearch
+[INFO ] 2024-06-12 13:38:29.597 [main] BusinessPhoneFlowPage - completed:enterAddressInAddressSearch
+[INFO ] 2024-06-12 13:38:29.600 [main] BusinessPhoneFlowPage - Started:clickOnWireLessBusinessOrder
+[INFO ] 2024-06-12 13:38:32.788 [main] BusinessPhoneFlowPage - Completed:clickOnWireLessBusinessOrder
+[INFO ] 2024-06-12 13:38:32.791 [main] BusinessPhoneFlowPage - Started:clickOnBusinessPhone
+[INFO ] 2024-06-12 13:39:38.135 [main] BusinessPhoneFlowPage - started : clickOnSearchCustomer
+[INFO ] 2024-06-12 13:39:46.724 [main] BusinessPhoneFlowPage - completed : clickOnSearchCustomer
+[INFO ] 2024-06-12 13:39:46.727 [main] BusinessPhoneFlowPage - started : entercutomerfirstnameAndlastname
+[INFO ] 2024-06-12 13:39:53.067 [main] BusinessPhoneFlowPage - completed : entercutomerfirstnameAndlastname
+[INFO ] 2024-06-12 13:39:53.080 [main] BusinessPhoneFlowPage - Started:enterAddressInAddressSearch
+[INFO ] 2024-06-12 13:39:57.776 [main] BusinessPhoneFlowPage - completed:enterAddressInAddressSearch
+[INFO ] 2024-06-12 13:39:57.778 [main] BusinessPhoneFlowPage - Started:clickOnWireLessBusinessOrder
+[INFO ] 2024-06-12 13:40:05.439 [main] BusinessPhoneFlowPage - Completed:clickOnWireLessBusinessOrder
+[INFO ] 2024-06-12 13:40:05.440 [main] BusinessPhoneFlowPage - Started:clickOnBusinessPhone
+[INFO ] 2024-06-12 13:40:06.473 [main] BusinessPhoneFlowPage - Title is :Rogers OASYS Direct | Product Selection
+[INFO ] 2024-06-12 13:40:06.726 [main] BusinessPhoneFlowPage - Completed:clickOnBusinessPhone
+[INFO ] 2024-06-12 13:40:06.730 [main] BusinessPhoneFlowPage - Started:clickOnContinueBtnOnPopup
+[INFO ] 2024-06-12 13:40:13.726 [main] BusinessPhoneFlowPage - completed:clickOnContinueBtnOnPopup
+[INFO ] 2024-06-12 13:40:13.728 [main] BusinessPhoneFlowPage - Strated : AddpackageBusiessphone
+[INFO ] 2024-06-12 13:40:13.739 [main] BusinessPhoneFlowPage - Title is :Rogers OASYS Direct | AccountInfoPage
+[INFO ] 2024-06-12 13:40:40.775 [main] BusinessPhoneFlowPage - Completed : AddpackageBusiessphone
+[INFO ] 2024-06-12 13:40:40.777 [main] BusinessPhoneFlowPage - started:clcikPlusButtonOnHardwarePage
+[INFO ] 2024-06-12 13:40:46.015 [main] BusinessPhoneFlowPage - Completed:clcikPlusButtonOnHardwarePage
+[INFO ] 2024-06-12 13:40:46.017 [main] BusinessPhoneFlowPage - started:clcikAddFreaturePageBusinessPhone
+[INFO ] 2024-06-12 13:40:59.455 [main] BusinessPhoneFlowPage - Completed:clcikAddFreaturePageBusinessPhone
+[INFO ] 2024-06-12 13:40:59.457 [main] BusinessPhoneFlowPage - started:clickOnAddInstallationAndPromotion
+[INFO ] 2024-06-12 13:40:59.471 [main] BusinessPhoneFlowPage - Title is :Rogers OASYS Direct | Shopping Cart
+[INFO ] 2024-06-12 13:41:33.056 [main] BusinessPhoneFlowPage - Completed:clickOnAddInstallationAndPromotion
+[INFO ] 2024-06-12 13:41:33.059 [main] BusinessPhoneFlowPage - Strated : UserinformationBusinessphone
+[INFO ] 2024-06-12 13:41:35.082 [main] BusinessPhoneFlowPage - Title is : Rogers OASYS Direct | Rogers Home Phone More Information
+[INFO ] 2024-06-12 13:41:47.228 [main] BusinessPhoneFlowPage - completed : UserinformationBusinessphone
+[INFO ] 2024-06-12 13:41:47.230 [main] BusinessPhoneFlowPage - Started : Accountinformationpage
+[INFO ] 2024-06-12 13:41:49.264 [main] BusinessPhoneFlowPage - Title is :Rogers OASYS Direct | AccountInfoPage
+[INFO ] 2024-06-12 13:46:48.394 [main] BusinessPhoneFlowPage - started : clickOnSearchCustomer
+[INFO ] 2024-06-12 13:46:55.635 [main] BusinessPhoneFlowPage - completed : clickOnSearchCustomer
+[INFO ] 2024-06-12 13:46:55.639 [main] BusinessPhoneFlowPage - started : entercutomerfirstnameAndlastname
+[INFO ] 2024-06-12 13:47:01.908 [main] BusinessPhoneFlowPage - completed : entercutomerfirstnameAndlastname
+[INFO ] 2024-06-12 13:47:01.920 [main] BusinessPhoneFlowPage - Started:enterAddressInAddressSearch
+[INFO ] 2024-06-12 13:47:06.395 [main] BusinessPhoneFlowPage - completed:enterAddressInAddressSearch
+[INFO ] 2024-06-12 13:47:06.397 [main] BusinessPhoneFlowPage - Started:clickOnWireLessBusinessOrder
+[INFO ] 2024-06-12 13:47:14.218 [main] BusinessPhoneFlowPage - Completed:clickOnWireLessBusinessOrder
+[INFO ] 2024-06-12 13:47:14.218 [main] BusinessPhoneFlowPage - Started:clickOnBusinessPhone
+[INFO ] 2024-06-12 13:47:15.257 [main] BusinessPhoneFlowPage - Title is :Rogers OASYS Direct | Product Selection
+[INFO ] 2024-06-12 13:47:15.508 [main] BusinessPhoneFlowPage - Completed:clickOnBusinessPhone
+[INFO ] 2024-06-12 13:47:15.513 [main] BusinessPhoneFlowPage - Started:clickOnContinueBtnOnPopup
+[INFO ] 2024-06-12 13:47:22.322 [main] BusinessPhoneFlowPage - completed:clickOnContinueBtnOnPopup
+[INFO ] 2024-06-12 13:47:22.324 [main] BusinessPhoneFlowPage - Strated : AddpackageBusiessphone
+[INFO ] 2024-06-12 13:47:22.337 [main] BusinessPhoneFlowPage - Title is :Rogers OASYS Direct | AccountInfoPage
+[INFO ] 2024-06-12 13:47:49.793 [main] BusinessPhoneFlowPage - Completed : AddpackageBusiessphone
+[INFO ] 2024-06-12 13:47:49.795 [main] BusinessPhoneFlowPage - started:clcikPlusButtonOnHardwarePage
+[INFO ] 2024-06-12 13:47:55.277 [main] BusinessPhoneFlowPage - Completed:clcikPlusButtonOnHardwarePage
+[INFO ] 2024-06-12 13:47:55.279 [main] BusinessPhoneFlowPage - started:clcikAddFreaturePageBusinessPhone
+[INFO ] 2024-06-12 13:48:08.441 [main] BusinessPhoneFlowPage - Completed:clcikAddFreaturePageBusinessPhone
+[INFO ] 2024-06-12 13:48:08.442 [main] BusinessPhoneFlowPage - started:clickOnAddInstallationAndPromotion
+[INFO ] 2024-06-12 13:48:08.459 [main] BusinessPhoneFlowPage - Title is :Rogers OASYS Direct | Shopping Cart
+[INFO ] 2024-06-12 13:48:42.286 [main] BusinessPhoneFlowPage - Completed:clickOnAddInstallationAndPromotion
+[INFO ] 2024-06-12 13:48:42.288 [main] BusinessPhoneFlowPage - Strated : UserinformationBusinessphone
+[INFO ] 2024-06-12 13:48:44.313 [main] BusinessPhoneFlowPage - Title is : Rogers OASYS Direct | Rogers Home Phone More Information
+[INFO ] 2024-06-12 13:48:56.785 [main] BusinessPhoneFlowPage - completed : UserinformationBusinessphone
+[INFO ] 2024-06-12 13:48:56.787 [main] BusinessPhoneFlowPage - Started : Accountinformationpage
+[INFO ] 2024-06-12 13:48:58.824 [main] BusinessPhoneFlowPage - Title is :Rogers OASYS Direct | AccountInfoPage
+[INFO ] 2024-06-12 14:01:40.986 [main] BusinessPhoneFlowPage - started : clickOnSearchCustomer
+[INFO ] 2024-06-12 14:01:48.545 [main] BusinessPhoneFlowPage - completed : clickOnSearchCustomer
+[INFO ] 2024-06-12 14:01:48.549 [main] BusinessPhoneFlowPage - started : entercutomerfirstnameAndlastname
+[INFO ] 2024-06-12 14:01:54.450 [main] BusinessPhoneFlowPage - completed : entercutomerfirstnameAndlastname
+[INFO ] 2024-06-12 14:01:54.461 [main] BusinessPhoneFlowPage - Started:enterAddressInAddressSearch
+[INFO ] 2024-06-12 14:01:58.913 [main] BusinessPhoneFlowPage - completed:enterAddressInAddressSearch
+[INFO ] 2024-06-12 14:01:58.915 [main] BusinessPhoneFlowPage - Started:clickOnWireLessBusinessOrder
+[INFO ] 2024-06-12 14:02:06.883 [main] BusinessPhoneFlowPage - Completed:clickOnWireLessBusinessOrder
+[INFO ] 2024-06-12 14:02:06.884 [main] BusinessPhoneFlowPage - Started:clickOnBusinessPhone
+[INFO ] 2024-06-12 14:02:07.918 [main] BusinessPhoneFlowPage - Title is :Rogers OASYS Direct | Product Selection
+[INFO ] 2024-06-12 14:02:08.150 [main] BusinessPhoneFlowPage - Completed:clickOnBusinessPhone
+[INFO ] 2024-06-12 14:02:08.153 [main] BusinessPhoneFlowPage - Started:clickOnContinueBtnOnPopup
+[INFO ] 2024-06-12 14:02:14.907 [main] BusinessPhoneFlowPage - completed:clickOnContinueBtnOnPopup
+[INFO ] 2024-06-12 14:02:14.908 [main] BusinessPhoneFlowPage - Strated : AddpackageBusiessphone
+[INFO ] 2024-06-12 14:02:14.922 [main] BusinessPhoneFlowPage - Title is :Rogers OASYS Direct | AccountInfoPage
+[INFO ] 2024-06-12 14:02:45.921 [main] BusinessPhoneFlowPage - Completed : AddpackageBusiessphone
+[INFO ] 2024-06-12 14:02:45.922 [main] BusinessPhoneFlowPage - started:clcikPlusButtonOnHardwarePage
+[INFO ] 2024-06-12 14:02:51.569 [main] BusinessPhoneFlowPage - Completed:clcikPlusButtonOnHardwarePage
+[INFO ] 2024-06-12 14:02:51.570 [main] BusinessPhoneFlowPage - started:clcikAddFreaturePageBusinessPhone
+[INFO ] 2024-06-12 14:03:04.916 [main] BusinessPhoneFlowPage - Completed:clcikAddFreaturePageBusinessPhone
+[INFO ] 2024-06-12 14:03:04.917 [main] BusinessPhoneFlowPage - started:clickOnAddInstallationAndPromotion
+[INFO ] 2024-06-12 14:03:04.932 [main] BusinessPhoneFlowPage - Title is :Rogers OASYS Direct | Shopping Cart
+[INFO ] 2024-06-12 14:03:39.890 [main] BusinessPhoneFlowPage - Completed:clickOnAddInstallationAndPromotion
+[INFO ] 2024-06-12 14:03:39.893 [main] BusinessPhoneFlowPage - Strated : UserinformationBusinessphone
+[INFO ] 2024-06-12 14:03:41.925 [main] BusinessPhoneFlowPage - Title is : Rogers OASYS Direct | Rogers Home Phone More Information
+[INFO ] 2024-06-12 14:03:54.992 [main] BusinessPhoneFlowPage - completed : UserinformationBusinessphone
+[INFO ] 2024-06-12 14:03:54.995 [main] BusinessPhoneFlowPage - Started : Accountinformationpage
+[INFO ] 2024-06-12 14:03:57.009 [main] BusinessPhoneFlowPage - Title is :Rogers OASYS Direct | AccountInfoPage
+[INFO ] 2024-06-12 14:10:25.713 [main] BusinessPhoneFlowPage - started : clickOnSearchCustomer
+[INFO ] 2024-06-12 14:10:33.210 [main] BusinessPhoneFlowPage - completed : clickOnSearchCustomer
+[INFO ] 2024-06-12 14:10:33.215 [main] BusinessPhoneFlowPage - started : entercutomerfirstnameAndlastname
+[INFO ] 2024-06-12 14:10:40.181 [main] BusinessPhoneFlowPage - completed : entercutomerfirstnameAndlastname
+[INFO ] 2024-06-12 14:10:40.192 [main] BusinessPhoneFlowPage - Started:enterAddressInAddressSearch
+[INFO ] 2024-06-12 14:10:44.639 [main] BusinessPhoneFlowPage - completed:enterAddressInAddressSearch
+[INFO ] 2024-06-12 14:10:44.641 [main] BusinessPhoneFlowPage - Started:clickOnWireLessBusinessOrder
+[INFO ] 2024-06-12 14:10:52.726 [main] BusinessPhoneFlowPage - Completed:clickOnWireLessBusinessOrder
+[INFO ] 2024-06-12 14:10:52.727 [main] BusinessPhoneFlowPage - Started:clickOnBusinessPhone
+[INFO ] 2024-06-12 14:10:53.756 [main] BusinessPhoneFlowPage - Title is :Rogers OASYS Direct | Product Selection
+[INFO ] 2024-06-12 14:10:54.003 [main] BusinessPhoneFlowPage - Completed:clickOnBusinessPhone
+[INFO ] 2024-06-12 14:10:54.007 [main] BusinessPhoneFlowPage - Started:clickOnContinueBtnOnPopup
+[INFO ] 2024-06-12 14:11:01.053 [main] BusinessPhoneFlowPage - completed:clickOnContinueBtnOnPopup
+[INFO ] 2024-06-12 14:11:01.055 [main] BusinessPhoneFlowPage - Strated : AddpackageBusiessphone
+[INFO ] 2024-06-12 14:11:01.064 [main] BusinessPhoneFlowPage - Title is :Rogers OASYS Direct | AccountInfoPage
+[INFO ] 2024-06-12 14:11:36.222 [main] BusinessPhoneFlowPage - Completed : AddpackageBusiessphone
+[INFO ] 2024-06-12 14:11:36.224 [main] BusinessPhoneFlowPage - started:clcikPlusButtonOnHardwarePage
+[INFO ] 2024-06-12 14:11:42.030 [main] BusinessPhoneFlowPage - Completed:clcikPlusButtonOnHardwarePage
+[INFO ] 2024-06-12 14:11:42.031 [main] BusinessPhoneFlowPage - started:clcikAddFreaturePageBusinessPhone
+[INFO ] 2024-06-12 14:11:55.175 [main] BusinessPhoneFlowPage - Completed:clcikAddFreaturePageBusinessPhone
+[INFO ] 2024-06-12 14:11:55.176 [main] BusinessPhoneFlowPage - started:clickOnAddInstallationAndPromotion
+[INFO ] 2024-06-12 14:11:55.200 [main] BusinessPhoneFlowPage - Title is :Rogers OASYS Direct | Shopping Cart
+[INFO ] 2024-06-12 14:12:29.307 [main] BusinessPhoneFlowPage - Completed:clickOnAddInstallationAndPromotion
+[INFO ] 2024-06-12 14:12:29.310 [main] BusinessPhoneFlowPage - Strated : UserinformationBusinessphone
+[INFO ] 2024-06-12 14:12:31.334 [main] BusinessPhoneFlowPage - Title is : Rogers OASYS Direct | Rogers Home Phone More Information
+[INFO ] 2024-06-12 14:12:43.121 [main] BusinessPhoneFlowPage - completed : UserinformationBusinessphone
+[INFO ] 2024-06-12 14:12:43.123 [main] BusinessPhoneFlowPage - Started : Accountinformationpage
+[INFO ] 2024-06-12 14:12:45.152 [main] BusinessPhoneFlowPage - Title is :Rogers OASYS Direct | AccountInfoPage
+[INFO ] 2024-06-12 14:13:05.988 [main] BusinessPhoneFlowPage - completed : Accountinformationpage
+[INFO ] 2024-06-12 14:13:05.992 [main] BusinessPhoneFlowPage - Started:fillAddressInfoBusinessPhone
+[INFO ] 2024-06-12 14:13:08.015 [main] BusinessPhoneFlowPage - Title is :Rogers OASYS Direct | Order Address Details
+[INFO ] 2024-06-12 15:17:22.285 [main] BusinessPhoneFlowPage - started : clickOnSearchCustomer
+[INFO ] 2024-06-12 15:17:30.322 [main] BusinessPhoneFlowPage - completed : clickOnSearchCustomer
+[INFO ] 2024-06-12 15:17:30.325 [main] BusinessPhoneFlowPage - started : entercutomerfirstnameAndlastname
+[INFO ] 2024-06-12 15:17:36.598 [main] BusinessPhoneFlowPage - completed : entercutomerfirstnameAndlastname
+[INFO ] 2024-06-12 15:17:36.602 [main] BusinessPhoneFlowPage - Started:enterAddressInAddressSearch
+[INFO ] 2024-06-12 15:17:40.959 [main] BusinessPhoneFlowPage - completed:enterAddressInAddressSearch
+[INFO ] 2024-06-12 15:17:40.959 [main] BusinessPhoneFlowPage - Started:clickOnWireLessBusinessOrder
+[INFO ] 2024-06-12 15:17:48.202 [main] BusinessPhoneFlowPage - Completed:clickOnWireLessBusinessOrder
+[INFO ] 2024-06-12 15:17:48.202 [main] BusinessPhoneFlowPage - Started:clickOnBusinessPhone
+[INFO ] 2024-06-12 15:17:49.231 [main] BusinessPhoneFlowPage - Title is :Rogers OASYS Direct | Product Selection
+[INFO ] 2024-06-12 15:17:49.337 [main] BusinessPhoneFlowPage - Completed:clickOnBusinessPhone
+[INFO ] 2024-06-12 15:17:49.339 [main] BusinessPhoneFlowPage - Started:clickOnContinueBtnOnPopup
+[INFO ] 2024-06-12 15:17:55.756 [main] BusinessPhoneFlowPage - completed:clickOnContinueBtnOnPopup
+[INFO ] 2024-06-12 15:17:55.757 [main] BusinessPhoneFlowPage - Strated : AddpackageBusiessphone
+[INFO ] 2024-06-12 15:17:55.770 [main] BusinessPhoneFlowPage - Title is :Rogers OASYS Direct | AccountInfoPage
+[INFO ] 2024-06-12 15:18:22.626 [main] BusinessPhoneFlowPage - Completed : AddpackageBusiessphone
+[INFO ] 2024-06-12 15:18:22.627 [main] BusinessPhoneFlowPage - started:clcikPlusButtonOnHardwarePage
+[INFO ] 2024-06-12 15:18:28.056 [main] BusinessPhoneFlowPage - Completed:clcikPlusButtonOnHardwarePage
+[INFO ] 2024-06-12 15:18:28.057 [main] BusinessPhoneFlowPage - started:clcikAddFreaturePageBusinessPhone
+[INFO ] 2024-06-12 15:18:41.587 [main] BusinessPhoneFlowPage - Completed:clcikAddFreaturePageBusinessPhone
+[INFO ] 2024-06-12 15:18:41.588 [main] BusinessPhoneFlowPage - started:clickOnAddInstallationAndPromotion
+[INFO ] 2024-06-12 15:18:41.602 [main] BusinessPhoneFlowPage - Title is :Rogers OASYS Direct | Shopping Cart
+[INFO ] 2024-06-12 15:19:12.483 [main] BusinessPhoneFlowPage - Completed:clickOnAddInstallationAndPromotion
+[INFO ] 2024-06-12 15:19:12.484 [main] BusinessPhoneFlowPage - Strated : UserinformationBusinessphone
+[INFO ] 2024-06-12 15:19:14.508 [main] BusinessPhoneFlowPage - Title is : Rogers OASYS Direct | Rogers Home Phone More Information
+[INFO ] 2024-06-12 15:19:25.269 [main] BusinessPhoneFlowPage - completed : UserinformationBusinessphone
+[INFO ] 2024-06-12 15:19:25.270 [main] BusinessPhoneFlowPage - Started : Accountinformationpage
+[INFO ] 2024-06-12 15:19:27.300 [main] BusinessPhoneFlowPage - Title is :Rogers OASYS Direct | AccountInfoPage
+[INFO ] 2024-06-12 15:19:42.469 [main] BusinessPhoneFlowPage - completed : Accountinformationpage
+[INFO ] 2024-06-12 15:19:42.471 [main] BusinessPhoneFlowPage - Started:fillAddressInfoBusinessPhone
+[INFO ] 2024-06-12 15:19:44.484 [main] BusinessPhoneFlowPage - Title is :Rogers OASYS Direct | Order Address Details
+[INFO ] 2024-06-12 15:22:18.769 [main] BusinessPhoneFlowPage - started : clickOnSearchCustomer
+[INFO ] 2024-06-12 15:22:26.315 [main] BusinessPhoneFlowPage - completed : clickOnSearchCustomer
+[INFO ] 2024-06-12 15:22:26.317 [main] BusinessPhoneFlowPage - started : entercutomerfirstnameAndlastname
+[INFO ] 2024-06-12 15:22:33.062 [main] BusinessPhoneFlowPage - completed : entercutomerfirstnameAndlastname
+[INFO ] 2024-06-12 15:22:33.066 [main] BusinessPhoneFlowPage - Started:enterAddressInAddressSearch
+[INFO ] 2024-06-12 15:22:37.550 [main] BusinessPhoneFlowPage - completed:enterAddressInAddressSearch
+[INFO ] 2024-06-12 15:22:37.550 [main] BusinessPhoneFlowPage - Started:clickOnWireLessBusinessOrder
+[INFO ] 2024-06-12 15:22:44.675 [main] BusinessPhoneFlowPage - Completed:clickOnWireLessBusinessOrder
+[INFO ] 2024-06-12 15:22:44.676 [main] BusinessPhoneFlowPage - Started:clickOnBusinessPhone
+[INFO ] 2024-06-12 15:22:45.713 [main] BusinessPhoneFlowPage - Title is :Rogers OASYS Direct | Product Selection
+[INFO ] 2024-06-12 15:22:45.890 [main] BusinessPhoneFlowPage - Completed:clickOnBusinessPhone
+[INFO ] 2024-06-12 15:22:45.891 [main] BusinessPhoneFlowPage - Started:clickOnContinueBtnOnPopup
+[INFO ] 2024-06-12 15:22:52.410 [main] BusinessPhoneFlowPage - completed:clickOnContinueBtnOnPopup
+[INFO ] 2024-06-12 15:22:52.412 [main] BusinessPhoneFlowPage - Strated : AddpackageBusiessphone
+[INFO ] 2024-06-12 15:22:52.429 [main] BusinessPhoneFlowPage - Title is :Rogers OASYS Direct | AccountInfoPage
+[INFO ] 2024-06-12 15:23:18.911 [main] BusinessPhoneFlowPage - Completed : AddpackageBusiessphone
+[INFO ] 2024-06-12 15:23:18.913 [main] BusinessPhoneFlowPage - started:clcikPlusButtonOnHardwarePage
+[INFO ] 2024-06-12 15:23:24.402 [main] BusinessPhoneFlowPage - Completed:clcikPlusButtonOnHardwarePage
+[INFO ] 2024-06-12 15:23:24.403 [main] BusinessPhoneFlowPage - started:clcikAddFreaturePageBusinessPhone
+[INFO ] 2024-06-12 15:23:38.617 [main] BusinessPhoneFlowPage - Completed:clcikAddFreaturePageBusinessPhone
+[INFO ] 2024-06-12 15:23:38.617 [main] BusinessPhoneFlowPage - started:clickOnAddInstallationAndPromotion
+[INFO ] 2024-06-12 15:23:38.632 [main] BusinessPhoneFlowPage - Title is :Rogers OASYS Direct | Shopping Cart
+[INFO ] 2024-06-12 15:24:11.113 [main] BusinessPhoneFlowPage - Completed:clickOnAddInstallationAndPromotion
+[INFO ] 2024-06-12 15:24:11.115 [main] BusinessPhoneFlowPage - Strated : UserinformationBusinessphone
+[INFO ] 2024-06-12 15:24:13.151 [main] BusinessPhoneFlowPage - Title is : Rogers OASYS Direct | Rogers Home Phone More Information
+[INFO ] 2024-06-12 15:24:23.556 [main] BusinessPhoneFlowPage - completed : UserinformationBusinessphone
+[INFO ] 2024-06-12 15:24:23.558 [main] BusinessPhoneFlowPage - Started : Accountinformationpage
+[INFO ] 2024-06-12 15:24:25.595 [main] BusinessPhoneFlowPage - Title is :Rogers OASYS Direct | AccountInfoPage
+[INFO ] 2024-06-12 15:24:41.438 [main] BusinessPhoneFlowPage - completed : Accountinformationpage
+[INFO ] 2024-06-12 15:24:41.439 [main] BusinessPhoneFlowPage - Started:fillAddressInfoBusinessPhone
+[INFO ] 2024-06-12 15:24:43.470 [main] BusinessPhoneFlowPage - Title is :Rogers OASYS Direct | Order Address Details
+[INFO ] 2024-06-12 15:24:49.778 [main] BusinessPhoneFlowPage - Completed:fillAddressInfoBusinessPhone
+[INFO ] 2024-06-12 15:24:49.782 [main] BusinessPhoneFlowPage - Started:fillCustomerCreditInfo
+[INFO ] 2024-06-12 15:24:51.803 [main] BusinessPhoneFlowPage - Title is :Rogers OASYS Direct | Customer Credit Information
+[INFO ] 2024-06-12 15:25:05.963 [main] BusinessPhoneFlowPage - Completed:fillCustomerCreditInfo
+[INFO ] 2024-06-12 15:25:05.972 [main] BusinessPhoneFlowPage - Started:clickOnEmailConfirmation
+[INFO ] 2024-06-12 15:25:07.993 [main] BusinessPhoneFlowPage - Title is :Rogers OASYS Direct | Order Summary

@@ -1,0 +1,1005 @@
+[INFO ] 2024-05-30 18:00:43.614 [main] BusinessPhoneFlowPage - Started : ClickonRogersbtn
+[INFO ] 2024-05-30 18:00:45.937 [main] BusinessPhoneFlowPage - completed : ClickonRogersbtn
+[INFO ] 2024-05-30 18:00:45.938 [main] BusinessPhoneFlowPage - Started : Enter useremailid
+[INFO ] 2024-05-30 18:00:48.176 [main] BusinessPhoneFlowPage - Completed : enter useremailid
+[INFO ] 2024-05-30 18:00:48.177 [main] BusinessPhoneFlowPage - started : enterpassword
+[INFO ] 2024-05-30 18:00:51.367 [main] BusinessPhoneFlowPage - completed : enterpassword
+[INFO ] 2024-05-30 18:00:51.370 [main] BusinessPhoneFlowPage - started : clickonsigninbtn
+[INFO ] 2024-05-30 18:05:44.148 [main] BusinessPhoneFlowPage - Started : ClickonRogersbtn
+[INFO ] 2024-05-30 18:05:46.258 [main] BusinessPhoneFlowPage - completed : ClickonRogersbtn
+[INFO ] 2024-05-30 18:05:46.259 [main] BusinessPhoneFlowPage - Started : Enter useremailid
+[INFO ] 2024-05-30 18:05:48.537 [main] BusinessPhoneFlowPage - Completed : enter useremailid
+[INFO ] 2024-05-30 18:05:48.537 [main] BusinessPhoneFlowPage - started : enterpassword
+[INFO ] 2024-05-30 18:05:51.731 [main] BusinessPhoneFlowPage - completed : enterpassword
+[INFO ] 2024-05-30 18:05:51.735 [main] BusinessPhoneFlowPage - started : clickonsigninbtn
+[INFO ] 2024-05-30 18:08:02.263 [main] BusinessPhoneFlowPage - Started : ClickonRogersbtn
+[INFO ] 2024-05-30 18:08:04.371 [main] BusinessPhoneFlowPage - completed : ClickonRogersbtn
+[INFO ] 2024-05-30 18:08:04.371 [main] BusinessPhoneFlowPage - Started : Enter useremailid
+[INFO ] 2024-05-30 18:08:06.542 [main] BusinessPhoneFlowPage - Completed : enter useremailid
+[INFO ] 2024-05-30 18:08:06.542 [main] BusinessPhoneFlowPage - started : enterpassword
+[INFO ] 2024-05-30 18:08:09.758 [main] BusinessPhoneFlowPage - completed : enterpassword
+[INFO ] 2024-05-30 18:08:09.762 [main] BusinessPhoneFlowPage - started : clickonsigninbtn
+[INFO ] 2024-05-30 18:12:08.113 [main] BusinessPhoneFlowPage - Started : ClickonRogersbtn
+[INFO ] 2024-05-30 18:12:10.020 [main] BusinessPhoneFlowPage - completed : ClickonRogersbtn
+[INFO ] 2024-05-30 18:12:10.022 [main] BusinessPhoneFlowPage - Started : Enter useremailid
+[INFO ] 2024-05-30 18:12:12.161 [main] BusinessPhoneFlowPage - Completed : enter useremailid
+[INFO ] 2024-05-30 18:12:12.162 [main] BusinessPhoneFlowPage - started : enterpassword
+[INFO ] 2024-05-30 18:12:15.278 [main] BusinessPhoneFlowPage - completed : enterpassword
+[INFO ] 2024-05-30 18:12:15.283 [main] BusinessPhoneFlowPage - started : clickonsigninbtn
+[INFO ] 2024-05-30 18:13:04.800 [main] BusinessPhoneFlowPage - Started : ClickonRogersbtn
+[INFO ] 2024-05-30 18:13:06.934 [main] BusinessPhoneFlowPage - completed : ClickonRogersbtn
+[INFO ] 2024-05-30 18:13:06.934 [main] BusinessPhoneFlowPage - Started : Enter useremailid
+[INFO ] 2024-05-30 18:13:09.189 [main] BusinessPhoneFlowPage - Completed : enter useremailid
+[INFO ] 2024-05-30 18:13:09.189 [main] BusinessPhoneFlowPage - started : enterpassword
+[INFO ] 2024-05-30 18:13:12.387 [main] BusinessPhoneFlowPage - completed : enterpassword
+[INFO ] 2024-05-30 18:13:12.390 [main] BusinessPhoneFlowPage - started : clickonsigninbtn
+[INFO ] 2024-05-30 18:14:40.616 [main] BusinessPhoneFlowPage - Started : ClickonRogersbtn
+[INFO ] 2024-05-30 18:14:42.620 [main] BusinessPhoneFlowPage - completed : ClickonRogersbtn
+[INFO ] 2024-05-30 18:14:42.621 [main] BusinessPhoneFlowPage - Started : Enter useremailid
+[INFO ] 2024-05-30 18:14:44.865 [main] BusinessPhoneFlowPage - Completed : enter useremailid
+[INFO ] 2024-05-30 18:14:44.865 [main] BusinessPhoneFlowPage - started : enterpassword
+[INFO ] 2024-05-30 18:14:48.054 [main] BusinessPhoneFlowPage - completed : enterpassword
+[INFO ] 2024-05-30 18:14:48.059 [main] BusinessPhoneFlowPage - started : clickonsigninbtn
+[INFO ] 2024-05-30 18:21:06.348 [main] BusinessPhoneFlowPage - Started : ClickonRogersbtn
+[INFO ] 2024-05-30 18:21:08.822 [main] BusinessPhoneFlowPage - completed : ClickonRogersbtn
+[INFO ] 2024-05-30 18:21:08.823 [main] BusinessPhoneFlowPage - Started : Enter useremailid
+[INFO ] 2024-05-30 18:21:10.976 [main] BusinessPhoneFlowPage - Completed : enter useremailid
+[INFO ] 2024-05-30 18:21:10.976 [main] BusinessPhoneFlowPage - started : enterpassword
+[INFO ] 2024-05-30 18:21:14.127 [main] BusinessPhoneFlowPage - completed : enterpassword
+[INFO ] 2024-05-30 18:21:14.129 [main] BusinessPhoneFlowPage - started : clickonsigninbtn
+[INFO ] 2024-05-30 18:21:19.951 [main] BusinessPhoneFlowPage - completed : clickonsigninbtn and nextbutton
+[INFO ] 2024-05-30 18:21:19.952 [main] BusinessPhoneFlowPage - started : clickOnSearchCustomer
+[INFO ] 2024-05-30 18:23:33.198 [main] BusinessPhoneFlowPage - Started : ClickonRogersbtn
+[INFO ] 2024-05-30 18:23:35.284 [main] BusinessPhoneFlowPage - completed : ClickonRogersbtn
+[INFO ] 2024-05-30 18:23:35.285 [main] BusinessPhoneFlowPage - Started : Enter useremailid
+[INFO ] 2024-05-30 18:23:37.515 [main] BusinessPhoneFlowPage - Completed : enter useremailid
+[INFO ] 2024-05-30 18:23:37.515 [main] BusinessPhoneFlowPage - started : enterpassword
+[INFO ] 2024-05-30 18:23:40.696 [main] BusinessPhoneFlowPage - completed : enterpassword
+[INFO ] 2024-05-30 18:23:40.699 [main] BusinessPhoneFlowPage - started : clickonsigninbtn
+[INFO ] 2024-05-30 18:23:50.476 [main] BusinessPhoneFlowPage - completed : clickonsigninbtn and nextbutton
+[INFO ] 2024-05-30 18:23:50.476 [main] BusinessPhoneFlowPage - started : clickOnSearchCustomer
+[INFO ] 2024-05-30 18:25:16.473 [main] BusinessPhoneFlowPage - Started : ClickonRogersbtn
+[INFO ] 2024-05-30 18:25:18.636 [main] BusinessPhoneFlowPage - completed : ClickonRogersbtn
+[INFO ] 2024-05-30 18:25:18.637 [main] BusinessPhoneFlowPage - Started : Enter useremailid
+[INFO ] 2024-05-30 18:25:20.930 [main] BusinessPhoneFlowPage - Completed : enter useremailid
+[INFO ] 2024-05-30 18:25:20.930 [main] BusinessPhoneFlowPage - started : enterpassword
+[INFO ] 2024-05-30 18:25:24.119 [main] BusinessPhoneFlowPage - completed : enterpassword
+[INFO ] 2024-05-30 18:25:24.123 [main] BusinessPhoneFlowPage - started : clickonsigninbtn
+[INFO ] 2024-05-30 18:25:33.998 [main] BusinessPhoneFlowPage - completed : clickonsigninbtn and nextbutton
+[INFO ] 2024-05-30 18:25:33.998 [main] BusinessPhoneFlowPage - started : clickOnSearchCustomer
+[INFO ] 2024-05-30 18:28:00.664 [main] BusinessPhoneFlowPage - Started : ClickonRogersbtn
+[INFO ] 2024-05-30 18:28:02.901 [main] BusinessPhoneFlowPage - completed : ClickonRogersbtn
+[INFO ] 2024-05-30 18:28:02.902 [main] BusinessPhoneFlowPage - Started : Enter useremailid
+[INFO ] 2024-05-30 18:28:05.074 [main] BusinessPhoneFlowPage - Completed : enter useremailid
+[INFO ] 2024-05-30 18:28:05.074 [main] BusinessPhoneFlowPage - started : enterpassword
+[INFO ] 2024-05-30 18:28:08.175 [main] BusinessPhoneFlowPage - completed : enterpassword
+[INFO ] 2024-05-30 18:28:08.182 [main] BusinessPhoneFlowPage - started : clickonsigninbtn
+[INFO ] 2024-05-30 18:30:12.178 [main] BusinessPhoneFlowPage - Started : ClickonRogersbtn
+[INFO ] 2024-05-30 18:30:15.444 [main] BusinessPhoneFlowPage - completed : ClickonRogersbtn
+[INFO ] 2024-05-30 18:30:15.447 [main] BusinessPhoneFlowPage - Started : Enter useremailid
+[INFO ] 2024-05-30 18:30:17.990 [main] BusinessPhoneFlowPage - Completed : enter useremailid
+[INFO ] 2024-05-30 18:30:17.991 [main] BusinessPhoneFlowPage - started : enterpassword
+[INFO ] 2024-05-30 18:30:21.411 [main] BusinessPhoneFlowPage - completed : enterpassword
+[INFO ] 2024-05-30 18:30:21.418 [main] BusinessPhoneFlowPage - started : clickonsigninbtn
+[INFO ] 2024-05-30 18:31:18.593 [main] BusinessPhoneFlowPage - Started : ClickonRogersbtn
+[INFO ] 2024-05-30 18:31:21.279 [main] BusinessPhoneFlowPage - completed : ClickonRogersbtn
+[INFO ] 2024-05-30 18:31:21.281 [main] BusinessPhoneFlowPage - Started : Enter useremailid
+[INFO ] 2024-05-30 18:31:23.839 [main] BusinessPhoneFlowPage - Completed : enter useremailid
+[INFO ] 2024-05-30 18:31:23.839 [main] BusinessPhoneFlowPage - started : enterpassword
+[INFO ] 2024-05-30 18:31:27.257 [main] BusinessPhoneFlowPage - completed : enterpassword
+[INFO ] 2024-05-30 18:31:27.266 [main] BusinessPhoneFlowPage - started : clickonsigninbtn
+[INFO ] 2024-05-30 18:31:37.417 [main] BusinessPhoneFlowPage - completed : clickonsigninbtn and nextbutton
+[INFO ] 2024-05-30 18:31:37.418 [main] BusinessPhoneFlowPage - started : clickOnSearchCustomer
+[INFO ] 2024-05-30 18:33:05.166 [main] BusinessPhoneFlowPage - Started : ClickonRogersbtn
+[INFO ] 2024-05-30 18:33:07.670 [main] BusinessPhoneFlowPage - completed : ClickonRogersbtn
+[INFO ] 2024-05-30 18:33:07.672 [main] BusinessPhoneFlowPage - Started : Enter useremailid
+[INFO ] 2024-05-30 18:33:09.930 [main] BusinessPhoneFlowPage - Completed : enter useremailid
+[INFO ] 2024-05-30 18:33:09.930 [main] BusinessPhoneFlowPage - started : enterpassword
+[INFO ] 2024-05-30 18:33:13.239 [main] BusinessPhoneFlowPage - completed : enterpassword
+[INFO ] 2024-05-30 18:33:13.251 [main] BusinessPhoneFlowPage - started : clickonsigninbtn
+[INFO ] 2024-05-30 18:33:22.373 [main] BusinessPhoneFlowPage - completed : clickonsigninbtn and nextbutton
+[INFO ] 2024-05-30 18:33:22.375 [main] BusinessPhoneFlowPage - started : clickOnSearchCustomer
+[INFO ] 2024-05-30 18:43:24.714 [main] BusinessPhoneFlowPage - Started : ClickonRogersbtn
+[INFO ] 2024-05-30 18:43:27.279 [main] BusinessPhoneFlowPage - completed : ClickonRogersbtn
+[INFO ] 2024-05-30 18:43:27.281 [main] BusinessPhoneFlowPage - Started : Enter useremailid
+[INFO ] 2024-05-30 18:43:29.829 [main] BusinessPhoneFlowPage - Completed : enter useremailid
+[INFO ] 2024-05-30 18:43:29.829 [main] BusinessPhoneFlowPage - started : enterpassword
+[INFO ] 2024-05-30 18:43:33.212 [main] BusinessPhoneFlowPage - completed : enterpassword
+[INFO ] 2024-05-30 18:43:33.223 [main] BusinessPhoneFlowPage - started : clickonsigninbtn
+[INFO ] 2024-05-30 18:43:42.327 [main] BusinessPhoneFlowPage - completed : clickonsigninbtn and nextbutton
+[INFO ] 2024-05-30 18:43:42.329 [main] BusinessPhoneFlowPage - started : clickOnSearchCustomer
+[INFO ] 2024-05-30 18:49:04.422 [main] BusinessPhoneFlowPage - Started : ClickonRogersbtn
+[INFO ] 2024-05-30 18:49:06.880 [main] BusinessPhoneFlowPage - completed : ClickonRogersbtn
+[INFO ] 2024-05-30 18:49:06.881 [main] BusinessPhoneFlowPage - Started : Enter useremailid
+[INFO ] 2024-05-30 18:49:09.229 [main] BusinessPhoneFlowPage - Completed : enter useremailid
+[INFO ] 2024-05-30 18:49:09.229 [main] BusinessPhoneFlowPage - started : enterpassword
+[INFO ] 2024-05-30 18:49:12.585 [main] BusinessPhoneFlowPage - completed : enterpassword
+[INFO ] 2024-05-30 18:49:12.591 [main] BusinessPhoneFlowPage - started : clickonsigninbtn
+[INFO ] 2024-05-30 18:49:21.696 [main] BusinessPhoneFlowPage - completed : clickonsigninbtn and nextbutton
+[INFO ] 2024-05-30 18:49:21.697 [main] BusinessPhoneFlowPage - started : clickonnextbtn
+[INFO ] 2024-05-30 18:49:24.648 [main] BusinessPhoneFlowPage - completed : clickonnextbtn
+[INFO ] 2024-05-30 18:49:24.649 [main] BusinessPhoneFlowPage - started : clickOnSearchCustomer
+[INFO ] 2024-05-30 18:55:40.364 [main] BusinessPhoneFlowPage - Started : ClickonRogersbtn
+[INFO ] 2024-05-30 18:55:42.902 [main] BusinessPhoneFlowPage - completed : ClickonRogersbtn
+[INFO ] 2024-05-30 18:55:42.904 [main] BusinessPhoneFlowPage - Started : Enter useremailid
+[INFO ] 2024-05-30 18:55:45.418 [main] BusinessPhoneFlowPage - Completed : enter useremailid
+[INFO ] 2024-05-30 18:55:45.419 [main] BusinessPhoneFlowPage - started : enterpassword
+[INFO ] 2024-05-30 18:55:48.825 [main] BusinessPhoneFlowPage - completed : enterpassword
+[INFO ] 2024-05-30 18:55:48.835 [main] BusinessPhoneFlowPage - started : clickonsigninbtn
+[INFO ] 2024-05-30 18:55:58.007 [main] BusinessPhoneFlowPage - completed : clickonsigninbtn and nextbutton
+[INFO ] 2024-05-30 18:55:58.010 [main] BusinessPhoneFlowPage - started : clickonnextbtn
+[INFO ] 2024-05-30 18:56:08.031 [main] BusinessPhoneFlowPage - completed : clickonnextbtn
+[INFO ] 2024-05-30 18:56:08.033 [main] BusinessPhoneFlowPage - started : clickOnSearchCustomer
+[INFO ] 2024-05-30 18:58:20.158 [main] BusinessPhoneFlowPage - Started : ClickonRogersbtn
+[INFO ] 2024-05-30 18:58:22.807 [main] BusinessPhoneFlowPage - completed : ClickonRogersbtn
+[INFO ] 2024-05-30 18:58:22.809 [main] BusinessPhoneFlowPage - Started : Enter useremailid
+[INFO ] 2024-05-30 18:58:25.332 [main] BusinessPhoneFlowPage - Completed : enter useremailid
+[INFO ] 2024-05-30 18:58:25.333 [main] BusinessPhoneFlowPage - started : enterpassword
+[INFO ] 2024-05-30 18:58:28.734 [main] BusinessPhoneFlowPage - completed : enterpassword
+[INFO ] 2024-05-30 18:58:28.752 [main] BusinessPhoneFlowPage - started : clickonsigninbtn
+[INFO ] 2024-05-30 18:58:37.992 [main] BusinessPhoneFlowPage - completed : clickonsigninbtn and nextbutton
+[INFO ] 2024-05-30 18:58:37.993 [main] BusinessPhoneFlowPage - started : clickonnextbtn
+[INFO ] 2024-05-30 18:58:48.033 [main] BusinessPhoneFlowPage - completed : clickonnextbtn
+[INFO ] 2024-05-30 18:58:48.034 [main] BusinessPhoneFlowPage - started : clickOnSearchCustomer
+[INFO ] 2024-05-30 19:05:17.934 [main] BusinessPhoneFlowPage - Started : ClickonRogersbtn
+[INFO ] 2024-05-30 19:05:21.448 [main] BusinessPhoneFlowPage - completed : ClickonRogersbtn
+[INFO ] 2024-05-30 19:05:21.450 [main] BusinessPhoneFlowPage - Started : Enter useremailid
+[INFO ] 2024-05-30 19:05:23.641 [main] BusinessPhoneFlowPage - Completed : enter useremailid
+[INFO ] 2024-05-30 19:05:23.642 [main] BusinessPhoneFlowPage - started : enterpassword
+[INFO ] 2024-05-30 19:05:26.730 [main] BusinessPhoneFlowPage - completed : enterpassword
+[INFO ] 2024-05-30 19:05:26.745 [main] BusinessPhoneFlowPage - started : clickonsigninbtn
+[INFO ] 2024-05-30 19:05:36.031 [main] BusinessPhoneFlowPage - completed : clickonsigninbtn and nextbutton
+[INFO ] 2024-05-30 19:05:36.033 [main] BusinessPhoneFlowPage - started : clickonnextbtn
+[INFO ] 2024-05-30 19:05:46.006 [main] BusinessPhoneFlowPage - completed : clickonnextbtn
+[INFO ] 2024-05-30 19:05:46.007 [main] BusinessPhoneFlowPage - started : clickOnSearchCustomer
+[INFO ] 2024-05-30 20:02:23.721 [main] BusinessPhoneFlowPage - Started : ClickonRogersbtn
+[INFO ] 2024-05-30 20:02:26.168 [main] BusinessPhoneFlowPage - completed : ClickonRogersbtn
+[INFO ] 2024-05-30 20:02:26.173 [main] BusinessPhoneFlowPage - Started : Enter useremailid
+[INFO ] 2024-05-30 20:02:28.424 [main] BusinessPhoneFlowPage - Completed : enter useremailid
+[INFO ] 2024-05-30 20:02:28.424 [main] BusinessPhoneFlowPage - started : enterpassword
+[INFO ] 2024-05-30 20:02:31.683 [main] BusinessPhoneFlowPage - completed : enterpassword
+[INFO ] 2024-05-30 20:02:31.695 [main] BusinessPhoneFlowPage - started : clickonsigninbtn
+[INFO ] 2024-05-30 20:02:40.837 [main] BusinessPhoneFlowPage - completed : clickonsigninbtn and nextbutton
+[INFO ] 2024-05-30 20:02:40.840 [main] BusinessPhoneFlowPage - started : clickonnextbtn
+[INFO ] 2024-05-30 20:02:51.017 [main] BusinessPhoneFlowPage - completed : clickonnextbtn
+[INFO ] 2024-05-30 20:02:51.019 [main] BusinessPhoneFlowPage - started : clickOnSearchCustomer
+[INFO ] 2024-05-30 20:17:39.807 [main] BusinessPhoneFlowPage - Started : ClickonRogersbtn
+[INFO ] 2024-05-30 20:18:08.838 [main] BusinessPhoneFlowPage - Started : ClickonRogersbtn
+[INFO ] 2024-05-30 21:02:16.597 [main] BusinessPhoneFlowPage - Started : ClickonRogersbtn
+[INFO ] 2024-05-30 21:02:18.789 [main] BusinessPhoneFlowPage - completed : ClickonRogersbtn
+[INFO ] 2024-05-30 21:02:18.790 [main] BusinessPhoneFlowPage - Started : Enter useremailid
+[INFO ] 2024-05-30 21:02:20.981 [main] BusinessPhoneFlowPage - Completed : enter useremailid
+[INFO ] 2024-05-30 21:02:20.981 [main] BusinessPhoneFlowPage - started : enterpassword
+[INFO ] 2024-05-30 21:02:24.270 [main] BusinessPhoneFlowPage - completed : enterpassword
+[INFO ] 2024-05-30 21:02:24.273 [main] BusinessPhoneFlowPage - started : clickonsigninbtn
+[INFO ] 2024-05-30 21:02:33.342 [main] BusinessPhoneFlowPage - completed : clickonsigninbtn and nextbutton
+[INFO ] 2024-05-30 21:02:33.344 [main] BusinessPhoneFlowPage - started : clickonnextbtn
+[INFO ] 2024-05-30 21:02:43.179 [main] BusinessPhoneFlowPage - completed : clickonnextbtn
+[INFO ] 2024-05-30 21:02:43.180 [main] BusinessPhoneFlowPage - started : clickOnSearchCustomer
+[INFO ] 2024-05-30 21:03:29.652 [main] BusinessPhoneFlowPage - Started : ClickonRogersbtn
+[INFO ] 2024-05-30 21:03:31.580 [main] BusinessPhoneFlowPage - completed : ClickonRogersbtn
+[INFO ] 2024-05-30 21:03:31.581 [main] BusinessPhoneFlowPage - Started : Enter useremailid
+[INFO ] 2024-05-30 21:03:33.792 [main] BusinessPhoneFlowPage - Completed : enter useremailid
+[INFO ] 2024-05-30 21:03:33.793 [main] BusinessPhoneFlowPage - started : enterpassword
+[INFO ] 2024-05-30 21:03:36.993 [main] BusinessPhoneFlowPage - completed : enterpassword
+[INFO ] 2024-05-30 21:03:36.996 [main] BusinessPhoneFlowPage - started : clickonsigninbtn
+[INFO ] 2024-05-30 21:03:46.062 [main] BusinessPhoneFlowPage - completed : clickonsigninbtn and nextbutton
+[INFO ] 2024-05-30 21:03:46.064 [main] BusinessPhoneFlowPage - started : clickonnextbtn
+[INFO ] 2024-05-30 21:03:55.838 [main] BusinessPhoneFlowPage - completed : clickonnextbtn
+[INFO ] 2024-05-30 21:03:55.839 [main] BusinessPhoneFlowPage - started : clickOnSearchCustomer
+[INFO ] 2024-05-30 21:42:16.901 [main] BusinessPhoneFlowPage - Started : ClickonRogersbtn
+[INFO ] 2024-05-30 21:42:19.281 [main] BusinessPhoneFlowPage - completed : ClickonRogersbtn
+[INFO ] 2024-05-30 21:42:19.283 [main] BusinessPhoneFlowPage - Started : Enter useremailid
+[INFO ] 2024-05-30 21:42:21.801 [main] BusinessPhoneFlowPage - Completed : enter useremailid
+[INFO ] 2024-05-30 21:42:21.802 [main] BusinessPhoneFlowPage - started : enterpassword
+[INFO ] 2024-05-30 21:42:25.262 [main] BusinessPhoneFlowPage - completed : enterpassword
+[INFO ] 2024-05-30 21:42:25.278 [main] BusinessPhoneFlowPage - started : clickonsigninbtn
+[INFO ] 2024-05-30 21:42:34.513 [main] BusinessPhoneFlowPage - completed : clickonsigninbtn and nextbutton
+[INFO ] 2024-05-30 21:42:34.515 [main] BusinessPhoneFlowPage - started : clickonnextbtn
+[INFO ] 2024-05-30 21:42:36.382 [main] BusinessPhoneFlowPage - completed : clickonnextbtn
+[INFO ] 2024-05-30 21:42:36.382 [main] BusinessPhoneFlowPage - started : clickOnSearchCustomer
+[INFO ] 2024-05-30 21:44:14.821 [main] BusinessPhoneFlowPage - Started : ClickonRogersbtn
+[INFO ] 2024-05-30 21:44:19.706 [main] BusinessPhoneFlowPage - completed : ClickonRogersbtn
+[INFO ] 2024-05-30 21:44:19.708 [main] BusinessPhoneFlowPage - Started : Enter useremailid
+[INFO ] 2024-05-30 21:45:13.721 [main] BusinessPhoneFlowPage - Started : ClickonRogersbtn
+[INFO ] 2024-05-30 21:45:16.669 [main] BusinessPhoneFlowPage - completed : ClickonRogersbtn
+[INFO ] 2024-05-30 21:45:16.671 [main] BusinessPhoneFlowPage - Started : Enter useremailid
+[INFO ] 2024-05-30 21:50:55.318 [main] BusinessPhoneFlowPage - Started : ClickonRogersbtn
+[INFO ] 2024-05-30 21:50:58.009 [main] BusinessPhoneFlowPage - completed : ClickonRogersbtn
+[INFO ] 2024-05-30 21:50:58.009 [main] BusinessPhoneFlowPage - Started : Enter useremailid
+[INFO ] 2024-05-30 21:51:41.841 [main] BusinessPhoneFlowPage - Started : ClickonRogersbtn
+[INFO ] 2024-05-30 21:51:43.806 [main] BusinessPhoneFlowPage - completed : ClickonRogersbtn
+[INFO ] 2024-05-30 21:51:43.807 [main] BusinessPhoneFlowPage - Started : Enter useremailid
+[INFO ] 2024-05-30 21:51:45.962 [main] BusinessPhoneFlowPage - Completed : enter useremailid
+[INFO ] 2024-05-30 21:51:45.963 [main] BusinessPhoneFlowPage - started : enterpassword
+[INFO ] 2024-05-30 21:51:49.085 [main] BusinessPhoneFlowPage - completed : enterpassword
+[INFO ] 2024-05-30 21:51:49.102 [main] BusinessPhoneFlowPage - started : clickonsigninbtn
+[INFO ] 2024-05-30 21:51:58.375 [main] BusinessPhoneFlowPage - completed : clickonsigninbtn and nextbutton
+[INFO ] 2024-05-30 21:51:58.376 [main] BusinessPhoneFlowPage - started : clickonnextbtn
+[INFO ] 2024-05-30 21:51:59.304 [main] BusinessPhoneFlowPage - completed : clickonnextbtn
+[INFO ] 2024-05-30 21:51:59.305 [main] BusinessPhoneFlowPage - started : clickOnSearchCustomer
+[INFO ] 2024-05-30 21:53:15.645 [main] BusinessPhoneFlowPage - Started : ClickonRogersbtn
+[INFO ] 2024-05-30 21:53:19.523 [main] BusinessPhoneFlowPage - completed : ClickonRogersbtn
+[INFO ] 2024-05-30 21:53:19.525 [main] BusinessPhoneFlowPage - Started : Enter useremailid
+[INFO ] 2024-05-30 21:53:21.658 [main] BusinessPhoneFlowPage - Completed : enter useremailid
+[INFO ] 2024-05-30 21:53:21.658 [main] BusinessPhoneFlowPage - started : enterpassword
+[INFO ] 2024-05-30 21:53:24.748 [main] BusinessPhoneFlowPage - completed : enterpassword
+[INFO ] 2024-05-30 21:53:24.763 [main] BusinessPhoneFlowPage - started : clickonsigninbtn
+[INFO ] 2024-05-30 21:53:34.034 [main] BusinessPhoneFlowPage - completed : clickonsigninbtn and nextbutton
+[INFO ] 2024-05-30 21:53:34.035 [main] BusinessPhoneFlowPage - started : clickonnextbtn
+[INFO ] 2024-05-30 21:53:34.898 [main] BusinessPhoneFlowPage - completed : clickonnextbtn
+[INFO ] 2024-05-30 21:53:34.899 [main] BusinessPhoneFlowPage - started : clickOnSearchCustomer
+[INFO ] 2024-05-30 21:55:17.058 [main] BusinessPhoneFlowPage - Started : ClickonRogersbtn
+[INFO ] 2024-05-30 21:55:21.388 [main] BusinessPhoneFlowPage - completed : ClickonRogersbtn
+[INFO ] 2024-05-30 21:55:21.389 [main] BusinessPhoneFlowPage - Started : Enter useremailid
+[INFO ] 2024-05-30 22:59:42.550 [main] BusinessPhoneFlowPage - Started : ClickonRogersbtn
+[INFO ] 2024-05-30 22:59:46.250 [main] BusinessPhoneFlowPage - completed : ClickonRogersbtn
+[INFO ] 2024-05-30 22:59:46.251 [main] BusinessPhoneFlowPage - Started : Enter useremailid
+[INFO ] 2024-05-30 23:01:11.608 [main] BusinessPhoneFlowPage - Started : ClickonRogersbtn
+[INFO ] 2024-05-30 23:01:14.782 [main] BusinessPhoneFlowPage - completed : ClickonRogersbtn
+[INFO ] 2024-05-30 23:01:14.783 [main] BusinessPhoneFlowPage - Started : Enter useremailid
+[INFO ] 2024-05-30 23:01:16.964 [main] BusinessPhoneFlowPage - Completed : enter useremailid
+[INFO ] 2024-05-30 23:01:16.964 [main] BusinessPhoneFlowPage - started : enterpassword
+[INFO ] 2024-05-30 23:01:20.104 [main] BusinessPhoneFlowPage - completed : enterpassword
+[INFO ] 2024-05-30 23:01:20.110 [main] BusinessPhoneFlowPage - started : clickonsigninbtn
+[INFO ] 2024-05-30 23:01:20.194 [main] BusinessPhoneFlowPage - completed : clickonsigninbtn and nextbutton
+[INFO ] 2024-05-30 23:01:20.195 [main] BusinessPhoneFlowPage - started : clickonnextbtn
+[INFO ] 2024-05-30 23:02:15.218 [main] BusinessPhoneFlowPage - Started : ClickonRogersbtn
+[INFO ] 2024-05-30 23:02:17.207 [main] BusinessPhoneFlowPage - completed : ClickonRogersbtn
+[INFO ] 2024-05-30 23:02:17.207 [main] BusinessPhoneFlowPage - Started : Enter useremailid
+[INFO ] 2024-05-30 23:02:19.378 [main] BusinessPhoneFlowPage - Completed : enter useremailid
+[INFO ] 2024-05-30 23:02:19.378 [main] BusinessPhoneFlowPage - started : enterpassword
+[INFO ] 2024-05-30 23:02:22.519 [main] BusinessPhoneFlowPage - completed : enterpassword
+[INFO ] 2024-05-30 23:02:22.523 [main] BusinessPhoneFlowPage - started : clickonsigninbtn
+[INFO ] 2024-05-30 23:02:25.606 [main] BusinessPhoneFlowPage - completed : clickonsigninbtn and nextbutton
+[INFO ] 2024-05-30 23:02:25.607 [main] BusinessPhoneFlowPage - started : clickonnextbtn
+[INFO ] 2024-05-30 23:02:36.155 [main] BusinessPhoneFlowPage - completed : clickonnextbtn
+[INFO ] 2024-05-30 23:02:36.155 [main] BusinessPhoneFlowPage - started : clickOnSearchCustomer
+[INFO ] 2024-05-30 23:05:16.001 [main] BusinessPhoneFlowPage - Started : ClickonRogersbtn
+[INFO ] 2024-05-30 23:05:39.335 [main] BusinessPhoneFlowPage - completed : ClickonRogersbtn
+[INFO ] 2024-05-30 23:05:39.335 [main] BusinessPhoneFlowPage - Started : Enter useremailid
+[INFO ] 2024-05-30 23:05:41.478 [main] BusinessPhoneFlowPage - Completed : enter useremailid
+[INFO ] 2024-05-30 23:05:41.478 [main] BusinessPhoneFlowPage - started : enterpassword
+[INFO ] 2024-05-30 23:05:44.594 [main] BusinessPhoneFlowPage - completed : enterpassword
+[INFO ] 2024-05-30 23:05:44.599 [main] BusinessPhoneFlowPage - started : clickonsigninbtn
+[INFO ] 2024-05-30 23:05:47.678 [main] BusinessPhoneFlowPage - completed : clickonsigninbtn and nextbutton
+[INFO ] 2024-05-30 23:05:47.678 [main] BusinessPhoneFlowPage - started : clickonnextbtn
+[INFO ] 2024-05-30 23:06:17.725 [main] BusinessPhoneFlowPage - completed : clickonnextbtn
+[INFO ] 2024-05-30 23:06:17.725 [main] BusinessPhoneFlowPage - started : clickOnSearchCustomer
+[INFO ] 2024-05-30 23:10:22.952 [main] BusinessPhoneFlowPage - Started : ClickonRogersbtn
+[INFO ] 2024-05-30 23:10:25.111 [main] BusinessPhoneFlowPage - completed : ClickonRogersbtn
+[INFO ] 2024-05-30 23:10:25.112 [main] BusinessPhoneFlowPage - Started : Enter useremailid
+[INFO ] 2024-05-30 23:10:27.286 [main] BusinessPhoneFlowPage - Completed : enter useremailid
+[INFO ] 2024-05-30 23:10:27.286 [main] BusinessPhoneFlowPage - started : enterpassword
+[INFO ] 2024-05-30 23:10:30.477 [main] BusinessPhoneFlowPage - completed : enterpassword
+[INFO ] 2024-05-30 23:10:30.480 [main] BusinessPhoneFlowPage - started : clickonsigninbtn
+[INFO ] 2024-05-30 23:10:33.555 [main] BusinessPhoneFlowPage - completed : clickonsigninbtn and nextbutton
+[INFO ] 2024-05-30 23:10:33.555 [main] BusinessPhoneFlowPage - started : clickonnextbtn
+[INFO ] 2024-05-30 23:10:54.317 [main] BusinessPhoneFlowPage - completed : clickonnextbtn
+[INFO ] 2024-05-30 23:10:54.317 [main] BusinessPhoneFlowPage - started : clickOnSearchCustomer
+[INFO ] 2024-05-30 23:13:04.200 [main] BusinessPhoneFlowPage - Started : ClickonRogersbtn
+[INFO ] 2024-05-30 23:13:06.627 [main] BusinessPhoneFlowPage - completed : ClickonRogersbtn
+[INFO ] 2024-05-30 23:13:06.627 [main] BusinessPhoneFlowPage - Started : Enter useremailid
+[INFO ] 2024-05-30 23:13:08.768 [main] BusinessPhoneFlowPage - Completed : enter useremailid
+[INFO ] 2024-05-30 23:13:08.768 [main] BusinessPhoneFlowPage - started : enterpassword
+[INFO ] 2024-05-30 23:13:11.870 [main] BusinessPhoneFlowPage - completed : enterpassword
+[INFO ] 2024-05-30 23:13:11.874 [main] BusinessPhoneFlowPage - started : clickonsigninbtn
+[INFO ] 2024-05-30 23:13:14.947 [main] BusinessPhoneFlowPage - completed : clickonsigninbtn and nextbutton
+[INFO ] 2024-05-30 23:13:14.948 [main] BusinessPhoneFlowPage - started : clickonnextbtn
+[INFO ] 2024-05-30 23:13:35.830 [main] BusinessPhoneFlowPage - completed : clickonnextbtn
+[INFO ] 2024-05-30 23:13:35.831 [main] BusinessPhoneFlowPage - started : clickOnSearchCustomer
+[INFO ] 2024-05-30 23:40:56.314 [main] BusinessPhoneFlowPage - Started : ClickonRogersbtn
+[INFO ] 2024-05-30 23:40:59.086 [main] BusinessPhoneFlowPage - completed : ClickonRogersbtn
+[INFO ] 2024-05-30 23:40:59.087 [main] BusinessPhoneFlowPage - Started : Enter useremailid
+[INFO ] 2024-05-30 23:41:01.380 [main] BusinessPhoneFlowPage - Completed : enter useremailid
+[INFO ] 2024-05-30 23:41:01.381 [main] BusinessPhoneFlowPage - started : enterpassword
+[INFO ] 2024-05-30 23:41:04.567 [main] BusinessPhoneFlowPage - completed : enterpassword
+[INFO ] 2024-05-30 23:41:04.575 [main] BusinessPhoneFlowPage - started : clickonsigninbtn
+[INFO ] 2024-05-30 23:41:07.691 [main] BusinessPhoneFlowPage - completed : clickonsigninbtn and nextbutton
+[INFO ] 2024-05-30 23:41:07.692 [main] BusinessPhoneFlowPage - started : clickonnextbtn
+[INFO ] 2024-05-30 23:41:28.609 [main] BusinessPhoneFlowPage - completed : clickonnextbtn
+[INFO ] 2024-05-30 23:41:28.610 [main] BusinessPhoneFlowPage - started : clickOnSearchCustomer
+[INFO ] 2024-05-31 02:24:32.247 [main] BusinessPhoneFlowPage - Started : ClickonRogersbtn
+[INFO ] 2024-05-31 02:24:38.162 [main] BusinessPhoneFlowPage - completed : ClickonRogersbtn
+[INFO ] 2024-05-31 02:24:38.162 [main] BusinessPhoneFlowPage - Started : Enter useremailid
+[INFO ] 2024-05-31 02:25:26.324 [main] BusinessPhoneFlowPage - Started : ClickonRogersbtn
+[INFO ] 2024-05-31 02:25:31.289 [main] BusinessPhoneFlowPage - completed : ClickonRogersbtn
+[INFO ] 2024-05-31 02:25:31.291 [main] BusinessPhoneFlowPage - Started : Enter useremailid
+[INFO ] 2024-05-31 02:25:33.593 [main] BusinessPhoneFlowPage - Completed : enter useremailid
+[INFO ] 2024-05-31 02:25:33.594 [main] BusinessPhoneFlowPage - started : enterpassword
+[INFO ] 2024-05-31 02:25:36.779 [main] BusinessPhoneFlowPage - completed : enterpassword
+[INFO ] 2024-05-31 02:25:36.792 [main] BusinessPhoneFlowPage - started : clickonsigninbtn
+[INFO ] 2024-05-31 02:25:39.922 [main] BusinessPhoneFlowPage - completed : clickonsigninbtn and nextbutton
+[INFO ] 2024-05-31 02:25:39.923 [main] BusinessPhoneFlowPage - started : clickonnextbtn
+[INFO ] 2024-05-31 02:26:02.291 [main] BusinessPhoneFlowPage - completed : clickonnextbtn
+[INFO ] 2024-05-31 02:26:02.291 [main] BusinessPhoneFlowPage - started : clickOnSearchCustomer
+[INFO ] 2024-05-31 02:53:29.314 [main] BusinessPhoneFlowPage - Started : ClickonRogersbtn
+[INFO ] 2024-05-31 02:53:33.835 [main] BusinessPhoneFlowPage - completed : ClickonRogersbtn
+[INFO ] 2024-05-31 02:53:33.835 [main] BusinessPhoneFlowPage - Started : Enter useremailid
+[INFO ] 2024-05-31 02:54:13.985 [main] BusinessPhoneFlowPage - Started : ClickonRogersbtn
+[INFO ] 2024-05-31 02:54:17.595 [main] BusinessPhoneFlowPage - completed : ClickonRogersbtn
+[INFO ] 2024-05-31 02:54:17.596 [main] BusinessPhoneFlowPage - Started : Enter useremailid
+[INFO ] 2024-05-31 02:55:33.584 [main] BusinessPhoneFlowPage - Started : ClickonRogersbtn
+[INFO ] 2024-05-31 02:55:38.674 [main] BusinessPhoneFlowPage - completed : ClickonRogersbtn
+[INFO ] 2024-05-31 02:55:38.676 [main] BusinessPhoneFlowPage - Started : Enter useremailid
+[INFO ] 2024-05-31 02:55:41.210 [main] BusinessPhoneFlowPage - Completed : enter useremailid
+[INFO ] 2024-05-31 02:55:41.210 [main] BusinessPhoneFlowPage - started : enterpassword
+[INFO ] 2024-05-31 02:55:44.536 [main] BusinessPhoneFlowPage - completed : enterpassword
+[INFO ] 2024-05-31 02:55:44.547 [main] BusinessPhoneFlowPage - started : clickonsigninbtn
+[INFO ] 2024-05-31 02:55:47.693 [main] BusinessPhoneFlowPage - completed : clickonsigninbtn and nextbutton
+[INFO ] 2024-05-31 02:55:47.694 [main] BusinessPhoneFlowPage - started : clickonnextbtn
+[INFO ] 2024-05-31 02:55:49.316 [main] BusinessPhoneFlowPage - completed : clickonnextbtn
+[INFO ] 2024-05-31 02:55:49.317 [main] BusinessPhoneFlowPage - started : clickOnSearchCustomer
+[INFO ] 2024-05-31 03:20:58.307 [main] BusinessPhoneFlowPage - Started : ClickonRogersbtn
+[INFO ] 2024-05-31 03:21:03.299 [main] BusinessPhoneFlowPage - completed : ClickonRogersbtn
+[INFO ] 2024-05-31 03:21:03.300 [main] BusinessPhoneFlowPage - Started : Enter useremailid
+[INFO ] 2024-05-31 03:21:05.896 [main] BusinessPhoneFlowPage - Completed : enter useremailid
+[INFO ] 2024-05-31 03:21:05.896 [main] BusinessPhoneFlowPage - started : enterpassword
+[INFO ] 2024-05-31 03:21:09.434 [main] BusinessPhoneFlowPage - completed : enterpassword
+[INFO ] 2024-05-31 03:21:09.441 [main] BusinessPhoneFlowPage - started : clickonsigninbtn
+[INFO ] 2024-05-31 03:21:12.551 [main] BusinessPhoneFlowPage - completed : clickonsigninbtn and nextbutton
+[INFO ] 2024-05-31 03:21:12.552 [main] BusinessPhoneFlowPage - started : clickonnextbtn
+[INFO ] 2024-05-31 03:21:43.718 [main] BusinessPhoneFlowPage - completed : clickonnextbtn
+[INFO ] 2024-05-31 03:21:43.719 [main] BusinessPhoneFlowPage - started : clickOnSearchCustomer
+[INFO ] 2024-05-31 03:25:31.375 [main] BusinessPhoneFlowPage - Started : ClickonRogersbtn
+[INFO ] 2024-05-31 03:25:36.958 [main] BusinessPhoneFlowPage - completed : ClickonRogersbtn
+[INFO ] 2024-05-31 03:25:36.960 [main] BusinessPhoneFlowPage - Started : Enter useremailid
+[INFO ] 2024-05-31 03:25:39.365 [main] BusinessPhoneFlowPage - Completed : enter useremailid
+[INFO ] 2024-05-31 03:25:39.365 [main] BusinessPhoneFlowPage - started : enterpassword
+[INFO ] 2024-05-31 03:25:42.748 [main] BusinessPhoneFlowPage - completed : enterpassword
+[INFO ] 2024-05-31 03:25:42.755 [main] BusinessPhoneFlowPage - started : clickonsigninbtn
+[INFO ] 2024-05-31 03:25:45.885 [main] BusinessPhoneFlowPage - completed : clickonsigninbtn and nextbutton
+[INFO ] 2024-05-31 03:25:45.887 [main] BusinessPhoneFlowPage - started : clickonnextbtn
+[INFO ] 2024-05-31 03:26:07.524 [main] BusinessPhoneFlowPage - completed : clickonnextbtn
+[INFO ] 2024-05-31 03:26:07.525 [main] BusinessPhoneFlowPage - started : clickOnSearchCustomer
+[INFO ] 2024-05-31 03:29:06.005 [main] BusinessPhoneFlowPage - Started : ClickonRogersbtn
+[INFO ] 2024-05-31 03:29:10.838 [main] BusinessPhoneFlowPage - completed : ClickonRogersbtn
+[INFO ] 2024-05-31 03:29:10.839 [main] BusinessPhoneFlowPage - Started : Enter useremailid
+[INFO ] 2024-05-31 03:32:19.499 [main] BusinessPhoneFlowPage - Started : ClickonRogersbtn
+[INFO ] 2024-05-31 03:32:23.364 [main] BusinessPhoneFlowPage - completed : ClickonRogersbtn
+[INFO ] 2024-05-31 03:32:23.365 [main] BusinessPhoneFlowPage - Started : Enter useremailid
+[INFO ] 2024-05-31 03:33:49.988 [main] BusinessPhoneFlowPage - Started : ClickonRogersbtn
+[INFO ] 2024-05-31 03:33:54.324 [main] BusinessPhoneFlowPage - completed : ClickonRogersbtn
+[INFO ] 2024-05-31 03:33:54.325 [main] BusinessPhoneFlowPage - Started : Enter useremailid
+[INFO ] 2024-05-31 03:34:40.469 [main] BusinessPhoneFlowPage - Started : ClickonRogersbtn
+[INFO ] 2024-05-31 03:34:45.091 [main] BusinessPhoneFlowPage - completed : ClickonRogersbtn
+[INFO ] 2024-05-31 03:34:45.093 [main] BusinessPhoneFlowPage - Started : Enter useremailid
+[INFO ] 2024-05-31 03:34:50.253 [main] BusinessPhoneFlowPage - Completed : enter useremailid
+[INFO ] 2024-05-31 03:34:50.254 [main] BusinessPhoneFlowPage - started : enterpassword
+[INFO ] 2024-05-31 03:34:53.383 [main] BusinessPhoneFlowPage - completed : enterpassword
+[INFO ] 2024-05-31 03:34:53.387 [main] BusinessPhoneFlowPage - started : clickonsigninbtn
+[INFO ] 2024-05-31 03:34:53.459 [main] BusinessPhoneFlowPage - completed : clickonsigninbtn and nextbutton
+[INFO ] 2024-05-31 03:34:53.460 [main] BusinessPhoneFlowPage - started : clickonnextbtn
+[INFO ] 2024-05-31 03:35:05.650 [main] BusinessPhoneFlowPage - completed : clickonnextbtn
+[INFO ] 2024-05-31 03:35:05.654 [main] BusinessPhoneFlowPage - started : clickOnSearchCustomer
+[INFO ] 2024-05-31 03:38:18.596 [main] BusinessPhoneFlowPage - Started : ClickonRogersbtn
+[INFO ] 2024-05-31 03:38:22.556 [main] BusinessPhoneFlowPage - completed : ClickonRogersbtn
+[INFO ] 2024-05-31 03:38:22.556 [main] BusinessPhoneFlowPage - Started : Enter useremailid
+[INFO ] 2024-05-31 03:38:27.726 [main] BusinessPhoneFlowPage - Completed : enter useremailid
+[INFO ] 2024-05-31 03:38:27.727 [main] BusinessPhoneFlowPage - started : enterpassword
+[INFO ] 2024-05-31 03:38:30.851 [main] BusinessPhoneFlowPage - completed : enterpassword
+[INFO ] 2024-05-31 03:38:30.857 [main] BusinessPhoneFlowPage - started : clickonsigninbtn
+[INFO ] 2024-05-31 03:38:30.935 [main] BusinessPhoneFlowPage - completed : clickonsigninbtn and nextbutton
+[INFO ] 2024-05-31 03:38:30.935 [main] BusinessPhoneFlowPage - started : clickonnextbtn
+[INFO ] 2024-05-31 03:38:52.322 [main] BusinessPhoneFlowPage - completed : clickonnextbtn
+[INFO ] 2024-05-31 03:38:52.325 [main] BusinessPhoneFlowPage - started : clickOnSearchCustomer
+[INFO ] 2024-05-31 03:43:23.190 [main] BusinessPhoneFlowPage - Started : ClickonRogersbtn
+[INFO ] 2024-05-31 03:43:26.772 [main] BusinessPhoneFlowPage - completed : ClickonRogersbtn
+[INFO ] 2024-05-31 03:43:26.772 [main] BusinessPhoneFlowPage - Started : Enter useremailid
+[INFO ] 2024-05-31 03:43:31.928 [main] BusinessPhoneFlowPage - Completed : enter useremailid
+[INFO ] 2024-05-31 03:43:31.928 [main] BusinessPhoneFlowPage - started : enterpassword
+[INFO ] 2024-05-31 03:43:35.055 [main] BusinessPhoneFlowPage - completed : enterpassword
+[INFO ] 2024-05-31 03:43:35.059 [main] BusinessPhoneFlowPage - started : clickonsigninbtn
+[INFO ] 2024-05-31 03:43:35.138 [main] BusinessPhoneFlowPage - completed : clickonsigninbtn and nextbutton
+[INFO ] 2024-05-31 03:43:35.139 [main] BusinessPhoneFlowPage - started : clickonnextbtn
+[INFO ] 2024-05-31 03:43:56.560 [main] BusinessPhoneFlowPage - completed : clickonnextbtn
+[INFO ] 2024-05-31 03:43:56.563 [main] BusinessPhoneFlowPage - started : clickOnSearchCustomer
+[INFO ] 2024-05-31 03:51:25.012 [main] BusinessPhoneFlowPage - Started : ClickonRogersbtn
+[INFO ] 2024-05-31 03:51:29.482 [main] BusinessPhoneFlowPage - completed : ClickonRogersbtn
+[INFO ] 2024-05-31 03:51:29.483 [main] BusinessPhoneFlowPage - Started : Enter useremailid
+[INFO ] 2024-05-31 03:51:34.694 [main] BusinessPhoneFlowPage - Completed : enter useremailid
+[INFO ] 2024-05-31 03:51:34.695 [main] BusinessPhoneFlowPage - started : enterpassword
+[INFO ] 2024-05-31 03:51:37.813 [main] BusinessPhoneFlowPage - completed : enterpassword
+[INFO ] 2024-05-31 03:51:37.815 [main] BusinessPhoneFlowPage - started : clickonsigninbtn
+[INFO ] 2024-05-31 03:51:40.893 [main] BusinessPhoneFlowPage - completed : clickonsigninbtn and nextbutton
+[INFO ] 2024-05-31 03:51:40.893 [main] BusinessPhoneFlowPage - started : rogersimg
+[INFO ] 2024-05-31 03:53:19.257 [main] BusinessPhoneFlowPage - Started : ClickonRogersbtn
+[INFO ] 2024-05-31 03:53:24.119 [main] BusinessPhoneFlowPage - completed : ClickonRogersbtn
+[INFO ] 2024-05-31 03:53:24.121 [main] BusinessPhoneFlowPage - Started : Enter useremailid
+[INFO ] 2024-05-31 03:53:29.695 [main] BusinessPhoneFlowPage - Completed : enter useremailid
+[INFO ] 2024-05-31 03:53:29.696 [main] BusinessPhoneFlowPage - started : enterpassword
+[INFO ] 2024-05-31 03:53:33.145 [main] BusinessPhoneFlowPage - completed : enterpassword
+[INFO ] 2024-05-31 03:53:33.161 [main] BusinessPhoneFlowPage - started : clickonsigninbtn
+[INFO ] 2024-05-31 03:53:33.419 [main] BusinessPhoneFlowPage - completed : clickonsigninbtn and nextbutton
+[INFO ] 2024-05-31 03:53:33.419 [main] BusinessPhoneFlowPage - started : rogersimg
+[INFO ] 2024-05-31 03:55:19.896 [main] BusinessPhoneFlowPage - Started : ClickonRogersbtn
+[INFO ] 2024-05-31 03:55:24.489 [main] BusinessPhoneFlowPage - completed : ClickonRogersbtn
+[INFO ] 2024-05-31 03:55:24.490 [main] BusinessPhoneFlowPage - Started : Enter useremailid
+[INFO ] 2024-05-31 03:55:29.771 [main] BusinessPhoneFlowPage - Completed : enter useremailid
+[INFO ] 2024-05-31 03:55:29.771 [main] BusinessPhoneFlowPage - started : enterpassword
+[INFO ] 2024-05-31 03:55:33.003 [main] BusinessPhoneFlowPage - completed : enterpassword
+[INFO ] 2024-05-31 03:55:33.013 [main] BusinessPhoneFlowPage - started : clickonsigninbtn
+[INFO ] 2024-05-31 03:55:36.109 [main] BusinessPhoneFlowPage - completed : clickonsigninbtn and nextbutton
+[INFO ] 2024-05-31 03:55:36.110 [main] BusinessPhoneFlowPage - started : rogersimg
+[INFO ] 2024-05-31 03:58:25.938 [main] BusinessPhoneFlowPage - Started : ClickonRogersbtn
+[INFO ] 2024-05-31 03:58:30.747 [main] BusinessPhoneFlowPage - completed : ClickonRogersbtn
+[INFO ] 2024-05-31 03:58:30.749 [main] BusinessPhoneFlowPage - Started : Enter useremailid
+[INFO ] 2024-05-31 03:58:36.366 [main] BusinessPhoneFlowPage - Completed : enter useremailid
+[INFO ] 2024-05-31 03:58:36.367 [main] BusinessPhoneFlowPage - started : enterpassword
+[INFO ] 2024-05-31 03:58:39.800 [main] BusinessPhoneFlowPage - completed : enterpassword
+[INFO ] 2024-05-31 03:58:39.808 [main] BusinessPhoneFlowPage - started : clickonsigninbtn
+[INFO ] 2024-05-31 03:58:43.003 [main] BusinessPhoneFlowPage - completed : clickonsigninbtn and nextbutton
+[INFO ] 2024-05-31 03:58:43.004 [main] BusinessPhoneFlowPage - started : rogersimg
+[INFO ] 2024-05-31 04:00:44.103 [main] BusinessPhoneFlowPage - Started : ClickonRogersbtn
+[INFO ] 2024-05-31 04:00:47.096 [main] BusinessPhoneFlowPage - completed : ClickonRogersbtn
+[INFO ] 2024-05-31 04:00:47.099 [main] BusinessPhoneFlowPage - Started : Enter useremailid
+[INFO ] 2024-05-31 04:00:52.564 [main] BusinessPhoneFlowPage - Completed : enter useremailid
+[INFO ] 2024-05-31 04:00:52.564 [main] BusinessPhoneFlowPage - started : enterpassword
+[INFO ] 2024-05-31 04:00:55.811 [main] BusinessPhoneFlowPage - completed : enterpassword
+[INFO ] 2024-05-31 04:00:55.817 [main] BusinessPhoneFlowPage - started : clickonsigninbtn
+[INFO ] 2024-05-31 04:00:55.935 [main] BusinessPhoneFlowPage - completed : clickonsigninbtn and nextbutton
+[INFO ] 2024-05-31 04:00:55.935 [main] BusinessPhoneFlowPage - started : rogersimg
+[INFO ] 2024-05-31 04:02:55.813 [main] BusinessPhoneFlowPage - Started : ClickonRogersbtn
+[INFO ] 2024-05-31 04:02:59.498 [main] BusinessPhoneFlowPage - completed : ClickonRogersbtn
+[INFO ] 2024-05-31 04:02:59.502 [main] BusinessPhoneFlowPage - Started : Enter useremailid
+[INFO ] 2024-05-31 04:03:05.099 [main] BusinessPhoneFlowPage - Completed : enter useremailid
+[INFO ] 2024-05-31 04:03:05.100 [main] BusinessPhoneFlowPage - started : enterpassword
+[INFO ] 2024-05-31 04:03:08.435 [main] BusinessPhoneFlowPage - completed : enterpassword
+[INFO ] 2024-05-31 04:03:08.440 [main] BusinessPhoneFlowPage - started : clickonsigninbtn
+[INFO ] 2024-05-31 04:03:08.550 [main] BusinessPhoneFlowPage - completed : clickonsigninbtn and nextbutton
+[INFO ] 2024-05-31 04:03:08.550 [main] BusinessPhoneFlowPage - started : rogersimg
+[INFO ] 2024-05-31 04:05:02.322 [main] BusinessPhoneFlowPage - Started : ClickonRogersbtn
+[INFO ] 2024-05-31 04:05:06.038 [main] BusinessPhoneFlowPage - completed : ClickonRogersbtn
+[INFO ] 2024-05-31 04:05:06.040 [main] BusinessPhoneFlowPage - Started : Enter useremailid
+[INFO ] 2024-05-31 04:05:11.549 [main] BusinessPhoneFlowPage - Completed : enter useremailid
+[INFO ] 2024-05-31 04:05:11.550 [main] BusinessPhoneFlowPage - started : enterpassword
+[INFO ] 2024-05-31 04:05:14.760 [main] BusinessPhoneFlowPage - completed : enterpassword
+[INFO ] 2024-05-31 04:05:14.767 [main] BusinessPhoneFlowPage - started : clickonsigninbtn
+[INFO ] 2024-05-31 04:05:17.908 [main] BusinessPhoneFlowPage - completed : clickonsigninbtn
+[INFO ] 2024-05-31 04:05:17.908 [main] BusinessPhoneFlowPage - started : rogersimg
+[INFO ] 2024-05-31 04:08:37.682 [main] BusinessPhoneFlowPage - Started : ClickonRogersbtn
+[INFO ] 2024-05-31 04:08:44.601 [main] BusinessPhoneFlowPage - completed : ClickonRogersbtn
+[INFO ] 2024-05-31 04:08:44.602 [main] BusinessPhoneFlowPage - Started : Enter useremailid
+[INFO ] 2024-05-31 04:08:50.202 [main] BusinessPhoneFlowPage - Completed : enter useremailid
+[INFO ] 2024-05-31 04:08:50.203 [main] BusinessPhoneFlowPage - started : enterpassword
+[INFO ] 2024-05-31 04:08:53.374 [main] BusinessPhoneFlowPage - completed : enterpassword
+[INFO ] 2024-05-31 04:08:53.378 [main] BusinessPhoneFlowPage - started : clickonsigninbtn
+[INFO ] 2024-05-31 04:08:56.463 [main] BusinessPhoneFlowPage - completed : clickonsigninbtn
+[INFO ] 2024-05-31 04:08:56.463 [main] BusinessPhoneFlowPage - started : rogersimg
+[INFO ] 2024-05-31 04:10:10.802 [main] BusinessPhoneFlowPage - Started : ClickonRogersbtn
+[INFO ] 2024-05-31 04:10:15.529 [main] BusinessPhoneFlowPage - completed : ClickonRogersbtn
+[INFO ] 2024-05-31 04:10:15.530 [main] BusinessPhoneFlowPage - Started : Enter useremailid
+[INFO ] 2024-05-31 04:10:21.061 [main] BusinessPhoneFlowPage - Completed : enter useremailid
+[INFO ] 2024-05-31 04:10:21.061 [main] BusinessPhoneFlowPage - started : enterpassword
+[INFO ] 2024-05-31 04:10:24.200 [main] BusinessPhoneFlowPage - completed : enterpassword
+[INFO ] 2024-05-31 04:10:24.205 [main] BusinessPhoneFlowPage - started : clickonsigninbtn
+[INFO ] 2024-05-31 04:10:29.466 [main] BusinessPhoneFlowPage - completed : clickonsigninbtn
+[INFO ] 2024-05-31 04:10:29.466 [main] BusinessPhoneFlowPage - started : rogersimg
+[INFO ] 2024-05-31 04:11:46.299 [main] BusinessPhoneFlowPage - Started : ClickonRogersbtn
+[INFO ] 2024-05-31 04:11:49.738 [main] BusinessPhoneFlowPage - completed : ClickonRogersbtn
+[INFO ] 2024-05-31 04:11:49.740 [main] BusinessPhoneFlowPage - Started : Enter useremailid
+[INFO ] 2024-05-31 04:11:55.267 [main] BusinessPhoneFlowPage - Completed : enter useremailid
+[INFO ] 2024-05-31 04:11:55.267 [main] BusinessPhoneFlowPage - started : enterpassword
+[INFO ] 2024-05-31 04:11:58.644 [main] BusinessPhoneFlowPage - completed : enterpassword
+[INFO ] 2024-05-31 04:11:58.653 [main] BusinessPhoneFlowPage - started : clickonsigninbtn
+[INFO ] 2024-05-31 04:12:03.762 [main] BusinessPhoneFlowPage - completed : clickonsigninbtn
+[INFO ] 2024-05-31 04:12:03.762 [main] BusinessPhoneFlowPage - started : rogersimg
+[INFO ] 2024-05-31 04:12:54.375 [main] BusinessPhoneFlowPage - Started : ClickonRogersbtn
+[INFO ] 2024-05-31 04:12:59.405 [main] BusinessPhoneFlowPage - completed : ClickonRogersbtn
+[INFO ] 2024-05-31 04:12:59.407 [main] BusinessPhoneFlowPage - Started : Enter useremailid
+[INFO ] 2024-05-31 04:13:04.988 [main] BusinessPhoneFlowPage - Completed : enter useremailid
+[INFO ] 2024-05-31 04:13:04.989 [main] BusinessPhoneFlowPage - started : enterpassword
+[INFO ] 2024-05-31 04:13:08.185 [main] BusinessPhoneFlowPage - completed : enterpassword
+[INFO ] 2024-05-31 04:13:08.190 [main] BusinessPhoneFlowPage - started : clickonsigninbtn
+[INFO ] 2024-05-31 04:13:08.256 [main] BusinessPhoneFlowPage - completed : clickonsigninbtn
+[INFO ] 2024-05-31 04:13:08.257 [main] BusinessPhoneFlowPage - started : rogersimg
+[INFO ] 2024-06-01 00:51:55.995 [main] BusinessPhoneFlowPage - Started : ClickonRogersbtn
+[INFO ] 2024-06-01 00:51:58.397 [main] BusinessPhoneFlowPage - completed : ClickonRogersbtn
+[INFO ] 2024-06-01 00:51:58.400 [main] BusinessPhoneFlowPage - Started : Enter useremailid
+[INFO ] 2024-06-01 00:52:03.981 [main] BusinessPhoneFlowPage - Completed : enter useremailid
+[INFO ] 2024-06-01 00:52:03.982 [main] BusinessPhoneFlowPage - started : enterpassword
+[INFO ] 2024-06-01 00:52:07.331 [main] BusinessPhoneFlowPage - completed : enterpassword
+[INFO ] 2024-06-01 00:52:07.341 [main] BusinessPhoneFlowPage - started : clickonsigninbtn
+[INFO ] 2024-06-01 00:52:07.514 [main] BusinessPhoneFlowPage - completed : clickonsigninbtn
+[INFO ] 2024-06-01 00:52:07.514 [main] BusinessPhoneFlowPage - started : rogersimg
+[INFO ] 2024-06-01 00:52:15.545 [main] BusinessPhoneFlowPage - completed : rogersimg
+[INFO ] 2024-06-01 00:52:15.548 [main] BusinessPhoneFlowPage - started : clickonnextbtn
+[INFO ] 2024-06-01 00:52:21.508 [main] BusinessPhoneFlowPage - completed : clickonnextbtn
+[INFO ] 2024-06-01 00:52:21.509 [main] BusinessPhoneFlowPage - started : clickOnSearchCustomer
+[INFO ] 2024-06-01 01:09:08.572 [main] BusinessPhoneFlowPage - Started : ClickonRogersbtn
+[INFO ] 2024-06-01 01:09:10.985 [main] BusinessPhoneFlowPage - completed : ClickonRogersbtn
+[INFO ] 2024-06-01 01:09:10.988 [main] BusinessPhoneFlowPage - Started : Enter useremailid
+[INFO ] 2024-06-01 01:09:16.421 [main] BusinessPhoneFlowPage - Completed : enter useremailid
+[INFO ] 2024-06-01 01:09:16.422 [main] BusinessPhoneFlowPage - started : enterpassword
+[INFO ] 2024-06-01 01:09:19.724 [main] BusinessPhoneFlowPage - completed : enterpassword
+[INFO ] 2024-06-01 01:09:19.732 [main] BusinessPhoneFlowPage - started : clickonsigninbtn
+[INFO ] 2024-06-01 01:09:19.827 [main] BusinessPhoneFlowPage - completed : clickonsigninbtn
+[INFO ] 2024-06-01 01:09:19.827 [main] BusinessPhoneFlowPage - started : rogersimg
+[INFO ] 2024-06-01 01:10:05.860 [main] BusinessPhoneFlowPage - Started : ClickonRogersbtn
+[INFO ] 2024-06-01 01:10:08.218 [main] BusinessPhoneFlowPage - completed : ClickonRogersbtn
+[INFO ] 2024-06-01 01:10:08.220 [main] BusinessPhoneFlowPage - Started : Enter useremailid
+[INFO ] 2024-06-01 01:10:13.669 [main] BusinessPhoneFlowPage - Completed : enter useremailid
+[INFO ] 2024-06-01 01:10:13.669 [main] BusinessPhoneFlowPage - started : enterpassword
+[INFO ] 2024-06-01 01:10:16.881 [main] BusinessPhoneFlowPage - completed : enterpassword
+[INFO ] 2024-06-01 01:10:16.884 [main] BusinessPhoneFlowPage - started : clickonsigninbtn
+[INFO ] 2024-06-01 01:10:16.964 [main] BusinessPhoneFlowPage - completed : clickonsigninbtn
+[INFO ] 2024-06-01 01:10:16.964 [main] BusinessPhoneFlowPage - started : rogersimg
+[INFO ] 2024-06-01 01:11:11.877 [main] BusinessPhoneFlowPage - Started : ClickonRogersbtn
+[INFO ] 2024-06-01 01:11:14.052 [main] BusinessPhoneFlowPage - completed : ClickonRogersbtn
+[INFO ] 2024-06-01 01:11:14.054 [main] BusinessPhoneFlowPage - Started : Enter useremailid
+[INFO ] 2024-06-01 01:11:19.355 [main] BusinessPhoneFlowPage - Completed : enter useremailid
+[INFO ] 2024-06-01 01:11:19.355 [main] BusinessPhoneFlowPage - started : enterpassword
+[INFO ] 2024-06-01 01:11:22.542 [main] BusinessPhoneFlowPage - completed : enterpassword
+[INFO ] 2024-06-01 01:11:22.546 [main] BusinessPhoneFlowPage - started : clickonsigninbtn
+[INFO ] 2024-06-01 01:11:25.818 [main] BusinessPhoneFlowPage - completed : clickonsigninbtn
+[INFO ] 2024-06-01 01:11:25.819 [main] BusinessPhoneFlowPage - started : rogersimg
+[INFO ] 2024-06-01 01:12:54.611 [main] BusinessPhoneFlowPage - Started : ClickonRogersbtn
+[INFO ] 2024-06-01 01:12:57.051 [main] BusinessPhoneFlowPage - completed : ClickonRogersbtn
+[INFO ] 2024-06-01 01:12:57.054 [main] BusinessPhoneFlowPage - Started : Enter useremailid
+[INFO ] 2024-06-01 01:13:02.458 [main] BusinessPhoneFlowPage - Completed : enter useremailid
+[INFO ] 2024-06-01 01:13:02.459 [main] BusinessPhoneFlowPage - started : enterpassword
+[INFO ] 2024-06-01 01:13:05.615 [main] BusinessPhoneFlowPage - completed : enterpassword
+[INFO ] 2024-06-01 01:13:05.618 [main] BusinessPhoneFlowPage - started : clickonsigninbtn
+[INFO ] 2024-06-01 01:13:10.850 [main] BusinessPhoneFlowPage - completed : clickonsigninbtn
+[INFO ] 2024-06-01 01:13:10.851 [main] BusinessPhoneFlowPage - started : rogersimg
+[INFO ] 2024-06-01 01:14:06.006 [main] BusinessPhoneFlowPage - Started : ClickonRogersbtn
+[INFO ] 2024-06-01 01:14:08.406 [main] BusinessPhoneFlowPage - completed : ClickonRogersbtn
+[INFO ] 2024-06-01 01:14:08.408 [main] BusinessPhoneFlowPage - Started : Enter useremailid
+[INFO ] 2024-06-01 01:14:13.756 [main] BusinessPhoneFlowPage - Completed : enter useremailid
+[INFO ] 2024-06-01 01:14:13.757 [main] BusinessPhoneFlowPage - started : enterpassword
+[INFO ] 2024-06-01 01:14:16.990 [main] BusinessPhoneFlowPage - completed : enterpassword
+[INFO ] 2024-06-01 01:14:16.997 [main] BusinessPhoneFlowPage - started : clickonsigninbtn
+[INFO ] 2024-06-01 01:14:19.192 [main] BusinessPhoneFlowPage - completed : clickonsigninbtn
+[INFO ] 2024-06-01 01:14:19.192 [main] BusinessPhoneFlowPage - started : rogersimg
+[INFO ] 2024-06-01 01:14:58.902 [main] BusinessPhoneFlowPage - Started : ClickonRogersbtn
+[INFO ] 2024-06-01 01:15:01.441 [main] BusinessPhoneFlowPage - completed : ClickonRogersbtn
+[INFO ] 2024-06-01 01:15:01.444 [main] BusinessPhoneFlowPage - Started : Enter useremailid
+[INFO ] 2024-06-01 01:15:07.060 [main] BusinessPhoneFlowPage - Completed : enter useremailid
+[INFO ] 2024-06-01 01:15:07.061 [main] BusinessPhoneFlowPage - started : enterpassword
+[INFO ] 2024-06-01 01:15:10.254 [main] BusinessPhoneFlowPage - completed : enterpassword
+[INFO ] 2024-06-01 01:15:10.260 [main] BusinessPhoneFlowPage - started : clickonsigninbtn
+[INFO ] 2024-06-01 01:15:10.366 [main] BusinessPhoneFlowPage - completed : clickonsigninbtn
+[INFO ] 2024-06-01 01:15:10.366 [main] BusinessPhoneFlowPage - started : rogersimg
+[INFO ] 2024-06-01 01:16:19.560 [main] BusinessPhoneFlowPage - Started : ClickonRogersbtn
+[INFO ] 2024-06-01 01:16:21.945 [main] BusinessPhoneFlowPage - completed : ClickonRogersbtn
+[INFO ] 2024-06-01 01:16:21.946 [main] BusinessPhoneFlowPage - Started : Enter useremailid
+[INFO ] 2024-06-01 01:16:27.518 [main] BusinessPhoneFlowPage - Completed : enter useremailid
+[INFO ] 2024-06-01 01:16:27.519 [main] BusinessPhoneFlowPage - started : enterpassword
+[INFO ] 2024-06-01 01:16:30.773 [main] BusinessPhoneFlowPage - completed : enterpassword
+[INFO ] 2024-06-01 01:16:30.782 [main] BusinessPhoneFlowPage - started : clickonsigninbtn
+[INFO ] 2024-06-01 01:16:33.886 [main] BusinessPhoneFlowPage - completed : clickonsigninbtn
+[INFO ] 2024-06-01 01:16:33.886 [main] BusinessPhoneFlowPage - started : rogersimg
+[INFO ] 2024-06-01 01:17:15.167 [main] BusinessPhoneFlowPage - Started : ClickonRogersbtn
+[INFO ] 2024-06-01 01:17:17.568 [main] BusinessPhoneFlowPage - completed : ClickonRogersbtn
+[INFO ] 2024-06-01 01:17:17.569 [main] BusinessPhoneFlowPage - Started : Enter useremailid
+[INFO ] 2024-06-01 01:17:23.168 [main] BusinessPhoneFlowPage - Completed : enter useremailid
+[INFO ] 2024-06-01 01:17:23.168 [main] BusinessPhoneFlowPage - started : enterpassword
+[INFO ] 2024-06-01 01:17:26.328 [main] BusinessPhoneFlowPage - completed : enterpassword
+[INFO ] 2024-06-01 01:17:26.333 [main] BusinessPhoneFlowPage - started : clickonsigninbtn
+[INFO ] 2024-06-01 01:17:29.410 [main] BusinessPhoneFlowPage - completed : clickonsigninbtn
+[INFO ] 2024-06-01 01:17:29.410 [main] BusinessPhoneFlowPage - started : rogersimg
+[INFO ] 2024-06-01 01:21:42.486 [main] BusinessPhoneFlowPage - Started : ClickonRogersbtn
+[INFO ] 2024-06-01 01:21:44.938 [main] BusinessPhoneFlowPage - completed : ClickonRogersbtn
+[INFO ] 2024-06-01 01:21:44.939 [main] BusinessPhoneFlowPage - Started : Enter useremailid
+[INFO ] 2024-06-01 01:21:50.545 [main] BusinessPhoneFlowPage - Completed : enter useremailid
+[INFO ] 2024-06-01 01:21:50.546 [main] BusinessPhoneFlowPage - started : enterpassword
+[INFO ] 2024-06-01 01:21:53.699 [main] BusinessPhoneFlowPage - completed : enterpassword
+[INFO ] 2024-06-01 01:21:53.706 [main] BusinessPhoneFlowPage - started : clickonsigninbtn
+[INFO ] 2024-06-01 01:21:53.789 [main] BusinessPhoneFlowPage - completed : clickonsigninbtn
+[INFO ] 2024-06-01 01:21:53.789 [main] BusinessPhoneFlowPage - started : rogersimg
+[INFO ] 2024-06-01 01:23:22.759 [main] BusinessPhoneFlowPage - Started : ClickonRogersbtn
+[INFO ] 2024-06-01 01:23:24.990 [main] BusinessPhoneFlowPage - completed : ClickonRogersbtn
+[INFO ] 2024-06-01 01:23:24.993 [main] BusinessPhoneFlowPage - Started : Enter useremailid
+[INFO ] 2024-06-01 01:23:30.618 [main] BusinessPhoneFlowPage - Completed : enter useremailid
+[INFO ] 2024-06-01 01:23:30.619 [main] BusinessPhoneFlowPage - started : enterpassword
+[INFO ] 2024-06-01 01:23:33.831 [main] BusinessPhoneFlowPage - completed : enterpassword
+[INFO ] 2024-06-01 01:23:33.836 [main] BusinessPhoneFlowPage - started : clickonsigninbtn
+[INFO ] 2024-06-01 01:23:36.081 [main] BusinessPhoneFlowPage - completed : clickonsigninbtn
+[INFO ] 2024-06-01 01:23:36.081 [main] BusinessPhoneFlowPage - started : rogersimg
+[INFO ] 2024-06-01 02:07:13.502 [main] BusinessPhoneFlowPage - Started : ClickonRogersbtn
+[INFO ] 2024-06-01 02:07:15.205 [main] BusinessPhoneFlowPage - completed : ClickonRogersbtn
+[INFO ] 2024-06-01 02:07:15.205 [main] BusinessPhoneFlowPage - Started : Enter useremailid
+[INFO ] 2024-06-01 02:07:20.401 [main] BusinessPhoneFlowPage - Completed : enter useremailid
+[INFO ] 2024-06-01 02:07:20.401 [main] BusinessPhoneFlowPage - started : enterpassword
+[INFO ] 2024-06-01 02:07:23.529 [main] BusinessPhoneFlowPage - completed : enterpassword
+[INFO ] 2024-06-01 02:07:23.534 [main] BusinessPhoneFlowPage - started : clickonsigninbtn
+[INFO ] 2024-06-01 02:07:25.704 [main] BusinessPhoneFlowPage - completed : clickonsigninbtn
+[INFO ] 2024-06-01 02:07:35.939 [main] BusinessPhoneFlowPage - started : clickonnextbtn
+[INFO ] 2024-06-01 02:07:36.686 [main] BusinessPhoneFlowPage - completed : clickonnextbtn
+[INFO ] 2024-06-01 02:07:36.687 [main] BusinessPhoneFlowPage - started : clickOnSearchCustomer
+[INFO ] 2024-06-01 02:10:51.533 [main] BusinessPhoneFlowPage - Started : ClickonRogersbtn
+[INFO ] 2024-06-01 02:10:53.304 [main] BusinessPhoneFlowPage - completed : ClickonRogersbtn
+[INFO ] 2024-06-01 02:10:53.304 [main] BusinessPhoneFlowPage - Started : Enter useremailid
+[INFO ] 2024-06-01 02:10:58.528 [main] BusinessPhoneFlowPage - Completed : enter useremailid
+[INFO ] 2024-06-01 02:10:58.528 [main] BusinessPhoneFlowPage - started : enterpassword
+[INFO ] 2024-06-01 02:11:01.656 [main] BusinessPhoneFlowPage - completed : enterpassword
+[INFO ] 2024-06-01 02:11:01.661 [main] BusinessPhoneFlowPage - started : clickonsigninbtn
+[INFO ] 2024-06-01 02:11:03.780 [main] BusinessPhoneFlowPage - completed : clickonsigninbtn
+[INFO ] 2024-06-01 02:11:03.780 [main] BusinessPhoneFlowPage - started : authontication
+[INFO ] 2024-06-01 02:11:14.018 [main] BusinessPhoneFlowPage - completed : authontication
+[INFO ] 2024-06-01 02:11:14.020 [main] BusinessPhoneFlowPage - started : clickonnextbtn
+[INFO ] 2024-06-01 02:11:15.306 [main] BusinessPhoneFlowPage - completed : clickonnextbtn
+[INFO ] 2024-06-01 02:11:15.307 [main] BusinessPhoneFlowPage - started : clickOnSearchCustomer
+[INFO ] 2024-06-01 02:12:26.957 [main] BusinessPhoneFlowPage - Started : ClickonRogersbtn
+[INFO ] 2024-06-01 02:12:28.822 [main] BusinessPhoneFlowPage - completed : ClickonRogersbtn
+[INFO ] 2024-06-01 02:12:28.823 [main] BusinessPhoneFlowPage - Started : Enter useremailid
+[INFO ] 2024-06-01 02:12:34.211 [main] BusinessPhoneFlowPage - Completed : enter useremailid
+[INFO ] 2024-06-01 02:12:34.212 [main] BusinessPhoneFlowPage - started : enterpassword
+[INFO ] 2024-06-01 02:12:37.335 [main] BusinessPhoneFlowPage - completed : enterpassword
+[INFO ] 2024-06-01 02:12:37.339 [main] BusinessPhoneFlowPage - started : clickonsigninbtn
+[INFO ] 2024-06-01 02:12:39.553 [main] BusinessPhoneFlowPage - completed : clickonsigninbtn
+[INFO ] 2024-06-01 02:12:39.554 [main] BusinessPhoneFlowPage - started : clickonnextbtn
+[INFO ] 2024-06-01 02:13:26.483 [main] BusinessPhoneFlowPage - Started : ClickonRogersbtn
+[INFO ] 2024-06-01 02:13:28.474 [main] BusinessPhoneFlowPage - completed : ClickonRogersbtn
+[INFO ] 2024-06-01 02:13:28.475 [main] BusinessPhoneFlowPage - Started : Enter useremailid
+[INFO ] 2024-06-01 02:13:33.673 [main] BusinessPhoneFlowPage - Completed : enter useremailid
+[INFO ] 2024-06-01 02:13:33.673 [main] BusinessPhoneFlowPage - started : enterpassword
+[INFO ] 2024-06-01 02:13:36.813 [main] BusinessPhoneFlowPage - completed : enterpassword
+[INFO ] 2024-06-01 02:13:36.817 [main] BusinessPhoneFlowPage - started : clickonsigninbtn
+[INFO ] 2024-06-01 02:13:41.969 [main] BusinessPhoneFlowPage - completed : clickonsigninbtn
+[INFO ] 2024-06-01 02:13:41.970 [main] BusinessPhoneFlowPage - started : clickonnextbtn
+[INFO ] 2024-06-01 02:14:14.750 [main] BusinessPhoneFlowPage - Started : ClickonRogersbtn
+[INFO ] 2024-06-01 02:14:16.619 [main] BusinessPhoneFlowPage - completed : ClickonRogersbtn
+[INFO ] 2024-06-01 02:14:16.620 [main] BusinessPhoneFlowPage - Started : Enter useremailid
+[INFO ] 2024-06-01 02:14:21.765 [main] BusinessPhoneFlowPage - Completed : enter useremailid
+[INFO ] 2024-06-01 02:14:21.766 [main] BusinessPhoneFlowPage - started : enterpassword
+[INFO ] 2024-06-01 02:14:24.888 [main] BusinessPhoneFlowPage - completed : enterpassword
+[INFO ] 2024-06-01 02:14:24.892 [main] BusinessPhoneFlowPage - started : clickonsigninbtn
+[INFO ] 2024-06-01 02:14:29.972 [main] BusinessPhoneFlowPage - completed : clickonsigninbtn
+[INFO ] 2024-06-01 02:14:29.974 [main] BusinessPhoneFlowPage - started : clickonnextbtn
+[INFO ] 2024-06-01 02:14:30.700 [main] BusinessPhoneFlowPage - completed : clickonnextbtn
+[INFO ] 2024-06-01 02:14:30.701 [main] BusinessPhoneFlowPage - started : clickOnSearchCustomer
+[INFO ] 2024-06-01 02:15:23.197 [main] BusinessPhoneFlowPage - Started : ClickonRogersbtn
+[INFO ] 2024-06-01 02:15:25.214 [main] BusinessPhoneFlowPage - completed : ClickonRogersbtn
+[INFO ] 2024-06-01 02:15:25.215 [main] BusinessPhoneFlowPage - Started : Enter useremailid
+[INFO ] 2024-06-01 02:15:30.445 [main] BusinessPhoneFlowPage - Completed : enter useremailid
+[INFO ] 2024-06-01 02:15:30.445 [main] BusinessPhoneFlowPage - started : enterpassword
+[INFO ] 2024-06-01 02:15:33.547 [main] BusinessPhoneFlowPage - completed : enterpassword
+[INFO ] 2024-06-01 02:15:33.551 [main] BusinessPhoneFlowPage - started : clickonsigninbtn
+[INFO ] 2024-06-01 02:15:38.614 [main] BusinessPhoneFlowPage - completed : clickonsigninbtn
+[INFO ] 2024-06-01 02:15:38.616 [main] BusinessPhoneFlowPage - started : clickonnextbtn
+[INFO ] 2024-06-01 02:15:39.404 [main] BusinessPhoneFlowPage - completed : clickonnextbtn
+[INFO ] 2024-06-01 02:15:39.405 [main] BusinessPhoneFlowPage - started : clickOnSearchCustomer
+[INFO ] 2024-06-01 02:17:20.157 [main] BusinessPhoneFlowPage - Started : ClickonRogersbtn
+[INFO ] 2024-06-01 02:17:22.327 [main] BusinessPhoneFlowPage - completed : ClickonRogersbtn
+[INFO ] 2024-06-01 02:17:22.328 [main] BusinessPhoneFlowPage - Started : Enter useremailid
+[INFO ] 2024-06-01 02:17:27.502 [main] BusinessPhoneFlowPage - Completed : enter useremailid
+[INFO ] 2024-06-01 02:17:27.502 [main] BusinessPhoneFlowPage - started : enterpassword
+[INFO ] 2024-06-01 02:17:30.621 [main] BusinessPhoneFlowPage - completed : enterpassword
+[INFO ] 2024-06-01 02:17:30.626 [main] BusinessPhoneFlowPage - started : clickonsigninbtn
+[INFO ] 2024-06-01 02:17:35.704 [main] BusinessPhoneFlowPage - completed : clickonsigninbtn
+[INFO ] 2024-06-01 02:17:35.706 [main] BusinessPhoneFlowPage - started : clickonnextbtn
+[INFO ] 2024-06-01 02:17:36.440 [main] BusinessPhoneFlowPage - completed : clickonnextbtn
+[INFO ] 2024-06-01 02:17:36.441 [main] BusinessPhoneFlowPage - started : clickOnSearchCustomer
+[INFO ] 2024-06-01 02:49:45.821 [main] BusinessPhoneFlowPage - Started : ClickonRogersbtn
+[INFO ] 2024-06-01 02:49:48.022 [main] BusinessPhoneFlowPage - completed : ClickonRogersbtn
+[INFO ] 2024-06-01 02:49:48.022 [main] BusinessPhoneFlowPage - Started : Enter useremailid
+[INFO ] 2024-06-01 02:49:53.214 [main] BusinessPhoneFlowPage - Completed : enter useremailid
+[INFO ] 2024-06-01 02:49:53.214 [main] BusinessPhoneFlowPage - started : enterpassword
+[INFO ] 2024-06-01 02:49:56.334 [main] BusinessPhoneFlowPage - completed : enterpassword
+[INFO ] 2024-06-01 02:49:56.338 [main] BusinessPhoneFlowPage - started : clickonsigninbtn
+[INFO ] 2024-06-01 02:50:01.408 [main] BusinessPhoneFlowPage - completed : clickonsigninbtn
+[INFO ] 2024-06-01 02:50:01.410 [main] BusinessPhoneFlowPage - started : clickonnextbtn
+[INFO ] 2024-06-01 02:50:02.644 [main] BusinessPhoneFlowPage - completed : clickonnextbtn
+[INFO ] 2024-06-01 02:50:02.645 [main] BusinessPhoneFlowPage - started : clickOnSearchCustomer
+[INFO ] 2024-06-01 02:51:19.744 [main] BusinessPhoneFlowPage - Started : ClickonRogersbtn
+[INFO ] 2024-06-01 02:51:22.623 [main] BusinessPhoneFlowPage - completed : ClickonRogersbtn
+[INFO ] 2024-06-01 02:51:22.625 [main] BusinessPhoneFlowPage - Started : Enter useremailid
+[INFO ] 2024-06-01 02:51:28.166 [main] BusinessPhoneFlowPage - Completed : enter useremailid
+[INFO ] 2024-06-01 02:51:28.166 [main] BusinessPhoneFlowPage - started : enterpassword
+[INFO ] 2024-06-01 02:51:31.498 [main] BusinessPhoneFlowPage - completed : enterpassword
+[INFO ] 2024-06-01 02:51:31.511 [main] BusinessPhoneFlowPage - started : clickonsigninbtn
+[INFO ] 2024-06-01 02:51:36.728 [main] BusinessPhoneFlowPage - completed : clickonsigninbtn
+[INFO ] 2024-06-01 02:51:36.728 [main] BusinessPhoneFlowPage - started : authontication
+[INFO ] 2024-06-01 02:51:56.807 [main] BusinessPhoneFlowPage - completed : authontication
+[INFO ] 2024-06-01 02:51:56.809 [main] BusinessPhoneFlowPage - started : clickonnextbtn
+[INFO ] 2024-06-01 02:51:58.160 [main] BusinessPhoneFlowPage - completed : clickonnextbtn
+[INFO ] 2024-06-01 02:51:58.161 [main] BusinessPhoneFlowPage - started : clickOnSearchCustomer
+[INFO ] 2024-06-01 02:52:41.268 [main] BusinessPhoneFlowPage - Started : ClickonRogersbtn
+[INFO ] 2024-06-01 02:52:43.597 [main] BusinessPhoneFlowPage - completed : ClickonRogersbtn
+[INFO ] 2024-06-01 02:52:43.598 [main] BusinessPhoneFlowPage - Started : Enter useremailid
+[INFO ] 2024-06-01 02:52:48.871 [main] BusinessPhoneFlowPage - Completed : enter useremailid
+[INFO ] 2024-06-01 02:52:48.872 [main] BusinessPhoneFlowPage - started : enterpassword
+[INFO ] 2024-06-01 02:52:52.026 [main] BusinessPhoneFlowPage - completed : enterpassword
+[INFO ] 2024-06-01 02:52:52.031 [main] BusinessPhoneFlowPage - started : clickonsigninbtn
+[INFO ] 2024-06-01 02:52:57.121 [main] BusinessPhoneFlowPage - completed : clickonsigninbtn
+[INFO ] 2024-06-01 02:52:57.122 [main] BusinessPhoneFlowPage - started : authontication
+[INFO ] 2024-06-01 02:53:00.463 [main] BusinessPhoneFlowPage - completed : authontication
+[INFO ] 2024-06-01 02:53:00.465 [main] BusinessPhoneFlowPage - started : clickonnextbtn
+[INFO ] 2024-06-01 02:53:01.917 [main] BusinessPhoneFlowPage - completed : clickonnextbtn
+[INFO ] 2024-06-01 02:53:01.918 [main] BusinessPhoneFlowPage - started : clickOnSearchCustomer
+[INFO ] 2024-06-01 02:54:01.532 [main] BusinessPhoneFlowPage - Started : ClickonRogersbtn
+[INFO ] 2024-06-01 02:54:03.789 [main] BusinessPhoneFlowPage - completed : ClickonRogersbtn
+[INFO ] 2024-06-01 02:54:03.791 [main] BusinessPhoneFlowPage - Started : Enter useremailid
+[INFO ] 2024-06-01 02:54:09.344 [main] BusinessPhoneFlowPage - Completed : enter useremailid
+[INFO ] 2024-06-01 02:54:09.344 [main] BusinessPhoneFlowPage - started : enterpassword
+[INFO ] 2024-06-01 02:54:12.572 [main] BusinessPhoneFlowPage - completed : enterpassword
+[INFO ] 2024-06-01 02:54:12.578 [main] BusinessPhoneFlowPage - started : clickonsigninbtn
+[INFO ] 2024-06-01 02:54:17.668 [main] BusinessPhoneFlowPage - completed : clickonsigninbtn
+[INFO ] 2024-06-01 02:54:17.670 [main] BusinessPhoneFlowPage - started : clickonnextbtn
+[INFO ] 2024-06-01 02:54:18.716 [main] BusinessPhoneFlowPage - completed : clickonnextbtn
+[INFO ] 2024-06-01 02:54:18.716 [main] BusinessPhoneFlowPage - started : clickOnSearchCustomer
+[INFO ] 2024-06-01 02:59:42.131 [main] BusinessPhoneFlowPage - Started : ClickonRogersbtn
+[INFO ] 2024-06-01 02:59:44.344 [main] BusinessPhoneFlowPage - completed : ClickonRogersbtn
+[INFO ] 2024-06-01 02:59:44.346 [main] BusinessPhoneFlowPage - Started : Enter useremailid
+[INFO ] 2024-06-01 02:59:49.946 [main] BusinessPhoneFlowPage - Completed : enter useremailid
+[INFO ] 2024-06-01 02:59:49.947 [main] BusinessPhoneFlowPage - started : enterpassword
+[INFO ] 2024-06-01 02:59:53.173 [main] BusinessPhoneFlowPage - completed : enterpassword
+[INFO ] 2024-06-01 02:59:53.181 [main] BusinessPhoneFlowPage - started : clickonsigninbtn
+[INFO ] 2024-06-01 03:00:08.669 [main] BusinessPhoneFlowPage - completed : clickonsigninbtn
+[INFO ] 2024-06-01 03:00:08.671 [main] BusinessPhoneFlowPage - started : clickonnextbtn
+[INFO ] 2024-06-01 03:00:09.988 [main] BusinessPhoneFlowPage - completed : clickonnextbtn
+[INFO ] 2024-06-01 03:00:09.988 [main] BusinessPhoneFlowPage - started : clickOnSearchCustomer
+[INFO ] 2024-06-01 03:02:56.968 [main] BusinessPhoneFlowPage - Started : ClickonRogersbtn
+[INFO ] 2024-06-01 03:02:59.381 [main] BusinessPhoneFlowPage - completed : ClickonRogersbtn
+[INFO ] 2024-06-01 03:02:59.384 [main] BusinessPhoneFlowPage - Started : Enter useremailid
+[INFO ] 2024-06-01 03:03:04.937 [main] BusinessPhoneFlowPage - Completed : enter useremailid
+[INFO ] 2024-06-01 03:03:04.937 [main] BusinessPhoneFlowPage - started : enterpassword
+[INFO ] 2024-06-01 03:03:08.092 [main] BusinessPhoneFlowPage - completed : enterpassword
+[INFO ] 2024-06-01 03:03:08.096 [main] BusinessPhoneFlowPage - started : clickonsigninbtn
+[INFO ] 2024-06-01 03:03:14.172 [main] BusinessPhoneFlowPage - completed : clickonsigninbtn
+[INFO ] 2024-06-01 03:03:14.172 [main] BusinessPhoneFlowPage - started : clickonnextbtn
+[INFO ] 2024-06-01 03:03:25.431 [main] BusinessPhoneFlowPage - completed : clickonnextbtn
+[INFO ] 2024-06-01 03:03:25.433 [main] BusinessPhoneFlowPage - started : clickOnSearchCustomer
+[INFO ] 2024-06-01 03:09:24.136 [main] BusinessPhoneFlowPage - Started : ClickonRogersbtn
+[INFO ] 2024-06-01 03:09:26.332 [main] BusinessPhoneFlowPage - completed : ClickonRogersbtn
+[INFO ] 2024-06-01 03:09:26.335 [main] BusinessPhoneFlowPage - Started : Enter useremailid
+[INFO ] 2024-06-01 03:09:31.958 [main] BusinessPhoneFlowPage - Completed : enter useremailid
+[INFO ] 2024-06-01 03:09:31.958 [main] BusinessPhoneFlowPage - started : enterpassword
+[INFO ] 2024-06-01 03:09:35.143 [main] BusinessPhoneFlowPage - completed : enterpassword
+[INFO ] 2024-06-01 03:09:35.152 [main] BusinessPhoneFlowPage - started : clickonsigninbtn
+[INFO ] 2024-06-01 03:09:41.197 [main] BusinessPhoneFlowPage - completed : clickonsigninbtn
+[INFO ] 2024-06-01 03:11:02.506 [main] BusinessPhoneFlowPage - Started : ClickonRogersbtn
+[INFO ] 2024-06-01 03:11:07.275 [main] BusinessPhoneFlowPage - completed : ClickonRogersbtn
+[INFO ] 2024-06-01 03:11:07.276 [main] BusinessPhoneFlowPage - Started : Enter useremailid
+[INFO ] 2024-06-01 03:11:12.863 [main] BusinessPhoneFlowPage - Completed : enter useremailid
+[INFO ] 2024-06-01 03:11:12.864 [main] BusinessPhoneFlowPage - started : enterpassword
+[INFO ] 2024-06-01 03:11:16.340 [main] BusinessPhoneFlowPage - completed : enterpassword
+[INFO ] 2024-06-01 03:11:16.350 [main] BusinessPhoneFlowPage - started : clickonsigninbtn
+[INFO ] 2024-06-01 03:11:22.393 [main] BusinessPhoneFlowPage - completed : clickonsigninbtn
+[INFO ] 2024-06-01 03:11:22.393 [main] BusinessPhoneFlowPage - started : clickOnSearchCustomer
+[INFO ] 2024-06-01 03:12:36.974 [main] BusinessPhoneFlowPage - Started : ClickonRogersbtn
+[INFO ] 2024-06-01 03:12:39.201 [main] BusinessPhoneFlowPage - completed : ClickonRogersbtn
+[INFO ] 2024-06-01 03:12:39.203 [main] BusinessPhoneFlowPage - Started : Enter useremailid
+[INFO ] 2024-06-01 03:12:44.796 [main] BusinessPhoneFlowPage - Completed : enter useremailid
+[INFO ] 2024-06-01 03:12:44.797 [main] BusinessPhoneFlowPage - started : enterpassword
+[INFO ] 2024-06-01 03:12:47.943 [main] BusinessPhoneFlowPage - completed : enterpassword
+[INFO ] 2024-06-01 03:12:47.948 [main] BusinessPhoneFlowPage - started : clickonsigninbtn
+[INFO ] 2024-06-01 03:13:20.390 [main] BusinessPhoneFlowPage - Started : ClickonRogersbtn
+[INFO ] 2024-06-01 03:13:22.569 [main] BusinessPhoneFlowPage - completed : ClickonRogersbtn
+[INFO ] 2024-06-01 03:13:22.573 [main] BusinessPhoneFlowPage - Started : Enter useremailid
+[INFO ] 2024-06-01 03:13:27.850 [main] BusinessPhoneFlowPage - Completed : enter useremailid
+[INFO ] 2024-06-01 03:13:27.851 [main] BusinessPhoneFlowPage - started : enterpassword
+[INFO ] 2024-06-01 03:13:31.347 [main] BusinessPhoneFlowPage - completed : enterpassword
+[INFO ] 2024-06-01 03:13:31.354 [main] BusinessPhoneFlowPage - started : clickonsigninbtn
+[INFO ] 2024-06-01 03:13:37.442 [main] BusinessPhoneFlowPage - completed : clickonsigninbtn
+[INFO ] 2024-06-01 03:15:28.557 [main] BusinessPhoneFlowPage - Started : ClickonRogersbtn
+[INFO ] 2024-06-01 03:15:31.034 [main] BusinessPhoneFlowPage - completed : ClickonRogersbtn
+[INFO ] 2024-06-01 03:15:31.036 [main] BusinessPhoneFlowPage - Started : Enter useremailid
+[INFO ] 2024-06-01 03:15:36.752 [main] BusinessPhoneFlowPage - Completed : enter useremailid
+[INFO ] 2024-06-01 03:15:36.752 [main] BusinessPhoneFlowPage - started : enterpassword
+[INFO ] 2024-06-01 03:15:39.990 [main] BusinessPhoneFlowPage - completed : enterpassword
+[INFO ] 2024-06-01 03:15:39.997 [main] BusinessPhoneFlowPage - started : clickonsigninbtn
+[INFO ] 2024-06-01 03:15:45.101 [main] BusinessPhoneFlowPage - completed : clickonsigninbtn
+[INFO ] 2024-06-01 03:15:45.103 [main] BusinessPhoneFlowPage - started : clickonnextbtn
+[INFO ] 2024-06-01 03:15:46.476 [main] BusinessPhoneFlowPage - completed : clickonnextbtn
+[INFO ] 2024-06-01 03:15:46.476 [main] BusinessPhoneFlowPage - started : clickOnSearchCustomer
+[INFO ] 2024-06-04 01:12:07.147 [main] BusinessPhoneFlowPage - Started : ClickonRogersbtn
+[INFO ] 2024-06-04 01:12:09.755 [main] BusinessPhoneFlowPage - completed : ClickonRogersbtn
+[INFO ] 2024-06-04 01:12:09.756 [main] BusinessPhoneFlowPage - Started : Enter useremailid
+[INFO ] 2024-06-04 01:12:15.049 [main] BusinessPhoneFlowPage - Completed : enter useremailid
+[INFO ] 2024-06-04 01:12:15.049 [main] BusinessPhoneFlowPage - started : enterpassword
+[INFO ] 2024-06-04 01:12:18.294 [main] BusinessPhoneFlowPage - completed : enterpassword
+[INFO ] 2024-06-04 01:12:18.299 [main] BusinessPhoneFlowPage - started : clickonsigninbtn
+[INFO ] 2024-06-04 01:12:23.406 [main] BusinessPhoneFlowPage - completed : clickonsigninbtn
+[INFO ] 2024-06-04 01:12:23.409 [main] BusinessPhoneFlowPage - started : clickonnextbtn
+[INFO ] 2024-06-04 01:12:24.565 [main] BusinessPhoneFlowPage - completed : clickonnextbtn
+[INFO ] 2024-06-04 01:12:24.566 [main] BusinessPhoneFlowPage - started : clickOnSearchCustomer
+[INFO ] 2024-06-04 01:13:10.942 [main] BusinessPhoneFlowPage - Started : ClickonRogersbtn
+[INFO ] 2024-06-04 01:13:13.579 [main] BusinessPhoneFlowPage - completed : ClickonRogersbtn
+[INFO ] 2024-06-04 01:13:13.581 [main] BusinessPhoneFlowPage - Started : Enter useremailid
+[INFO ] 2024-06-04 01:13:19.154 [main] BusinessPhoneFlowPage - Completed : enter useremailid
+[INFO ] 2024-06-04 01:13:19.154 [main] BusinessPhoneFlowPage - started : enterpassword
+[INFO ] 2024-06-04 01:13:22.441 [main] BusinessPhoneFlowPage - completed : enterpassword
+[INFO ] 2024-06-04 01:13:22.451 [main] BusinessPhoneFlowPage - started : clickonsigninbtn
+[INFO ] 2024-06-04 01:13:27.620 [main] BusinessPhoneFlowPage - completed : clickonsigninbtn
+[INFO ] 2024-06-04 01:13:27.620 [main] BusinessPhoneFlowPage - started : authontication
+[INFO ] 2024-06-04 01:13:30.974 [main] BusinessPhoneFlowPage - completed : authontication
+[INFO ] 2024-06-04 01:13:30.977 [main] BusinessPhoneFlowPage - started : clickonnextbtn
+[INFO ] 2024-06-04 01:13:32.085 [main] BusinessPhoneFlowPage - completed : clickonnextbtn
+[INFO ] 2024-06-04 01:13:32.086 [main] BusinessPhoneFlowPage - started : clickOnSearchCustomer
+[INFO ] 2024-06-04 01:14:57.840 [main] BusinessPhoneFlowPage - Started : ClickonRogersbtn
+[INFO ] 2024-06-04 01:15:02.297 [main] BusinessPhoneFlowPage - completed : ClickonRogersbtn
+[INFO ] 2024-06-04 01:15:02.300 [main] BusinessPhoneFlowPage - Started : Enter useremailid
+[INFO ] 2024-06-04 01:15:07.874 [main] BusinessPhoneFlowPage - Completed : enter useremailid
+[INFO ] 2024-06-04 01:15:07.874 [main] BusinessPhoneFlowPage - started : enterpassword
+[INFO ] 2024-06-04 01:15:11.055 [main] BusinessPhoneFlowPage - completed : enterpassword
+[INFO ] 2024-06-04 01:15:11.059 [main] BusinessPhoneFlowPage - started : clickonsigninbtn
+[INFO ] 2024-06-04 01:15:16.156 [main] BusinessPhoneFlowPage - completed : clickonsigninbtn
+[INFO ] 2024-06-04 01:15:16.156 [main] BusinessPhoneFlowPage - started : authontication
+[INFO ] 2024-06-04 01:15:36.628 [main] BusinessPhoneFlowPage - completed : authontication
+[INFO ] 2024-06-04 01:15:36.630 [main] BusinessPhoneFlowPage - started : clickonnextbtn
+[INFO ] 2024-06-04 01:15:37.626 [main] BusinessPhoneFlowPage - completed : clickonnextbtn
+[INFO ] 2024-06-04 01:15:37.626 [main] BusinessPhoneFlowPage - started : clickOnSearchCustomer
+[INFO ] 2024-06-04 01:16:44.642 [main] BusinessPhoneFlowPage - Started : ClickonRogersbtn
+[INFO ] 2024-06-04 01:16:47.293 [main] BusinessPhoneFlowPage - completed : ClickonRogersbtn
+[INFO ] 2024-06-04 01:16:47.294 [main] BusinessPhoneFlowPage - Started : Enter useremailid
+[INFO ] 2024-06-04 01:16:52.856 [main] BusinessPhoneFlowPage - Completed : enter useremailid
+[INFO ] 2024-06-04 01:16:52.856 [main] BusinessPhoneFlowPage - started : enterpassword
+[INFO ] 2024-06-04 01:16:56.044 [main] BusinessPhoneFlowPage - completed : enterpassword
+[INFO ] 2024-06-04 01:16:56.053 [main] BusinessPhoneFlowPage - started : clickonsigninbtn
+[INFO ] 2024-06-04 01:17:01.157 [main] BusinessPhoneFlowPage - completed : clickonsigninbtn
+[INFO ] 2024-06-04 01:17:01.158 [main] BusinessPhoneFlowPage - started : authontication
+[INFO ] 2024-06-04 01:17:21.224 [main] BusinessPhoneFlowPage - completed : authontication
+[INFO ] 2024-06-04 01:17:21.224 [main] BusinessPhoneFlowPage - started : clickonnextbtn
+[INFO ] 2024-06-04 01:17:22.343 [main] BusinessPhoneFlowPage - completed : clickonnextbtn
+[INFO ] 2024-06-04 01:17:22.344 [main] BusinessPhoneFlowPage - started : clickOnSearchCustomer
+[INFO ] 2024-06-04 01:19:03.496 [main] BusinessPhoneFlowPage - Started : ClickonRogersbtn
+[INFO ] 2024-06-04 01:19:05.755 [main] BusinessPhoneFlowPage - completed : ClickonRogersbtn
+[INFO ] 2024-06-04 01:19:05.755 [main] BusinessPhoneFlowPage - Started : Enter useremailid
+[INFO ] 2024-06-04 01:19:11.447 [main] BusinessPhoneFlowPage - Completed : enter useremailid
+[INFO ] 2024-06-04 01:19:11.448 [main] BusinessPhoneFlowPage - started : enterpassword
+[INFO ] 2024-06-04 01:19:14.583 [main] BusinessPhoneFlowPage - completed : enterpassword
+[INFO ] 2024-06-04 01:19:14.583 [main] BusinessPhoneFlowPage - started : clickonsigninbtn
+[INFO ] 2024-06-04 01:19:19.667 [main] BusinessPhoneFlowPage - completed : clickonsigninbtn
+[INFO ] 2024-06-04 01:22:06.337 [main] BusinessPhoneFlowPage - Started : ClickonRogersbtn
+[INFO ] 2024-06-04 01:22:08.778 [main] BusinessPhoneFlowPage - completed : ClickonRogersbtn
+[INFO ] 2024-06-04 01:22:08.778 [main] BusinessPhoneFlowPage - Started : Enter useremailid
+[INFO ] 2024-06-04 01:22:14.360 [main] BusinessPhoneFlowPage - Completed : enter useremailid
+[INFO ] 2024-06-04 01:22:14.361 [main] BusinessPhoneFlowPage - started : enterpassword
+[INFO ] 2024-06-04 01:22:17.557 [main] BusinessPhoneFlowPage - completed : enterpassword
+[INFO ] 2024-06-04 01:22:17.558 [main] BusinessPhoneFlowPage - started : clickonsigninbtn
+[INFO ] 2024-06-04 01:22:22.657 [main] BusinessPhoneFlowPage - completed : clickonsigninbtn
+[INFO ] 2024-06-04 01:28:20.300 [main] BusinessPhoneFlowPage - Started : ClickonRogersbtn
+[INFO ] 2024-06-04 01:28:22.741 [main] BusinessPhoneFlowPage - completed : ClickonRogersbtn
+[INFO ] 2024-06-04 01:28:22.743 [main] BusinessPhoneFlowPage - Started : Enter useremailid
+[INFO ] 2024-06-04 01:28:28.318 [main] BusinessPhoneFlowPage - Completed : enter useremailid
+[INFO ] 2024-06-04 01:28:28.319 [main] BusinessPhoneFlowPage - started : enterpassword
+[INFO ] 2024-06-04 01:28:31.560 [main] BusinessPhoneFlowPage - completed : enterpassword
+[INFO ] 2024-06-04 01:28:31.564 [main] BusinessPhoneFlowPage - started : clickonsigninbtn
+[INFO ] 2024-06-04 01:28:36.661 [main] BusinessPhoneFlowPage - completed : clickonsigninbtn
+[INFO ] 2024-06-04 01:31:25.376 [main] BusinessPhoneFlowPage - Started : ClickonRogersbtn
+[INFO ] 2024-06-04 01:31:27.648 [main] BusinessPhoneFlowPage - completed : ClickonRogersbtn
+[INFO ] 2024-06-04 01:31:27.651 [main] BusinessPhoneFlowPage - Started : Enter useremailid
+[INFO ] 2024-06-04 01:31:33.243 [main] BusinessPhoneFlowPage - Completed : enter useremailid
+[INFO ] 2024-06-04 01:31:33.243 [main] BusinessPhoneFlowPage - started : enterpassword
+[INFO ] 2024-06-04 01:31:36.379 [main] BusinessPhoneFlowPage - completed : enterpassword
+[INFO ] 2024-06-04 01:31:36.385 [main] BusinessPhoneFlowPage - started : clickonsigninbtn
+[INFO ] 2024-06-04 01:31:37.484 [main] BusinessPhoneFlowPage - completed : clickonsigninbtn
+[INFO ] 2024-06-04 01:32:21.670 [main] BusinessPhoneFlowPage - Started : ClickonRogersbtn
+[INFO ] 2024-06-04 01:32:23.712 [main] BusinessPhoneFlowPage - completed : ClickonRogersbtn
+[INFO ] 2024-06-04 01:32:23.714 [main] BusinessPhoneFlowPage - Started : Enter useremailid
+[INFO ] 2024-06-04 01:32:29.293 [main] BusinessPhoneFlowPage - Completed : enter useremailid
+[INFO ] 2024-06-04 01:32:29.294 [main] BusinessPhoneFlowPage - started : enterpassword
+[INFO ] 2024-06-04 01:32:32.431 [main] BusinessPhoneFlowPage - completed : enterpassword
+[INFO ] 2024-06-04 01:32:32.438 [main] BusinessPhoneFlowPage - started : clickonsigninbtn
+[INFO ] 2024-06-04 01:32:37.581 [main] BusinessPhoneFlowPage - completed : clickonsigninbtn
+[INFO ] 2024-06-04 01:34:36.997 [main] BusinessPhoneFlowPage - Started : ClickonRogersbtn
+[INFO ] 2024-06-04 01:34:39.262 [main] BusinessPhoneFlowPage - completed : ClickonRogersbtn
+[INFO ] 2024-06-04 01:34:39.265 [main] BusinessPhoneFlowPage - Started : Enter useremailid
+[INFO ] 2024-06-04 01:34:44.732 [main] BusinessPhoneFlowPage - Completed : enter useremailid
+[INFO ] 2024-06-04 01:34:44.732 [main] BusinessPhoneFlowPage - started : enterpassword
+[INFO ] 2024-06-04 01:34:47.923 [main] BusinessPhoneFlowPage - completed : enterpassword
+[INFO ] 2024-06-04 01:34:47.930 [main] BusinessPhoneFlowPage - started : clickonsigninbtn
+[INFO ] 2024-06-04 01:34:53.052 [main] BusinessPhoneFlowPage - completed : clickonsigninbtn
+[INFO ] 2024-06-04 01:34:53.054 [main] BusinessPhoneFlowPage - started : authontication
+[INFO ] 2024-06-04 01:35:03.438 [main] BusinessPhoneFlowPage - completed : authontication
+[INFO ] 2024-06-04 01:35:03.440 [main] BusinessPhoneFlowPage - started : clickonnextbtn
+[INFO ] 2024-06-04 01:35:04.335 [main] BusinessPhoneFlowPage - completed : clickonnextbtn
+[INFO ] 2024-06-04 01:35:04.337 [main] BusinessPhoneFlowPage - started : clickOnSearchCustomer
+[INFO ] 2024-06-04 01:36:28.312 [main] BusinessPhoneFlowPage - Started : ClickonRogersbtn
+[INFO ] 2024-06-04 01:36:30.680 [main] BusinessPhoneFlowPage - completed : ClickonRogersbtn
+[INFO ] 2024-06-04 01:36:30.682 [main] BusinessPhoneFlowPage - Started : Enter useremailid
+[INFO ] 2024-06-04 01:36:36.274 [main] BusinessPhoneFlowPage - Completed : enter useremailid
+[INFO ] 2024-06-04 01:36:36.275 [main] BusinessPhoneFlowPage - started : enterpassword
+[INFO ] 2024-06-04 01:36:39.454 [main] BusinessPhoneFlowPage - completed : enterpassword
+[INFO ] 2024-06-04 01:36:39.465 [main] BusinessPhoneFlowPage - started : clickonsigninbtn
+[INFO ] 2024-06-04 01:36:44.669 [main] BusinessPhoneFlowPage - completed : clickonsigninbtn
+[INFO ] 2024-06-04 01:36:44.671 [main] BusinessPhoneFlowPage - started : authontication
+[INFO ] 2024-06-04 01:36:55.054 [main] BusinessPhoneFlowPage - completed : authontication
+[INFO ] 2024-06-04 01:36:55.055 [main] BusinessPhoneFlowPage - started : clickonnextbtn
+[INFO ] 2024-06-04 01:36:56.554 [main] BusinessPhoneFlowPage - completed : clickonnextbtn
+[INFO ] 2024-06-04 01:36:56.556 [main] BusinessPhoneFlowPage - started : clickOnSearchCustomer
+[INFO ] 2024-06-04 01:39:38.459 [main] BusinessPhoneFlowPage - Started : ClickonRogersbtn
+[INFO ] 2024-06-04 01:39:40.797 [main] BusinessPhoneFlowPage - completed : ClickonRogersbtn
+[INFO ] 2024-06-04 01:39:40.799 [main] BusinessPhoneFlowPage - Started : Enter useremailid
+[INFO ] 2024-06-04 01:39:46.360 [main] BusinessPhoneFlowPage - Completed : enter useremailid
+[INFO ] 2024-06-04 01:39:46.360 [main] BusinessPhoneFlowPage - started : enterpassword
+[INFO ] 2024-06-04 01:39:49.526 [main] BusinessPhoneFlowPage - completed : enterpassword
+[INFO ] 2024-06-04 01:39:49.530 [main] BusinessPhoneFlowPage - started : clickonsigninbtn
+[INFO ] 2024-06-04 01:39:54.634 [main] BusinessPhoneFlowPage - completed : clickonsigninbtn
+[INFO ] 2024-06-04 01:39:54.636 [main] BusinessPhoneFlowPage - started : authontication
+[INFO ] 2024-06-04 01:40:04.963 [main] BusinessPhoneFlowPage - completed : authontication
+[INFO ] 2024-06-04 01:40:04.965 [main] BusinessPhoneFlowPage - started : clickonnextbtn
+[INFO ] 2024-06-04 01:40:05.990 [main] BusinessPhoneFlowPage - completed : clickonnextbtn
+[INFO ] 2024-06-04 01:40:05.993 [main] BusinessPhoneFlowPage - started : clickOnSearchCustomer
+[INFO ] 2024-06-07 19:50:09.397 [main] BusinessPhoneFlowPage - Started : ClickonRogersbtn
+[INFO ] 2024-06-07 19:50:11.419 [main] BusinessPhoneFlowPage - completed : ClickonRogersbtn
+[INFO ] 2024-06-07 19:50:11.420 [main] BusinessPhoneFlowPage - Started : Enter useremailid
+[INFO ] 2024-06-07 19:50:16.579 [main] BusinessPhoneFlowPage - Completed : enter useremailid
+[INFO ] 2024-06-07 19:50:16.580 [main] BusinessPhoneFlowPage - started : enterpassword
+[INFO ] 2024-06-07 19:50:19.693 [main] BusinessPhoneFlowPage - completed : enterpassword
+[INFO ] 2024-06-07 19:50:19.696 [main] BusinessPhoneFlowPage - started : clickonsigninbtn
+[INFO ] 2024-06-07 19:50:24.778 [main] BusinessPhoneFlowPage - completed : clickonsigninbtn
+[INFO ] 2024-06-07 19:50:24.778 [main] BusinessPhoneFlowPage - started : authontication
+[INFO ] 2024-06-07 19:50:34.815 [main] BusinessPhoneFlowPage - completed : authontication
+[INFO ] 2024-06-07 19:50:34.816 [main] BusinessPhoneFlowPage - started : clickonnextbtn
+[INFO ] 2024-06-07 19:50:35.633 [main] BusinessPhoneFlowPage - completed : clickonnextbtn
+[INFO ] 2024-06-07 19:50:35.636 [main] BusinessPhoneFlowPage - started : clickOnSearchCustomer
+[INFO ] 2024-06-08 03:08:28.060 [main] BusinessPhoneFlowPage - Started : ClickonRogersbtn
+[INFO ] 2024-06-08 03:08:30.068 [main] BusinessPhoneFlowPage - completed : ClickonRogersbtn
+[INFO ] 2024-06-08 03:08:30.068 [main] BusinessPhoneFlowPage - Started : Enter useremailid
+[INFO ] 2024-06-08 03:08:35.234 [main] BusinessPhoneFlowPage - Completed : enter useremailid
+[INFO ] 2024-06-08 03:08:35.235 [main] BusinessPhoneFlowPage - started : enterpassword
+[INFO ] 2024-06-08 03:08:38.369 [main] BusinessPhoneFlowPage - completed : enterpassword
+[INFO ] 2024-06-08 03:08:38.374 [main] BusinessPhoneFlowPage - started : clickonsigninbtn
+[INFO ] 2024-06-08 03:08:43.448 [main] BusinessPhoneFlowPage - completed : clickonsigninbtn
+[INFO ] 2024-06-08 03:08:43.448 [main] BusinessPhoneFlowPage - started : authontication
+[INFO ] 2024-06-08 03:08:53.464 [main] BusinessPhoneFlowPage - completed : authontication
+[INFO ] 2024-06-08 03:08:53.464 [main] BusinessPhoneFlowPage - started : clickonnextbtn
+[INFO ] 2024-06-08 03:08:54.637 [main] BusinessPhoneFlowPage - completed : clickonnextbtn
+[INFO ] 2024-06-08 03:08:54.644 [main] BusinessPhoneFlowPage - started : clickOnSearchCustomer
+[INFO ] 2024-06-08 03:09:40.192 [main] BusinessPhoneFlowPage - Started : ClickonRogersbtn
+[INFO ] 2024-06-08 03:09:41.956 [main] BusinessPhoneFlowPage - completed : ClickonRogersbtn
+[INFO ] 2024-06-08 03:09:41.957 [main] BusinessPhoneFlowPage - Started : Enter useremailid
+[INFO ] 2024-06-08 03:09:47.151 [main] BusinessPhoneFlowPage - Completed : enter useremailid
+[INFO ] 2024-06-08 03:09:47.151 [main] BusinessPhoneFlowPage - started : enterpassword
+[INFO ] 2024-06-08 03:09:50.291 [main] BusinessPhoneFlowPage - completed : enterpassword
+[INFO ] 2024-06-08 03:09:50.300 [main] BusinessPhoneFlowPage - started : clickonsigninbtn
+[INFO ] 2024-06-08 03:09:55.378 [main] BusinessPhoneFlowPage - completed : clickonsigninbtn
+[INFO ] 2024-06-08 03:09:55.378 [main] BusinessPhoneFlowPage - started : authontication
+[INFO ] 2024-06-08 03:10:05.429 [main] BusinessPhoneFlowPage - completed : authontication
+[INFO ] 2024-06-08 03:10:05.430 [main] BusinessPhoneFlowPage - started : clickonnextbtn
+[INFO ] 2024-06-08 03:10:06.227 [main] BusinessPhoneFlowPage - completed : clickonnextbtn
+[INFO ] 2024-06-08 03:10:06.229 [main] BusinessPhoneFlowPage - started : clickOnSearchCustomer
+[INFO ] 2024-06-08 03:11:07.429 [main] BusinessPhoneFlowPage - Started : ClickonRogersbtn
+[INFO ] 2024-06-08 03:11:09.215 [main] BusinessPhoneFlowPage - completed : ClickonRogersbtn
+[INFO ] 2024-06-08 03:11:09.216 [main] BusinessPhoneFlowPage - Started : Enter useremailid
+[INFO ] 2024-06-08 03:11:14.438 [main] BusinessPhoneFlowPage - Completed : enter useremailid
+[INFO ] 2024-06-08 03:11:14.438 [main] BusinessPhoneFlowPage - started : enterpassword
+[INFO ] 2024-06-08 03:11:17.628 [main] BusinessPhoneFlowPage - completed : enterpassword
+[INFO ] 2024-06-08 03:11:17.640 [main] BusinessPhoneFlowPage - started : clickonsigninbtn
+[INFO ] 2024-06-08 03:11:22.760 [main] BusinessPhoneFlowPage - completed : clickonsigninbtn
+[INFO ] 2024-06-08 03:11:22.761 [main] BusinessPhoneFlowPage - started : authontication
+[INFO ] 2024-06-08 03:11:33.225 [main] BusinessPhoneFlowPage - completed : authontication
+[INFO ] 2024-06-08 03:11:33.227 [main] BusinessPhoneFlowPage - started : clickonnextbtn
+[INFO ] 2024-06-08 03:11:34.061 [main] BusinessPhoneFlowPage - completed : clickonnextbtn
+[INFO ] 2024-06-08 03:11:34.070 [main] BusinessPhoneFlowPage - started : clickOnSearchCustomer
+[INFO ] 2024-06-08 03:17:56.688 [main] BusinessPhoneFlowPage - Started : ClickonRogersbtn
+[INFO ] 2024-06-08 03:17:58.438 [main] BusinessPhoneFlowPage - completed : ClickonRogersbtn
+[INFO ] 2024-06-08 03:17:58.441 [main] BusinessPhoneFlowPage - Started : Enter useremailid
+[INFO ] 2024-06-08 03:18:03.676 [main] BusinessPhoneFlowPage - Completed : enter useremailid
+[INFO ] 2024-06-08 03:18:03.676 [main] BusinessPhoneFlowPage - started : enterpassword
+[INFO ] 2024-06-08 03:18:06.973 [main] BusinessPhoneFlowPage - completed : enterpassword
+[INFO ] 2024-06-08 03:18:06.993 [main] BusinessPhoneFlowPage - started : clickonsigninbtn
+[INFO ] 2024-06-08 03:18:12.130 [main] BusinessPhoneFlowPage - completed : clickonsigninbtn
+[INFO ] 2024-06-08 03:18:12.131 [main] BusinessPhoneFlowPage - started : authontication
+[INFO ] 2024-06-08 03:18:22.652 [main] BusinessPhoneFlowPage - completed : authontication
+[INFO ] 2024-06-08 03:18:22.653 [main] BusinessPhoneFlowPage - started : clickonnextbtn
+[INFO ] 2024-06-08 03:18:23.549 [main] BusinessPhoneFlowPage - completed : clickonnextbtn
+[INFO ] 2024-06-08 03:18:23.551 [main] BusinessPhoneFlowPage - started : clickOnSearchCustomer
+[INFO ] 2024-06-08 03:18:43.923 [main] BusinessPhoneFlowPage - completed : clickOnSearchCustomer
+[INFO ] 2024-06-08 03:18:43.925 [main] BusinessPhoneFlowPage - started : entercutomerfirstnameAndlastname
+[INFO ] 2024-06-08 03:25:05.361 [main] BusinessPhoneFlowPage - Started : ClickonRogersbtn
+[INFO ] 2024-06-08 03:25:07.458 [main] BusinessPhoneFlowPage - completed : ClickonRogersbtn
+[INFO ] 2024-06-08 03:25:07.460 [main] BusinessPhoneFlowPage - Started : Enter useremailid
+[INFO ] 2024-06-08 03:25:12.670 [main] BusinessPhoneFlowPage - Completed : enter useremailid
+[INFO ] 2024-06-08 03:25:12.670 [main] BusinessPhoneFlowPage - started : enterpassword
+[INFO ] 2024-06-08 03:25:15.906 [main] BusinessPhoneFlowPage - completed : enterpassword
+[INFO ] 2024-06-08 03:25:15.913 [main] BusinessPhoneFlowPage - started : clickonsigninbtn
+[INFO ] 2024-06-08 03:25:20.997 [main] BusinessPhoneFlowPage - completed : clickonsigninbtn
+[INFO ] 2024-06-08 03:25:20.999 [main] BusinessPhoneFlowPage - started : authontication
+[INFO ] 2024-06-08 03:25:31.119 [main] BusinessPhoneFlowPage - completed : authontication
+[INFO ] 2024-06-08 03:25:31.121 [main] BusinessPhoneFlowPage - started : clickonnextbtn
+[INFO ] 2024-06-08 03:25:31.941 [main] BusinessPhoneFlowPage - completed : clickonnextbtn
+[INFO ] 2024-06-08 03:25:31.945 [main] BusinessPhoneFlowPage - started : clickOnSearchCustomer
+[INFO ] 2024-06-08 03:25:42.109 [main] BusinessPhoneFlowPage - completed : clickOnSearchCustomer
+[INFO ] 2024-06-08 03:25:42.114 [main] BusinessPhoneFlowPage - started : entercutomerfirstnameAndlastname
+[INFO ] 2024-06-11 20:27:05.485 [main] BusinessPhoneFlowPage - started : clickOnSearchCustomer
+[INFO ] 2024-06-11 20:36:58.902 [main] BusinessPhoneFlowPage - started : clickOnSearchCustomer
+[INFO ] 2024-06-11 20:59:19.153 [main] BusinessPhoneFlowPage - started : clickOnSearchCustomer
+[INFO ] 2024-06-11 21:01:42.045 [main] BusinessPhoneFlowPage - started : clickOnSearchCustomer
+[INFO ] 2024-06-11 21:09:07.066 [main] BusinessPhoneFlowPage - started : clickOnSearchCustomer
+[INFO ] 2024-06-11 21:32:19.549 [main] BusinessPhoneFlowPage - started : clickOnSearchCustomer
+[INFO ] 2024-06-11 21:45:35.685 [main] BusinessPhoneFlowPage - started : clickOnSearchCustomer
+[INFO ] 2024-06-11 21:47:26.643 [main] BusinessPhoneFlowPage - started : clickOnSearchCustomer

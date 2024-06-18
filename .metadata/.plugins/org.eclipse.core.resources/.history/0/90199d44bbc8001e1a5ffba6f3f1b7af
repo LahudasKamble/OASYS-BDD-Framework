@@ -1,0 +1,83 @@
+package com.buisnessorderTest;
+
+import org.testng.annotations.Test;
+
+public class buisnessorderTest {
+	
+	
+   LoginPage logpage = null;
+	
+	
+	
+	buisnessorder buisnessorderAction = null;
+	
+	
+	
+	
+@BeforeClass
+	
+	public void browserLaunch () throws AWTException, InterruptedException  {
+		
+		
+Reporter.log("Browser open", true);
+		
+		browserInitialize();
+		logpage = new LoginPage(driver);
+		logpage.setAljumanloginPage();
+		action = new Myhorselisting(driver);
+		
+		buisnessorderAction = new buisnessorder (driver);
+		
+	}
+	
+
+	@Test(priority = 1 )
+	
+  public void TC_1_BoardinglistingAction() throws InterruptedException, AWTException {
+	  
+	 
+	  
+	  BoardingAction.AddBoarding();
+	  Reporter.log(" Add Boarding  Action Completed ");
+	 
+	  BoardingAction.EditBoarding();
+	  Reporter.log(" Edit  Boarding  Action Completed ");
+	  
+	  BoardingAction.DeletBoarding();
+	  
+	 Reporter.log(" Delete Boarding  Action Completed ");
+	 
+  }
+  
+	@Test(priority= 2)
+	
+	 public void TC_2_Stopboarding () throws InterruptedException, AWTException {
+		BoardingAction.AddBoarding();
+		  Reporter.log(" Add Boarding  Action Completed ");
+		BoardingAction.StopBoarding();
+		  Reporter.log(" Stop Boarding  Action Completed ");
+		
+	}
+	
+	
+	
+	  @AfterMethod
+	  public void mydemo() {
+		  Reporter.log("before method", true);
+			
+		}
+	  
+	  @AfterClass
+		public void browserclose() {
+			Reporter.log("Browserclose", true);
+			
+		driver.close();
+		
+		}
+	  
+	  
+  
+  
+  
+  
+}

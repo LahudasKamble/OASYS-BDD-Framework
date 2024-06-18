@@ -1,0 +1,38 @@
+Feature: New Customer is able to place Business Ignite TV with Internet Enabler order
+
+Background: Steps for all common scenarios
+Given User launch the Browser
+And   User click on Search Customers
+
+
+Scenario: User should be able to place Business Ignite TV with Internet Enabler order
+When User enter the Customer first name aand last name
+|LVK|LVK|
+And User enter the address
+|30 Victoria Cres, BRAMPTON ON L6T1E4|
+And User Click on Wireless Business SHM order button
+And User click on Business Ignite TV product on product selection page
+And User Select the all manadatory dropdown fields on Launch sales flow popup and click on continue button
+|Incorporated|Small|Yes|
+And User add the Business Ignite TV package on package page and click on continue button
+And User add the Business Ignite Tv hardware on hardware page and click on continue button
+And User add the Business Ignite TV Feature  on afeature page and click on continue button
+And User click on continue button on Thempack page
+And User click on continue button on Channel page
+And  User add the installation and without promotion on main shopping cart and click on checkout button
+|Installation Type|
+|Ignite Pro-Install|
+And  User Fill up All data on the User informations page and click on the continue button
+|ASG | ASG | ASG | ASG |
+And I fill Account Informations and click on the continue button
+|Billing Language | Decision Maker Name | Decision Maker Num | Decision Maker Nxt | Decision Maker Email | Site Contact Full Name | Site Contact Num | Site Contact Ext | Site Contact Email  | Preffered Contact Time | Alternate Contact Tine | Install Contact Num |Select Appointment Date|Alternate Preferred DayTime|
+| English         | LVK                | 4166666666          | 1234                | lkamble@ironlogic.ca | LVK                   | 4166666666        | 1234            | lkamble@ironlogic.ca| 08:00 AM - 11:00 AM    | 11:00 AM - 02:00 PM    | 4166666666          | 08:00 AM - 11:00 AM   |  12:00 PM - 02:00 PM      |
+And I fill Billing Address on Order Information Page
+|Business Type|Company Name | Address Info Email  | Address Info Phone | Service Info Mail   | Service Info Phone |
+|Incorporated |ASG          | lkamble@ironlogic.ca| 4166666666         | lkamble@ironlogic.ca | 4166666666        |
+And User Fill up All data on the Credit information page and click on the continue button
+  |HST/GST ID|
+  |1234567|
+And  User Agrees with the Terms & Conditions on order summary page
+And  User Click on Submit for Processing Disposition
+And  User Click on the logout button on order confirmation page

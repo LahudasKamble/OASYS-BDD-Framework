@@ -1,0 +1,211 @@
+package PageObject;
+
+import java.util.List;
+
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
+import org.openqa.selenium.JavascriptExecutor;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.support.FindBy;
+import org.openqa.selenium.support.PageFactory;
+import StepDefination.BaseClass;
+
+public class AdvantageVoiceFlowPage extends BaseClass {
+	
+	WebDriver ldriver;
+	
+	Logger logger = LogManager.getLogger(AdvantageVoiceFlowPage.class);
+	
+	public AdvantageVoiceFlowPage(WebDriver rdriver) {
+		
+		ldriver= rdriver;
+		
+	PageFactory.initElements(rdriver,this);
+	}
+	
+	@FindBy(xpath = "//input[@id='MainContent_dlBusiness_btnLink_4']")
+	WebElement clickonadvantagevoice;
+	
+	@FindBy (xpath = "//td[./span[normalize-space()='AV - Term Checked 3 (term1)']]//following-sibling::td//img[contains(@id,'MainContent_ctl00_dlPackageGroup_dlPackageList_0_imgbtnAdd_0')]")
+	WebElement clickonaddpackagebutton;
+	
+	@FindBy (xpath = "//td[./span[normalize-space()='AV LD New (FR5)']]//following-sibling::td//img[contains(@id,'MainContent_ctl00_dlLDPackageList_imgbtnAdd_0')]")
+	WebElement clickonaddLDpackagebutton;
+	
+	@FindBy (xpath = "//input[@id = 'MainContent_imgbtnContinue']")
+	WebElement continuebuttonpackagepage;
+	
+	@FindBy (xpath = "//input[@name ='ctl00$MainContent$ctl00$rpHardwareList$ctl02$ImgBtnRent']")
+	WebElement addbuttonHardwarepage;
+
+	@FindBy (xpath = "//input[@id = 'MainContent_imgbtnContinue']")
+	WebElement continuebuttonhardwarepage;
+
+	@FindBy (xpath = "// *[@id = 'MainContent_ctl00_dlstFeature_ImgBtnFeatureIdRent_2']")
+	WebElement Addbuttonfeaturepage;
+
+	@FindBy (xpath = "//input[@id = 'MainContent_imgbtnContinue']")
+	WebElement continuebuttonfeaturepage;
+	
+	@FindBy (xpath = "//input[@id ='MainContent_imgCblInstallationPopup']")
+	WebElement clickaddinstallation;
+
+	@FindBy (xpath = "//iframe[@name= 'rdAddItem']")
+	WebElement ifreameinstalltion;
+
+	@FindBy (xpath ="//td[./span[normalize-space()='AV install']]//following-sibling::td//img[contains(@id,'UCBundleSalesFlow_dlInstallation_imgbtnAddDelete_0')]")
+	WebElement addinstallation;
+
+	@FindBy (xpath = "//input[@id = 'imgbtnSave']")
+	WebElement clickonsave;
+	
+	@FindBy (xpath = "//*[@id='MainContent_ImgBtnSaveOrder']")
+	WebElement clickoncheckoutbtn;
+	
+	@FindBy (xpath = "//*[@id = 'MainContent_ucLNP_txtSpecialRequirement']")
+	WebElement textarea1;
+
+	@FindBy (xpath = "//*[@id = 'MainContent_ucLNP_txtAdditionalEquipments']")
+	WebElement textarea2;
+
+	@FindBy (xpath = "//input [@id ='MainContent_ucLNP_chkIsAccountChangesAuthority']")
+	WebElement Accountchangesauthritycheckbox;
+
+	@FindBy (xpath = "//*[@id='MainContent_ucLNP_txtRogersAccessTypeAndAssociatedAccountNumber']")
+	WebElement textarea3;
+
+	//@FindBy (xpath = "//*[text() ='Line #1']")
+	@FindBy (xpath = "//select[@id='MainContent_ucLNP_lstAvailableLines']//option[contains(text(),'Line')]")
+	List<WebElement> AVAvailablelines;
+
+//	@FindBy (xpath = "//*[contains(@id ,'_ucLNP_lnkNative')]")
+//	WebElement nativelink;  
+	
+	@FindBy (xpath = "//*[@id = 'MainContent_ucLNP_lnkAVNative']")
+	WebElement AVnativelink;
+
+	@FindBy (xpath = "//input[@id = 'MainContent_ucLNP_txtOutboundCallDisplayName']")
+	WebElement inputname;
+
+	@FindBy(xpath ="//input[@id='MainContent_ucLNP_chkAVConfirmTN']")
+	WebElement AvTN;
+
+	@FindBy(xpath ="//input[@id='MainContent_ucLNP_chkAVConfirmPortedTN']")
+	WebElement PortedTN;
+
+
+	@FindBy (xpath = "//input[@id = 'MainContent_ucLNP_rdoHSICList_2']")
+	WebElement Noneradiobtn;
+
+	@FindBy (xpath = "//input[@id = 'MainContent_ucLNP_chkCustomerAcknowledgeProceedWithOrder']")
+	WebElement internetservicecheckbox;
+
+	@FindBy (xpath = "//input[@id = 'MainContent_imgbtnContinue']")
+	WebElement continuebtn;
+	
+	public void addbAdvantagevoiceproduct() {
+		
+		logger.info("Started : Click on Advantage voice product");
+		clickonadvantagevoice.click();
+		logger.info("Completed : Click on Advantage voice product");
+	}
+
+    public void addbAdvantagevoicepackage() throws InterruptedException {
+		
+    	logger.info("Started : Add the Advantage voice Package");
+    	Thread.sleep(2000);
+    	clickonaddpackagebutton.click();
+    	Thread.sleep(2000);
+    	Scrolldown();
+    	clickonaddLDpackagebutton.click();
+    	continuebuttonpackagepage.click();
+    	logger.info("Completed : Add the Advantage voice Package");
+	}
+    
+    public void addbAdvantagevoiceHardware() throws InterruptedException {
+		
+    	logger.info("Started : Add the Advantage voice Hardware");
+    	Thread.sleep(2000);
+    	addbuttonHardwarepage.click();
+    	continuebuttonhardwarepage.click();
+    	logger.info("completed : Add the Advantage voice Hardware");
+	}
+    
+   public void addbAdvantagevoiceFeature() throws InterruptedException {
+		
+    	logger.info("Started : Add the Advantage voice feature");
+    	Thread.sleep(2000);
+    	Addbuttonfeaturepage.click();
+    	continuebuttonfeaturepage.click();
+    	logger.info("completed : Add the Advantage voice Feature");
+	}
+   
+   public void clickOnAddInstallationAndPromotion() throws InterruptedException 
+	{
+		logger.info("started:clickOnAddInstallationAndPromotion");
+		String title = ldriver.getTitle();
+		logger.info("Title is :"+title);
+		/*JavascriptExecutor j = (JavascriptExecutor)ldriver;
+		j.executeScript("window.scrollBy(0,500)");*/
+		JavascriptExecutor j = (JavascriptExecutor)ldriver;
+		j.executeScript("window.scrollBy(0,700)");
+		Thread.sleep(1000);
+		clickaddinstallation.click();
+		ldriver.switchTo().frame(ifreameinstalltion);
+		Thread.sleep(1000);
+		addinstallation.click();
+		clickonsave.click();
+		clickoncheckoutbtn.click();
+		/*By aadbuttun = By.xpath("//td[./span[normalize-space()='"+installName.trim()+"']]//following-sibling::td//img[contains(@id,'_imgbtnAddDelete_')]");
+		click(aadbuttun);
+		click(saveButton);
+		waitForPageToLoad();
+		click(addPromotionAndDiscountBtn);
+		switchToIframe(singlePromotionPopUp);
+		click(singleProductPromo);
+		click(singleProductCheckBox);
+		waitFor(1);
+		click(saveAndContinue);
+		waitFor(2);
+		click(checkOut);*/
+		logger.info("Completed:clickOnAddInstallationAndPromotion");
+	}
+	public void userinformationBusinessphone(List<String> List) throws InterruptedException 
+	{
+		logger.info("Strated : UserinformationAdvantageVoice");
+		Thread.sleep(2000);
+		String title = ldriver.getTitle();
+		logger.info("Title is : " +title);
+		textarea1.sendKeys(List.get(0));
+		textarea2.sendKeys(List.get(1));
+		Scrolldown();
+		Accountchangesauthritycheckbox.click();
+		textarea3.sendKeys(List.get(2));
+		Scrolldown();
+		Thread.sleep(3000);
+		
+		for(WebElement AVLine : Availablelines) 
+		{
+
+			AVLine.click();
+
+		}
+		AVnativelink.click();
+		
+		Thread.sleep(2000);
+		inputname.sendKeys(List.get(3));
+		Noneradiobtn.click();
+		internetservicecheckbox.click();
+		if(AvTN.isDisplayed()) {
+
+			AvTN.click();
+
+			if(PortedTN.isDisplayed()) {
+
+				PortedTN.click();
+			}}
+		continuebtn.click();
+		logger.info("completed : UserinformationAdvantageVoice");
+	}
+}

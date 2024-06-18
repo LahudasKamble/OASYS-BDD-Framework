@@ -1,0 +1,58 @@
+package StepDefination;
+
+import org.openqa.selenium.WebDriver;
+
+import PageObject.BusinessTVFlowPage;
+import io.cucumber.java.en.When;
+
+public class BusinessTVFlowSteps extends BaseClass {
+	
+	public BusinessTVFlowSteps(WebDriver driver) {
+		
+		BusinessTVlegacy = new BusinessTVFlowPage(driver);
+	}
+	
+	@When("User click on BuisnessTV product on Product selection page")
+	public void user_click_on_buisness_tv_product_on_product_selection_page() {
+	    
+		
+		BusinessTVlegacy.addbBusinessTVproduct();
+		
+	}
+
+	@When("User add the BusinessTV package click on continue button")
+	public void user_add_the_business_tv_package_click_on_continue_button(io.cucumber.datatable.DataTable dataTable) throws InterruptedException {
+		
+		BusinessTVlegacy.addbBusinessTVpackage();
+	}
+
+	@When("User add the BusinessTV Hardware on hardware page and click on continue button")
+	public void user_add_the_business_tv_hardware_on_hardware_page_and_click_on_continue_button(io.cucumber.datatable.DataTable dataTable) throws InterruptedException {
+	  
+		BusinessTVlegacy.addbBusinessTVHardware();
+	}
+
+	@When("User add the BusinessTV feature and click on continue button")
+	public void user_add_the_business_tv_feature_and_click_on_continue_button(io.cucumber.datatable.DataTable dataTable) throws InterruptedException {
+	   
+		BusinessTVlegacy.addbBusinessTVFeature();
+		BusinessTVlegacy.Thempack();
+		BusinessTVlegacy.Channels();
+		
+	}
+
+	@When("User add the BusinessTV installation and without promotion on main shopping cart and click on checkout button")
+	public void user_add_the_business_tv_installation_and_without_promotion_on_main_shopping_cart_and_click_on_checkout_button(io.cucumber.datatable.DataTable dataTable) throws InterruptedException {
+	    
+		BusinessTVlegacy.clickOnAddInstallationAndPromotion();
+	}
+
+	@When("User click on the continue button on the User informations page")
+	public void user_click_on_the_continue_button_on_the_user_informations_page() {
+	   
+		BusinessTVlegacy.clickcontinueonuserinformation();
+		
+	}
+
+
+}

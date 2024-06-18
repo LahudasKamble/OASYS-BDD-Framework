@@ -1,0 +1,66 @@
+package PageObject;
+
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.support.FindBy;
+import org.openqa.selenium.support.PageFactory;
+
+public class BusinessPhoneFlowPage {
+	
+	
+	public WebDriver ldriver;
+	
+	//Constructed
+	
+	public BusinessPhoneFlowPage(WebDriver rdriver) {
+		
+		ldriver = rdriver;
+		
+		PageFactory.initElements(rdriver , this);
+		
+	}
+	
+	
+	@FindBy (id = "MainContent_imgbtnSSO")
+	WebElement Rogersidbutton;
+	
+	@FindBy (xpath = "//input[@type = 'email']")
+	WebElement useremailid;
+	
+	@FindBy (xpath = "//input[@type = 'password']")
+	WebElement Userpassword;
+	
+	@FindBy (xpath = "//input[@type = 'submit']")
+	WebElement signinbutton;
+	
+	@FindBy (xpath = "//input[@id = 'i0116']")
+	WebElement microsoftsignin;
+	
+	@FindBy (xpath = "//input[@id = 'idSIButton9']")
+	WebElement nextbutton;
+	
+	@FindBy (xpath = "//a [@id = 'MainContent_dtlMainMenuSales_lnkMenuText_0']")
+	WebElement Searchcustomer;
+	
+	@FindBy (xpath = "//input[@id = 'MainContent_txtFName']")
+	WebElement CustomerFisrtname;
+	
+	@FindBy (xpath = "//input[@id = 'MainContent_txtLName']")
+	WebElement CustometLastName;
+	
+	@FindBy (xpath = "//a [@id = 'MainContent_dtlMainMenuSales_lnkMenuText_5']")
+	WebElement Searchorder;
+	
+	@FindBy (xpath = "//input[@id 'MainContent_txtOrderID']")
+	WebElement Searchorderid;
+	
+	@FindBy (xpath = "//input[@id= 'MainContent_imgbtnFilter']")
+	WebElement clickonSearch;
+	
+	@FindBy (xpath = "//img [contains(@class,'aspNetDisabled')]")
+	WebElement lobimg;
+	
+	
+	
+
+}

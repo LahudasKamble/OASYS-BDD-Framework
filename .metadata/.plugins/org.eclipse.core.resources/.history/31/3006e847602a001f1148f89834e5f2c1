@@ -1,0 +1,137 @@
+package PageObject;
+
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
+import org.openqa.selenium.JavascriptExecutor;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.support.FindBy;
+import org.openqa.selenium.support.PageFactory;
+
+public class BusinessTVFlowPage {
+	
+	WebDriver ldriver;
+	
+	Logger logger = LogManager.getLogger(AdvantageVoiceFlowPage.class);
+	
+	public BusinessTVFlowPage(WebDriver rdriver) {
+		
+		ldriver= rdriver;
+		
+	PageFactory.initElements(rdriver,this);
+	}
+	
+	@FindBy(xpath = "//input[@id='MainContent_dlBusiness_btnLink_1']")
+	WebElement clickonadvantagevoice;
+	
+	@FindBy (xpath = "//td[./span[normalize-space()='Basic TV Bar & Restaurants(BAS2) (BAS2)']]//following-sibling::td//img[contains(@id,'MainContent_ctl00_dlPackageGroup_dlPackageList_0_imgbtnAddDelete_0')]")
+	WebElement clickonaddpackagebutton;
+	
+	@FindBy (xpath = "//input[@id = 'MainContent_imgbtnContinue']")
+	WebElement continuebuttonpackagepage;
+	
+	@FindBy (xpath = "//input[@name ='ctl00$MainContent$ctl00$rpHardwareList$ctl01$ImgBtnRent']")
+	WebElement addbuttonHardwarepage;
+
+	@FindBy (xpath = "//input[@id = 'MainContent_imgbtnContinue']")
+	WebElement continuebuttonhardwarepage;
+
+	@FindBy (xpath = "// *[@id = 'MainContent_ctl00_dlstFeature_imgbtnAddDelete_0']")
+	WebElement Addbuttonfeaturepage;
+
+	@FindBy (xpath = "//input[@id = 'MainContent_imgbtnContinue']")
+	WebElement continuebuttonfeaturepage;
+	
+	@FindBy(xpath = "//input[@id='MainContent_imgbtnContinue']")
+	WebElement clickoncontinuethemepack;
+
+	@FindBy(xpath = "//input[@id='MainContent_imgbtnContinue']")
+	WebElement clickoncontinuechannel;
+	
+	@FindBy (xpath = "//input[@id ='MainContent_imgCblInstallationPopup']")
+	WebElement clickaddinstallation;
+
+	@FindBy (xpath = "//iframe[@name= 'rdAddItem']")
+	WebElement ifreameinstalltion;
+
+	@FindBy (xpath ="//td[./span[normalize-space()='AV install']]//following-sibling::td//img[contains(@id,'UCBundleSalesFlow_dlInstallation_imgbtnAddDelete_0')]")
+	WebElement addinstallation;
+
+	@FindBy (xpath = "//input[@id = 'imgbtnSave']")
+	WebElement clickonsave;
+	
+	@FindBy (xpath = "//*[@id='MainContent_ImgBtnSaveOrder']")
+	WebElement clickoncheckoutbtn;
+	
+	
+	public void addbAdvantagevoiceproduct() {
+		
+		logger.info("Started : Click on Advantage voice product");
+		clickonadvantagevoice.click();
+		logger.info("Completed : Click on Advantage voice product");
+	}
+
+    public void addbAdvantagevoicepackage() throws InterruptedException {
+		
+    	logger.info("Started : Add the Advantage voice Package");
+    	Thread.sleep(2000);
+    	clickonaddpackagebutton.click();
+    	Thread.sleep(2000);
+    	Scrolldown();
+    	clickonaddLDpackagebutton.click();
+    	continuebuttonpackagepage.click();
+    	logger.info("Completed : Add the Advantage voice Package");
+	}
+    
+    public void addbAdvantagevoiceHardware() throws InterruptedException {
+		
+    	logger.info("Started : Add the Advantage voice Hardware");
+    	Thread.sleep(2000);
+    	addbuttonHardwarepage.click();
+    	continuebuttonhardwarepage.click();
+    	logger.info("completed : Add the Advantage voice Hardware");
+	}
+    
+   public void addbAdvantagevoiceFeature() throws InterruptedException {
+		
+    	logger.info("Started : Add the Advantage voice feature");
+    	Thread.sleep(2000);
+    	Addbuttonfeaturepage.click();
+    	continuebuttonfeaturepage.click();
+    	logger.info("completed : Add the Advantage voice Feature");
+	}
+   
+   public void clickOnAddInstallationAndPromotion() throws InterruptedException 
+	{
+		logger.info("started:clickOnAddInstallationAndPromotion");
+		String title = ldriver.getTitle();
+		logger.info("Title is :"+title);
+		/*JavascriptExecutor j = (JavascriptExecutor)ldriver;
+		j.executeScript("window.scrollBy(0,500)");*/
+		JavascriptExecutor j = (JavascriptExecutor)ldriver;
+		j.executeScript("window.scrollBy(0,700)");
+		Thread.sleep(1000);
+		clickaddinstallation.click();
+		ldriver.switchTo().frame(ifreameinstalltion);
+		Thread.sleep(1000);
+		addinstallation.click();
+		clickonsave.click();
+		clickoncheckoutbtn.click();
+		/*By aadbuttun = By.xpath("//td[./span[normalize-space()='"+installName.trim()+"']]//following-sibling::td//img[contains(@id,'_imgbtnAddDelete_')]");
+		click(aadbuttun);
+		click(saveButton);
+		waitForPageToLoad();
+		click(addPromotionAndDiscountBtn);
+		switchToIframe(singlePromotionPopUp);
+		click(singleProductPromo);
+		click(singleProductCheckBox);
+		waitFor(1);
+		click(saveAndContinue);
+		waitFor(2);
+		click(checkOut);*/
+		logger.info("Completed:clickOnAddInstallationAndPromotion");
+	}
+}
+
+
+}

@@ -1,0 +1,35 @@
+package com.mystore.pageobject;
+
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.support.FindBy;
+import org.openqa.selenium.support.PageFactory;
+
+public class myAccount {
+	
+	WebDriver ldriver;
+	
+	public myAccount(WebDriver rdriver) {
+		
+		ldriver =rdriver;
+		
+		PageFactory.initElements(rdriver, this);
+	}
+
+	
+	@FindBy (id = "email_create")
+	WebElement CreateEmailid;
+	
+	@FindBy (id ="SubmitCreate")
+	WebElement submitcreate;
+	
+	public void entercreateemailidaddress(String emailid) {
+		
+		CreateEmailid.sendKeys(emailid);
+	}
+	
+	public void entersubmitcreate() {
+		
+		submitcreate.click();
+	}
+}

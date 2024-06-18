@@ -1,0 +1,587 @@
+package PageObject;
+
+import java.io.IOException;
+import java.util.List;
+import java.util.concurrent.TimeUnit;
+
+import org.apache.hc.core5.util.Timeout;
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
+import org.openqa.selenium.By;
+import org.openqa.selenium.TimeoutException;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.interactions.Action;
+import org.openqa.selenium.interactions.Actions;
+import org.openqa.selenium.support.FindBy;
+import org.openqa.selenium.support.PageFactory;
+import org.openqa.selenium.support.ui.Select;
+import org.openqa.selenium.support.ui.Wait;
+import org.openqa.selenium.support.ui.WebDriverWait;
+
+import ch.qos.logback.core.util.Duration;
+import io.cucumber.core.logging.LoggerFactory;
+
+public class BusinessPhoneFlowPage {
+
+
+	public WebDriver ldriver;
+
+	Logger logger = LogManager.getLogger(BusinessPhoneFlowPage.class);
+
+
+	//Constructed
+
+	public BusinessPhoneFlowPage(WebDriver rdriver) {
+
+		ldriver = rdriver;
+
+		PageFactory.initElements(rdriver , this);
+
+	}
+
+
+	@FindBy (id = "MainContent_imgbtnSSO")
+	WebElement Rogersidbutton;
+
+	@FindBy (xpath = "//input[@type ='email']")
+	WebElement useremailid;
+
+	@FindBy (xpath = "//input[@type ='password']")
+	WebElement Userpassword;
+
+	@FindBy (xpath = "//input[@type='submit']")
+	WebElement clickonsigninbtn;
+
+	@FindBy (xpath = "//div[@id ='idDiv_SAOTCAS_Title']")
+	WebElement Rogersimg;
+
+	@FindBy (xpath = "//input[@type ='submit']")
+	WebElement nextbutton;
+
+	@FindBy (xpath = "//*[@id ='Image3']")
+	WebElement rogerseimage;
+
+	@FindBy (xpath = "//a[@id = 'MainContent_dtlMainMenuSales_lnkMenuText_0']")
+	WebElement Searchcustomer;
+
+	@FindBy (xpath = "//input[@id = 'MainContent_txtFName']")
+	WebElement CustomerFisrtname;
+
+	@FindBy (xpath = "//input[@id = 'MainContent_txtLName']")
+	WebElement CustometLastName;
+
+	@FindBy (xpath = "//a[@id = 'MainContent_dtlMainMenuSales_lnkMenuText_5']")
+	WebElement Searchorder;
+
+	@FindBy (xpath = "//input[@id 'MainContent_txtOrderID']")
+	WebElement Searchorderid;
+
+	@FindBy (xpath = "//input[@id= 'MainContent_imgbtnFilter']")
+	WebElement clickonSearch;
+
+	@FindBy (xpath = "//img[contains(@class,'aspNetDisabled')]")
+	WebElement lobimg;
+
+	@FindBy (xpath = "//input[@id ='autocomplete']")
+	WebElement enteraddress;
+
+	@FindBy (xpath = "//*[@class='pcaautocomplete pcatext']/div[2]/div[1]")
+	WebElement Addressname;
+
+	@FindBy (xpath = "//input[@id = 'MainContent_imgbtnNewProspect']")
+	WebElement WirelessBusinessSHMorderbutton;
+
+	@FindBy (xpath = "//input[@id = 'MainContent_dlBusiness_btnLink_5']")
+	WebElement clickonBusinessPhone;
+
+	@FindBy (xpath = "//iframe[@name = 'RadWindow1']")
+	WebElement frame;
+
+	@FindBy (xpath = "//input[@id= 'imgSaveCustomerDetails']")
+	WebElement continuebtnLaunchSalesFlowPopup;
+
+	@FindBy (xpath = "//td[./span[normalize-space()='BP-Term Checked 3 (V5)']]//following-sibling::td//img[contains(@id,'_imgbtnAdd_')]")
+	WebElement addbutton;
+
+	@FindBy (xpath = "//iframe[contains(@name,'ctl00_MainContent_ucCBLSideShoppingCart1_Singleton')]")
+	WebElement framePackage;
+
+	@FindBy (xpath = "//*[@id='grdAssociations_ctl00_ctl07_chkIsAdded']")
+	WebElement businessPlanCheckBox;
+
+	@FindBy (xpath = "//*[@id='imgSaveValidate']")
+	WebElement continueBtnFrame;
+
+	@FindBy (xpath = "//td[./span[normalize-space()='TEST_North America Long Distance ($0.03/min) (SR2)']]//following-sibling::td//img[contains(@id,'_imgbtnAdd_')]")
+	WebElement addbuttonLDPackage;
+
+	@FindBy (xpath = "//input[@id = 'MainContent_imgbtnContinue']")
+	WebElement continuebuttonpackagepage;
+
+	@FindBy (xpath = "//input[@name ='ctl00$MainContent$ctl00$rpHardwareList$ctl01$ImgBtnRent']")
+	WebElement addbuttonHardwarepage;
+
+	@FindBy (xpath = "//input[@id = 'MainContent_imgbtnContinue']")
+	WebElement continuebuttonhardwarepage;
+
+	@FindBy (xpath = "// *[@id = 'MainContent_ctl00_dlstFeature_imgbtnAddDelete_4']")
+	WebElement Addbuttonfeaturepage;
+
+	@FindBy (xpath = "//input[@id = 'MainContent_imgbtnContinue']")
+	WebElement continuebuttonfeaturepage;
+
+	@FindBy (xpath = "//input[@id = 'MainContent_imgCblInstallationPopup']")
+	WebElement clickaddinstallation;
+
+	@FindBy (xpath = "//iframe[@name= 'rdAddItem']")
+	WebElement ifreameinstalltion;
+
+	@FindBy (xpath ="//*[@id ='UCBundleSalesFlow_dlInstallation_imgbtnAddDelete_2']")
+	WebElement addinstallation;
+
+	@FindBy (xpath = "//input[@id = 'imgbtnSave']")
+	WebElement clickonsave;
+
+	@FindBy (xpath = "//*[@id='MainContent_imgCblPromoPopup']")
+	WebElement addpromoanddiscountbtn;
+
+	@FindBy (xpath = "//iframe[@name='RadPromotionPopup']")
+	WebElement singlePromotionPopUp;
+
+	@FindBy (xpath = "//*[@id='imgSinglePromo']")
+	WebElement singleProductPromo;
+
+	@FindBy (xpath = "//*[@id='grdSinglePromo_ctl00_ctl04_chkIsAdded']")
+	WebElement singleProductCheckBox;
+
+	@FindBy (xpath= "//*[@id='imgSavePromotions']")
+	WebElement saveAndContinue;
+
+	@FindBy (xpath = "//*[@id='MainContent_ImgBtnSaveOrder']")
+	WebElement clickoncheckoutbtn;
+
+	@FindBy (xpath = "//*[@id = 'MainContent_ucLNP_txtSpecialRequirement']")
+	WebElement textarea1;
+
+	@FindBy (xpath = "//*[@id = 'MainContent_ucLNP_txtAdditionalEquipments']")
+	WebElement textarea2;
+
+	@FindBy (xpath = "//input [@id ='MainContent_ucLNP_chkIsAccountChangesAuthority']")
+	WebElement Accountchangesauthritycheckbox;
+
+	@FindBy (xpath = "//*[@id = 'id=\"MainContent_ucLNP_txtRogersAccessTypeAndAssociatedAccountNumber\"']")
+	WebElement textarea3;
+
+	@FindBy (xpath = "//*[text() ='Line #1']")
+	WebElement Availablelines;
+
+	@FindBy (xpath = "//*[@id = 'MainContent_ucLNP_lnkNative']")
+	WebElement nativelink;
+
+	@FindBy (xpath = "//input[@id = 'MainContent_ucLNP_txtOutboundCallDisplayName']")
+	WebElement inputname;
+
+	@FindBy (xpath = "//input[@id = 'MainContent_ucLNP_rdoHSICList_2']")
+	WebElement Noneradiobtn;
+
+	@FindBy (xpath = "//input[@id = 'MainContent_ucLNP_chkCustomerAcknowledgeProceedWithOrder']")
+	WebElement internetservicecheckbox;
+
+	@FindBy (xpath = "//input=[@id = 'MainContent_imgbtnContinue']")
+	WebElement continuebtn;
+
+	@FindBy (xpath = "//select=[contains (@name,'ctl00$MainContent$ucOrderAccountInformation1$ddlBillingLanguage')]")
+	WebElement Billinglanguage;
+
+	@FindBy (xpath = "//input[@id = 'MainContent_ucOrderAccountInformation1_rdbBusinessContPref1']//following-sibling::label")
+	WebElement preferredRadioBtn;
+
+	@FindBy (xpath = "//input=[@id = 'MainContent_ucOrderAccountInformation1_txtDecisionMakerName']")
+	WebElement decisionMakerName ;
+
+	@FindBy (xpath = "//input=[@id = 'ctl00_MainContent_ucOrderAccountInformation1_txtDecisionMakerNo']")
+	WebElement decisionMakerNum;
+
+	@FindBy (xpath = "//input=[@id = 'ctl00_MainContent_ucOrderAccountInformation1_txtDecisionMakerNoExt']")
+	WebElement decisionMakerExt;
+
+	@FindBy (xpath = "//input=[@id = 'MainContent_ucOrderAccountInformation1_txtDecisionmakerEmail']")
+	WebElement decisionMakerEmail;
+
+	@FindBy (xpath = "//input=[@id = 'MainContent_ucOrderAccountInformation1_txtSiteContactFullName']")
+	WebElement siteContactFullName;
+
+	@FindBy (xpath = "//input=[@id = 'ctl00_MainContent_ucOrderAccountInformation1_txtSiteContactNo']")
+	WebElement siteContactNum;
+
+	@FindBy (xpath = "//input=[@id = 'ctl00_MainContent_ucOrderAccountInformation1_txtSiteContactNoExt']")
+	WebElement siteContactExt;
+
+	@FindBy (xpath = "//input=[@id = 'MainContent_ucOrderAccountInformation1_txtSiteEmailAddress']")
+	WebElement siteContactEmail;
+
+	@FindBy (xpath = "//*=[@id = 'MainContent_ucOrderAccountInformation1_ddlDecisionMaketPreferredContactTime']")
+	WebElement preferredContactTime;
+
+	@FindBy (xpath = "//*=[@id = 'MainContent_ucOrderAccountInformation1_ddlSitePreferredContactTime']")
+	WebElement alternateContactTime;
+
+	@FindBy (xpath = "//*=[@id = 'ctl00_MainContent_ucOrderAccountInformation1_txtDayofInstallPhoneNumber']")
+	WebElement installContactNum;
+
+	@FindBy (xpath = "//span[text()='Bundle Appointment Date']/../following-sibling::td[1]//*[@class='rcCalPopup']")
+	WebElement bundleAppointmentDateCal;
+
+	@FindBy (xpath = "//select[@id='MainContent_ucOrderAccountInformation1_ddlPreferredDayTime']")
+	WebElement selectAppointmentDate;
+
+	@FindBy (xpath = "//*[@title = 'Monday, June 10, 2024'])[1]")
+	WebElement calnderdate;
+
+	@FindBy (xpath = "//*[@title = 'Monday, June 27, 2024'])[1]")
+	WebElement calnderdate2;
+
+	@FindBy (xpath = "//span[normalize-space(text())='Alternate Bundle Appointment Date']/../following-sibling::td[1]//*[@class='rcCalPopup']")
+	WebElement alternateappointmentDateCal;
+
+	@FindBy (xpath = "//select[@id='MainContent_ucOrderAccountInformation1_ddlAlternatePreferredDayTime']")
+	WebElement alternatePreferredDayTime;
+
+	@FindBy (xpath = "//*=[@id = 'ddlSelfServeAppointmentContactTime']")
+	WebElement preferredActivation;
+
+	@FindBy (xpath = "//*=[@id = 'ctl00_MainContent_ucOrderAccountInformation1_rdpselfServeRaddatepicker_popupButton']")
+	WebElement datepicker_popupButton;
+
+	@FindBy (xpath = "//*=[@id = 'MainContent_imgbtnContinue']")
+	WebElement continueBtnAccInfo;
+
+	@FindBy (xpath = "//select =[@name = 'ctl00$MainContent$ucOrderAddressDetails1$ddlBusinesstype']")
+	WebElement BusinessType;
+
+	@FindBy (xpath = "//*=[@id = 'MainContent_ucOrderAddressDetails1_txtBillingAddress_CompanyName']")
+	WebElement companynamebilling;
+
+	@FindBy (xpath = "//*=[@id = 'MainContent_ucOrderAddressDetails1_txtServiceAddress_CompanyName']")
+	WebElement companynameservice;
+
+	@FindBy (xpath = "//*=[@id = 'MainContent_ucOrderAddressDetails1_ucBillingAddress_txtAddressInformationEmail']")
+	WebElement addressInformationEmail;
+
+	@FindBy (xpath = "//*=[@id = 'MainContent_ucOrderAddressDetails1_ucBillingAddress_txtAddressInformationPhone']")
+	WebElement addressInformationPhone;
+
+	@FindBy (xpath = "//*=[@id = 'MainContent_ucOrderAddressDetails1_ucServiceAddress_txtAddressInformationEmail']")
+	WebElement serviceInformationEmail;
+
+	@FindBy (xpath = "//*=[@id = 'MainContent_ucOrderAddressDetails1_ucServiceAddress_txtAddressInformationPhone']")
+	WebElement serviceInformationPhone;
+
+	@FindBy (xpath = "//*=[@id = 'MainContent_imgbtnContinue']")
+	WebElement continueBtaddressInfo;
+
+	@FindBy (xpath = "//input=[contains(@name,'ctl00$MainContent$ctl20$txtGSTIssuerID')]")
+	WebElement hstGstId;
+
+	@FindBy (xpath = "//*=[@id = 'MainContent_ImgBtnSave' and @src='images/btn_shm_continue.png']")
+	WebElement continuecustomercreditInfo;
+
+	@FindBy (xpath = "//*=[@id = 'MainContent_imgbtnTermAndConditions']")
+	WebElement termsAndCondition;
+
+	@FindBy (xpath = "//*=[@id = 'MainContent_imgOptions_Email']")
+	WebElement emailComfirmation;
+
+	@FindBy (xpath = "//*=[@id = 'MainContent_imgbtnContinue']")
+	WebElement continueBtnordersummary;
+
+	@FindBy (xpath = "//*=[@id = 'lnkHome']")
+	WebElement Homebtn;
+
+	@FindBy (xpath ="//*[@id='MainContent_dlOrderInformation_lblQuoteNo_0']")
+	WebElement orderid;
+
+	@FindBy (xpath = "//*[@id='MainContent_lblMessageTop']")
+	WebElement ordemsg;
+
+	@FindBy (xpath= "//*[@id='MainContent_dtlMainMenuSales_lnkMenuText_4']")
+	WebElement searchorder;
+
+	@FindBy (xpath ="//*[@id='MainContent_txtOrderID']")
+	WebElement oderidbox;
+
+	@FindBy (xpath = "//*[@id='MainContent_imgbtnFilter']")
+	WebElement searchbtn;
+
+
+	@FindBy ( xpath = "//*[@src='Images/icon-ordertype-business-phone.png']")
+	WebElement businessPhoneIMG;
+
+	@FindBy (xpath = "//*[@src='Images/btn-icon-vieworder.png']")
+	WebElement searchIcon;
+
+	@FindBy (xpath = "//span[text()='Business Phone']")
+	WebElement businessPhoneText;
+
+
+
+	public void clickonrogersidbtn() {
+
+		logger.info("Started : ClickonRogersbtn");
+		Rogersidbutton.click();
+		logger.info("completed : ClickonRogersbtn");
+	}
+
+	public void useremail(String emailid) throws InterruptedException {
+
+		logger.info("Started : Enter useremailid");
+		Thread.sleep(5000);
+		useremailid.clear();
+		useremailid.sendKeys(emailid);
+		logger.info("Completed : enter useremailid");
+
+	}
+
+	public void userpassword(String password) throws InterruptedException {
+		logger.info("started : enterpassword");
+		
+		Thread.sleep(3000);
+		Userpassword.clear();
+		Userpassword.sendKeys(password);
+		logger.info("completed : enterpassword");
+	}
+
+	public void signinbtn() throws InterruptedException {
+		logger.info("started : clickonsigninbtn");
+		//Thread.sleep(3000);
+		clickonsigninbtn.click();
+		logger.info("completed : clickonsigninbtn");
+	}
+
+	public void blankpage() throws InterruptedException {
+		
+		logger.info("started : rogersimg");
+		Thread.sleep(3000);
+		String img = ldriver.getTitle();
+		Rogersimg.click();
+		logger.info("completed : rogersimg");
+	}
+	
+	public void verifyTheRogersImg() throws InterruptedException {
+
+		logger.info("started : clickonnextbtn");
+		 //ldriver.manage().timeouts().implicitlyWait(Duration.buildBySeconds(30));
+//		Wait<WebDriver> wait = new WebDriverWait(ldriver, Duration.ofSeconds(2));
+//		wait.until(nextbutton -> revealed.isDisplayed());
+		Thread.sleep(5000);
+		
+		if(nextbutton.isDisplayed()) {
+			
+			nextbutton.click();
+		}
+		
+		logger.info("completed : clickonnextbtn");
+		//		logger.info("Started:verifyTheRogersImg");
+		//		Boolean img = rogerseimage.isDisplayed();
+		//		if(img.equals(img)) {
+		//			
+		//			logger.info(img);
+		//		}
+		//		   
+		//		logger.info("Completed:verifyTheBannerDisplayed");
+		//
+	}
+	public void clickOnSearchCustomer() {
+		logger.info("started : clickOnSearchCustomer");
+		Searchcustomer.click();
+		logger.info("completed : clickOnSearchCustomer");
+	}
+
+	public void entercustomerFnameandlname(List<String> List) {
+
+		logger.info("started : entercutomerfirstnameAndlastname");
+		CustomerFisrtname.sendKeys(List.get(0));
+		CustometLastName.sendKeys(List.get(1));
+		logger.info("completed : entercutomerfirstnameAndlastname");
+
+	}
+
+	public void enteraddressinaddresssearch(List<String> List) {
+
+		logger.info("Started:enterAddressInAddressSearch");
+		enteraddress.sendKeys(List.get(0));
+		Actions act = new Actions(ldriver);
+		act.moveToElement(Addressname).click().perform();
+		logger.info("completed:enterAddressInAddressSearch");
+
+	}
+
+	public void clickOnWireLessBusinessOrder() {
+		logger.info("Started:clickOnWireLessBusinessOrder");
+		//clickUsingAction(wirelessBusinessSHMOrderBtn);
+		WirelessBusinessSHMorderbutton.click();
+		logger.info("Completed:clickOnWireLessBusinessOrder");
+	}
+
+	public void clickOnBusinessPhone() throws InterruptedException {
+		logger.info("Started:clickOnBusinessPhone");
+		Thread.sleep(1000);
+		String title = ldriver.getTitle();
+		logger.info("Title is :"+title);
+		clickonBusinessPhone.click();
+		logger.info("Completed:clickOnBusinessPhone");
+	}
+	public void clickoncontinuebtnonpopup() {
+
+		logger.info("Started:clickOnContinueBtnOnPopup");
+		ldriver.switchTo().frame(frame);
+		continuebtnLaunchSalesFlowPopup.click();
+		logger.info("completed:clickOnContinueBtnOnPopup");
+	}
+
+	public void addpackagesbusinessphone() throws InterruptedException {
+
+		logger.info("Strated : AddpackageBusiessphone");
+		String title = ldriver.getTitle();
+		logger.info("Title is :" +title);
+		addbutton.click();
+		Thread.sleep(1000);
+		addbuttonLDPackage.click();
+		continuebuttonpackagepage.click();
+		Thread.sleep(3000);
+		logger.info("Completed : AddpackageBusiessphone");
+
+	}
+
+	public void clickPlusButtonOnHardwarePage() {
+		logger.info("started:clcikPlusButtonOnHardwarePage");
+		addbuttonHardwarepage.click();
+		continuebuttonhardwarepage.click();    
+		logger.info("Completed:clcikPlusButtonOnHardwarePage");
+	}
+
+	public void clickAddFreaturePageBusinessPhone() {
+		logger.info("started:clcikAddFreaturePageBusinessPhone");
+		Addbuttonfeaturepage.click();
+		continuebuttonfeaturepage.click();   
+		logger.info("Completed:clcikAddFreaturePageBusinessPhone");
+	}
+
+	public void clickOnAddInstallationAndPromotion() throws InterruptedException {
+		logger.info("started:clickOnAddInstallationAndPromotion");
+		String title = ldriver.getTitle();
+		logger.info("Title is :"+title);
+		clickaddinstallation.click();
+		ldriver.switchTo().frame(ifreameinstalltion);
+		Thread.sleep(1000);
+		addinstallation.click();
+		clickonsave.click();
+		clickoncheckoutbtn.click();
+		//       By aadbuttun = By.xpath("//td[./span[normalize-space()='"+installName.trim()+"']]//following-sibling::td//img[contains(@id,'_imgbtnAddDelete_')]");
+		//       click(aadbuttun);
+		//        click(saveButton);
+		//        waitForPageToLoad();
+		//        click(addPromotionAndDiscountBtn);
+		//        switchToIframe(singlePromotionPopUp);
+		//        click(singleProductPromo);
+		//        click(singleProductCheckBox);
+		//        waitFor(1);
+		//        click(saveAndContinue);
+		//        waitFor(2);
+		//        click(checkOut);
+		logger.info("Completed:clickOnAddInstallationAndPromotion");
+	}
+
+	public void userinformationBusinessphone(List<String> List) throws InterruptedException {
+		logger.info("Strated : UserinformationBusinessphone");
+		Thread.sleep(2000);
+		String title = ldriver.getTitle();
+		logger.info("Title is : " +title);
+		textarea1.sendKeys(List.get(0));
+		textarea2.sendKeys(List.get(1));
+		Accountchangesauthritycheckbox.click();
+		textarea3.sendKeys(List.get(2));
+		Availablelines.click();
+		nativelink.click();
+		Thread.sleep(2000);
+		inputname.sendKeys(List.get(3));
+		Noneradiobtn.click();
+		internetservicecheckbox.click();
+		continuebtn.click();
+		logger.info("completed : UserinformationBusinessphone");
+	}
+
+	public void accountinformationpage(List<String> List) throws InterruptedException {
+
+		logger.info("Started : Accountinformationpage");
+		Thread.sleep(2000);
+		String title = ldriver.getTitle();
+		logger.info("Title is :"+ title);
+		Select billinglng = new Select(Billinglanguage);
+		billinglng.selectByVisibleText(List.get(0));
+		preferredRadioBtn.click();
+		decisionMakerName.sendKeys(List.get(1));
+		decisionMakerNum.sendKeys(List.get(2));
+		decisionMakerExt.sendKeys(List.get(3));
+		decisionMakerEmail.sendKeys(List.get(4));
+		siteContactFullName.sendKeys(List.get(5));
+		siteContactNum.sendKeys(List.get(6));
+		siteContactExt.sendKeys(List.get(7));
+		siteContactEmail.sendKeys(List.get(8));
+		Select contacttime = new Select(preferredContactTime);
+		contacttime.selectByVisibleText(List.get(9));
+		Select acontacttime = new Select(alternateContactTime);
+		acontacttime.selectByVisibleText(List.get(10));
+		installContactNum.sendKeys(List.get(11));
+		Thread.sleep(2000);
+		bundleAppointmentDateCal.click();
+		calnderdate.click();
+		selectAppointmentDate.sendKeys(List.get(12));
+		Thread.sleep(2000);
+		alternateappointmentDateCal.click();
+		calnderdate2.click();
+		alternatePreferredDayTime.sendKeys(List.get(13));
+		continueBtnAccInfo.click();
+		logger.info("completed : Accountinformationpage");
+	}
+
+	public void fillAddressInfoBusinessPhone(List<String> List) throws InterruptedException {
+		logger.info("Started:fillAddressInfoBusinessPhone");
+		Thread.sleep(2000);
+		String title = ldriver.getTitle();
+		logger.info("Title is :"+title);
+		Select Businesstype = new Select(BusinessType);
+		Businesstype.selectByVisibleText(List.get(0));
+		companynamebilling.sendKeys(List.get(1));
+		companynameservice.sendKeys(List.get(1));
+		addressInformationEmail.sendKeys(List.get(2));
+		addressInformationPhone.sendKeys(List.get(3));
+		serviceInformationEmail.sendKeys(List.get(4));
+		serviceInformationPhone.sendKeys(List.get(5));
+		continueBtaddressInfo.click();
+		logger.info("Completed:fillAddressInfoBusinessPhone");
+	}
+
+	public void fillCustomerCreditInfo(String id) throws InterruptedException {
+		logger.info("Started:fillCustomerCreditInfo");
+		Thread.sleep(2000);
+		String title = ldriver.getTitle();
+		logger.info("Title is :"+title);
+		hstGstId.sendKeys(id);
+		continuecustomercreditInfo.click(); 
+		logger.info("Completed:fillCustomerCreditInfo");
+	}
+
+	public void clickOnEmailConfirmation() throws InterruptedException {
+		logger.info("Started:clickOnEmailConfirmation");
+		Thread.sleep(2000);
+		String title = ldriver.getTitle();
+		logger.info("Title is :"+title);
+		termsAndCondition.click();
+		emailComfirmation.click();
+		Thread.sleep(3000);
+		continueBtnordersummary.click();
+		logger.info("Completed:clickOnEmailConfirmation");
+	}
+}

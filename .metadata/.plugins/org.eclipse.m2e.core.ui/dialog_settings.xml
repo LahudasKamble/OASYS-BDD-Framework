@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+			<item value="C:\Users\User\eclipse-workspace"/>
+			<item value="C:\Users\User\eclipse-workspace\DemoProject"/>
+			<item value="C:\New folder"/>
+			<item value="C:\OASYS BDD FRAMEWORK"/>
+			<item value="C:\OASYS BDD FRAMEWORK\OASYSPROJECT"/>
+			<item value="C:\Users\User\eclipse-workspace\DemoProject\src\main\resource\extent-config.xml"/>
+			<item value="C:\Users\User\Desktop\FrameworkBDD"/>
+			<item value="C:\Users\User\Desktop\DemoProject"/>
+			<item value="C:\Users\User\eclipse-workspace\CucumberFramework00"/>
+			<item value="C:\BDD Framwork"/>
+			<item value="C:\Users\User\Desktop\BDDFramework"/>
+			<item value="C:\Users\User\Desktop\FrameworkCucumber"/>
+			<item value="C:\Users\User\eclipse-workspace\BDD CUCUMBER\CucumberFramework"/>
+			<item value="C:\Users\User\eclipse-workspace\BDD CUCUMBER"/>
+			<item value="C:\Users\User\eclipse-workspace\FrameworkBDD"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<item key="catalog" value="internal"/>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+			<item value="DDFramework.DDFramework"/>
+			<item value="OasysProject1.OasysProject1"/>
+			<item value="OasysProject.OasysProject"/>
+			<item value="OASYS.OASYS"/>
+			<item value="OasysBDD.OasysBDD"/>
+			<item value="OASYSPROJECTBDD.OASYSPROJECTBDD"/>
+			<item value="OASYSPROJECT.OASYSPROJECT"/>
+		</list>
+		<list key="groupId">
+			<item value="DDFramework"/>
+			<item value="OasysProject1"/>
+			<item value="OasysProject"/>
+			<item value="OASYS"/>
+			<item value="OasysBDD"/>
+			<item value="OASYSPROJECTBDD"/>
+			<item value="OASYSPROJECT"/>
+		</list>
+		<list key="artifactId">
+			<item value="DDFramework"/>
+			<item value="OasysProject1"/>
+			<item value="OasysProject"/>
+			<item value="OASYS"/>
+			<item value="OasysBDD"/>
+			<item value="OASYSPROJECTBDD"/>
+			<item value="OASYSPROJECT"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="wizardPage">
+		<list key="groupId">
+			<item value="OASYSPROJECT"/>
+			<item value="OASYSAutomation"/>
+			<item value="OASYS"/>
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+			<item value="OASYSPROJECT"/>
+			<item value="OASYSAutomation"/>
+			<item value="OASYS"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="org.eclipse.m2e.core.ui.internal.wizards.CustomArchetypeDialog">
+		<list key="archetypeGroupId">
+			<item value="ironlogic"/>
+		</list>
+		<list key="archetypeArtifactId">
+			<item value="oasys"/>
+		</list>
+		<list key="archetypeVersion">
+			<item value="1"/>
+		</list>
+		<list key="repositoryUrl">
+			<item value=""/>
+		</list>
+	</section>
+</section>

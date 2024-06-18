@@ -1,0 +1,29 @@
+package StepDefination;
+
+
+
+import org.apache.commons.lang.RandomStringUtils;
+import org.openqa.selenium.WebDriver;
+
+import PageObject.AddNewCustomerPgae;
+import PageObject.LoginPage;
+import PageObject.SearchCustomerPage;
+
+/* Parent Class */
+public class BaseClass {
+
+
+	public WebDriver driver;
+	public LoginPage loginpage;
+	public AddNewCustomerPgae addnewcustomerpage;
+	public SearchCustomerPage searchcustomerpg;
+	public static Logger log;
+	
+	
+	// generate unique email id //
+	public String genrateemailid() 
+	
+	{
+		return(RandomStringUtils.randomAlphabetic(5));
+	}
+}
